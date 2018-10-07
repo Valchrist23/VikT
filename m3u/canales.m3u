@@ -1,0 +1,313 @@
+﻿#EXTM3U
+
+#EXTINF:1,CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:1,SlynetTV
+http://live.slynet.tv/promoslynetiptv1?.m3u8
+#EXTINF:1,CANAL 5 chv
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1, Azteca Uno HD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1, Azteca 13 | SD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="ENTRETENIMIENTO",Azteca Mas (Mexico)
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1, Azteca 13 | SD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="ENTRETENIMIENTO",Azteca 7 (Mexico)
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+#EXTINF:-1, Azteca + Plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+
+#EXTINF:-1, ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8
+
+#EXTINF:-1, MIJAS tv
+http://195.10.10.201/mijas/live-hls/chunks.m3u8
+
+#EXTINF:-1, Multimedios TV
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1, Telesur Costarica |
+http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
+
+#EXTINF:-1, Telesur 
+https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
+
+#EXTINF:-1, Telesur
+http://ss1.domint.net:2110/tls_str/telesur/chunklist_w429089575.m3u8
+
+#EXTINF:-1, OnceTV 
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
+
+#EXTINF:-1, OnceTV 
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1, OnceTV 
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
+#EXTINF:-1, Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1, TELE sol
+http://149.56.98.124:9090/hls/telesol.m3u8
+#EXTINF:-1, Multimedios Canal 6 
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1,Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+#EXTINF:-1,Rai TV Italy
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1,Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
+#EXTINF:-1,Super TV
+http://wms.shared.streamshow.it/supertv/mp4:supertv/live.m3u8
+#EXTINF:-1,Super TV55
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+#EXTINF:-1,UATV
+http://v3.tustreaming.cl/tvautonoma/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:-1,T5
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+#EXTINF:-1, tvg-logo="xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim | HD
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+#EXTINF:-1,KidzTV
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:-1,NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,FoxMix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1,FENIX
+https://v3.ciclano.io:1443/fenixlarioja/_definst_/fenixlarioja/chunklist_w1713688974.m3u8
+#EXTINF:-1,EP
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:-1,Dijin A
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1,Dijin B
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1, Fasion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Hallmark Channel
+http://46.166.184.37:8554/trap/hallmark/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1,ENTRETENIMIENTO 2:FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,One
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59c2a1d622330_FXM(1).png.d6f1c7c3edd2b588d1913f57fc757f4d.png" group-title="Movies",FXM
+http://tvpremiumhd.club/lista-gratuita/sad/s98.ts
+
+#EXTINF:-1, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 ,Series y Cine Xtreme
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1, TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="http://www.toch.tv/toch2/wp-content/uploads/still__0016_Layer-49.jpg" group-title="USA",NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8? www.tecnotv.info?
+
+#EXTINF:-1,|ES|NEOX
+http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/625.ts
+
+#EXTINF:-1,|Music Retro
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
+
+#EXTINF:-1,|Holvoet
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Miami TV1
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
+#EXTINF:-1,Miami TV2
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1,MiamiSpain
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
+http://91.134.238.137/live/main/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV2
+http://91.134.238.137/live/goat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV4
+http://91.134.238.137/live/cawcaw1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://economistjobs.com/wp-content/uploads/2018/02/virgin-150x150.png" group-title="Music",Virgin Tv
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+
+#EXTINF:-1,Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1,Metal TV
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1,RetroTV Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1, Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Heavy MetalTV
+http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1,Wizard TV
+http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VnIIyjTDlYU/movieposter.jpg" group-title="MOVIES",The Shape of Water (2017)
+https://bobmovies.net/hl/The.Shape.of.Water.2017.m3u8
+#EXTINF:-1,Guardians of the Galaxy
+https://goo.gl/sFaEVq
+#EXTINF:-1,Coco
+http://condor1726.dedicatedpanel.com/CAM-PELIS/Coco.mp4
+#EXTINF:-1,BabyDriver
+http://cinevall.com/videos/baby_driver.m4v
+#EXTINF:-1,Sand Castle
+http://tecnotv.xyz/id=multi20/peliculas/sandcastle.php
+#EXTINF:-1,Seductor irresistible
+http://media-es-am.crackle.com/1/l/j0/pghyk_360p.mp4
+#EXTINF:-1,Brothers Grimm
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
+#EXTINF:-1, Cars3
+http://yunpengxiao.com/Cars.3.2017.720p.BluRay.x264-WiKi/Cars.3.2017.720p.BluRay.x264-WiKi.mkv
+#EXTINF:-1,BladeRunner 2017
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Blade%20Runner%202049.hdrip.720p.latino.gnula.mp4
+#EXTINF:-1, Sangre por Sangre
+https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:-1,Los Power Rangers
+http://bit.ly/2gbHp2p?JoCaRoMovie
+#EXTINF:-1,Annabelle La Creacion
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+#EXTINF:-1,LaMorgue
+https://ia601503.us.archive.org/32/items/Morgue20016PelixMax-1/Morgue20016.mp4
+#EXTINF:-1,Vida Inteligente
+https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
+#EXTINF:-1,Valerian
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:-1,Momia
+http://cecegeek@goo.gl/5wTGRK
+#EXTINF:-1,StripTease
+http://ow.ly/R9AG30eXNAI
+#EXTINF:-1,Baywatch
+http://bit.ly/2xHk92U
+#EXTINF:-1,Alicia Atravez del Espejo
+http://s1.gorilatv.club/media/4.mp4
+#EXTINF:-1,Pacific Rim 2
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Pacific.Rim.2.mp4
+#EXTINF:-1,Bleeding.Steel
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Bleeding.Steel.2017.mp4
+#EXTINF:-1,Ghost In The Shell
+https://archive.org/download/04052017AQCGH04052017298746/04052017AQCGH.mp4
+#EXTINF:-1,WonderWoman
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+#EXTINF:-1, Liga de la Justicia
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Liga%20De%20La%20Justicia%20Hdscr.lat.mp4
+#EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_02/58ad8fdade624_DCComics.png.063a5d2d653a050f492b168ccbb6ff8d.png" group-title="Movies", Justice League
+https://bobmovies.mrunlock.trade/hl/Justice.League.2017_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="CINE", Alien Covenant (2017)
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Silent_Hill_series_logo.png" group-title="Movies", Silent Hill
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29%20Dual%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",Training Day (2001)
+http://www.deadlyblogger.com/NewRelease/training.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Robocop_poster.jpg" group-title="SPANISH",RoboCop (2014)
+https://ia800305.us.archive.org/33/items/4obocop./4obocop..mp4
+#EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_02/Robocop.png.e2cb3be07580feb333835085ce9bdc69.png" group-title="English",RoboCop(1987)
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",Back to the Future (1985)
+http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%281985%29/Back%20To%20The%20Future%20%281985%29.mkv
+#EXTINF:-1 tvg-logo="http://eloquentscience.com/wp-content/uploads/2011/08/bttf2logo.jpg" group-title="Movies",Back_to_the_Future_2_(1989)
+http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back_to_the_Future_2_%281989%29/Back%20To%20The%20Future%202%20%281989%29.mkv
+#EXTINF:-1 tvg-logo="http://eloquentscience.com/wp-content/uploads/2011/08/bttf2logo.jpg" group-title="Movies",Back_to_the_Future_3_(1990)
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1, Ghostbusters
+http://85.93.89.22/downloads/Gh0stb4st3rs-1984-1080p-hdp0pc0rns.mp4?st=ewtkFPVi3zLcVhWelocsXA&e=1521012870
+#EXTINF:-1,  EL SENHOR DE LA GUERRA
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/teenage-mutant-ninja-turtles-the-movie-1990.30980.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles (1990)
+http://www.deadlyblogger.com/NewRelease/tmnt1.mp4
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/teenage-mutant-ninja-turtles-the-movie-1990.30980.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles (1990)
+https://srv25.vidzi.tv/hls2/dfuqjytk3i2qedz7nlyb5tjpkkyzkyiv57vhfvpba,b6bwtqkfm5nrywrjkxq,k4bwtqkfm5golbewhiq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
+http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bax6hItUe0XSeyO25J5V7hhgkkZ.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles III (1993)
+http://www.deadlyblogger.com/NewRelease/tmnt3.mp4
+#EXTINF:-1, Ninja Turtles Out of the Shadows
+https://srv35.vidzi.tv/hls2/mnuqjh3zqu2qedz7ninbvezkj2g3yhspwvex5d7vm,oksy4nbd4btjv4um6sq,fisy4nbd4b7dk7z67aa,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572092429-Imagen.png" group-title="Infantil",CARTOON NETWORK HD
+http://151.80.20.150:1935/cartoons4u/cartoons4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572092429-Imagen.png" group-title="Infantil",CARTOON NETWORK HD
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="Infantil", LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+XTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1, Tv Pop
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+#EXTINF:-1, Tv Pop
+http://v3.tustreaming.cl/tvpop/live1/tracks-v1a1/index.m3u8
+#EXTINF:-1,BLIZZ
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1,Kool LND Music
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
+
+#EXTINF:-1,Latinos:NexTV
+http://198.1.117.5:1935/live/livestream/master.m3u8
+#EXTINF:-1,Latinos:NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:-1,UTNTV
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/chunklist_w1603279060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas: Los simpson" tvg-logo="" group-title="General Streams",24 Horas: Los simpson
+https://59583158c050f.streamlock.net/7186/7186/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="24/7",Adult Swim Animation
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="24/7",Adult Swim Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="24/7",Adult Swim 
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fujitv.co.jp/common/images/logo_ogp.png" group-title="JAPAN",Fuji TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+
+#EXTINF:-1, Mola TV 
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png"",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1, Jasmin TV 
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Exxxtassy
+http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png"",Jasmin TV
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+
+
+
+
