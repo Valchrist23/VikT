@@ -74,12 +74,16 @@ https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunkli
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1,FoxMix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-
+#EXTINF:-1,FoxComedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1,FENIX
 https://v3.ciclano.io:1443/fenixlarioja/_definst_/fenixlarioja/chunklist_w1713688974.m3u8
 #EXTINF:-1,EP
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-
+#EXTINF:-1,HBOPlus
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1,Dijin A
 https://www.djing.com/tv/animation.m3u8
 #EXTINF:-1,Dijin B
