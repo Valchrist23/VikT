@@ -82,8 +82,12 @@ https://v3.ciclano.io:1443/fenixlarioja/_definst_/fenixlarioja/chunklist_w171368
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1,HBOPlus
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1, Showtime HD
+http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,MaxPrime
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
 #EXTINF:-1,Dijin A
 https://www.djing.com/tv/animation.m3u8
 #EXTINF:-1,Dijin B
@@ -164,13 +168,14 @@ http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1,Wizard TV
 http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1, Maze Runner The Death Cure 
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2573.MP4
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VnIIyjTDlYU/movieposter.jpg" group-title="MOVIES",The Shape of Water (2017)
 https://bobmovies.net/hl/The.Shape.of.Water.2017.m3u8
 #EXTINF:-1,Guardians of the Galaxy
 https://goo.gl/sFaEVq
-#EXTINF:-1,Coco
-http://condor1726.dedicatedpanel.com/CAM-PELIS/Coco.mp4
 #EXTINF:-1,BabyDriver
 http://cinevall.com/videos/baby_driver.m4v
 #EXTINF:-1,Sand Castle
@@ -191,10 +196,7 @@ http://bit.ly/2gbHp2p?JoCaRoMovie
 https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
 #EXTINF:-1,LaMorgue
 https://ia601503.us.archive.org/32/items/Morgue20016PelixMax-1/Morgue20016.mp4
-#EXTINF:-1,Vida Inteligente
-https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
-#EXTINF:-1,Valerian
-https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
 #EXTINF:-1,Momia
 http://cecegeek@goo.gl/5wTGRK
 #EXTINF:-1,StripTease
@@ -247,7 +249,29 @@ http://www.deadlyblogger.com/NewRelease/tmnt3.mp4
 https://srv35.vidzi.tv/hls2/mnuqjh3zqu2qedz7ninbvezkj2g3yhspwvex5d7vm,oksy4nbd4btjv4um6sq,fisy4nbd4b7dk7z67aa,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1, Pluto TV Movies 1
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?
 
+#EXTINF:-1, Movies4 24/7
+https://www.youtube.com/watch?v=6j4KVfAlykA
+#EXTINF:-1, Movies5 24/7
+https://www.youtube.com/watch?v=GOXLMHRRL2c
+#EXTINF:-1, Movies6 24/7
+https://www.youtube.com/watch?v=Fz0GPHrch5o
+#EXTINF:-1, Movies7 24/7
+https://www.youtube.com/watch?v=5F_kbM2DSpY
+#EXTINF:-1, Movies8 24/7
+https://www.youtube.com/watch?v=UbmXX4djv2M
+#EXTINF:-1, Movies9 24/7
+https://www.youtube.com/watch?v=Xubshk2jFJw
+#EXTINF:-1, Movies10 24/7
+https://www.youtube.com/watch?v=u15I8HB3gTk
+#EXTINF:-1, Movies12 24/7
+https://www.youtube.com/watch?v=1fhZJsnRTMs
+#EXTINF:-1, Movies13 24/7
+https://www.youtube.com/watch?v=m5TEZ4zxg1g
+#EXTINF:-1, Movies14 24/7
+https://www.youtube.com/watch?v=woRTejdqFXk
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572092429-Imagen.png" group-title="Infantil",CARTOON NETWORK HD
 http://151.80.20.150:1935/cartoons4u/cartoons4u/playlist.m3u8
