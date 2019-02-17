@@ -1,9 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:1,CNN
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:1,SlynetTV
-http://live.slynet.tv/promoslynetiptv1?.m3u8
+
 #EXTINF:1,CANAL 5 chv
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 #EXTINF:-1, Azteca Uno HD
@@ -18,11 +15,6 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="ENTRETENIMIENTO",Azteca 7 (Mexico)
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
-#EXTINF:-1, Azteca + Plus
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-
-#EXTINF:-1, ADN 40
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8
 
 #EXTINF:-1, MIJAS tv
 http://195.10.10.201/mijas/live-hls/chunks.m3u8
@@ -52,20 +44,10 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 http://149.56.98.124:9090/hls/telesol.m3u8
 #EXTINF:-1, Multimedios Canal 6 
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1,Silence TV
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-#EXTINF:-1,Rai TV Italy
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1,Stars TV
-http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
-#EXTINF:-1,Super TV
-http://wms.shared.streamshow.it/supertv/mp4:supertv/live.m3u8
+
 #EXTINF:-1,Super TV55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
-#EXTINF:-1,UATV
-http://v3.tustreaming.cl/tvautonoma/live1/tracks-v1a1/rewind-999999.m3u8
-#EXTINF:-1,T5
-http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+
 #EXTINF:-1, tvg-logo="xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim | HD
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 #EXTINF:-1,KidzTV
@@ -97,8 +79,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,Hallmark Channel
-http://46.166.184.37:8554/trap/hallmark/playlist.m3u8?wmsAuthSign=
 
 #EXTINF:-1,ENTRETENIMIENTO 2:FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
@@ -121,7 +101,8 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8? www.tec
 
 #EXTINF:-1,|ES|NEOX
 http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/625.ts
-
+#EXTINF:-1,MAXPRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
 #EXTINF:-1,|Music Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
 
