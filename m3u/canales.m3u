@@ -1,24 +1,5 @@
 ﻿#EXTM3U
 
-
-#EXTINF:1,CANAL 5 chv
-http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
-#EXTINF:-1, Azteca Uno HD
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
-#EXTINF:-1, Azteca 13 | SD
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="ENTRETENIMIENTO",Azteca Mas (Mexico)
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-#EXTINF:-1, Azteca 13 | SD
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="ENTRETENIMIENTO",Azteca 7 (Mexico)
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
-
-#EXTINF:-1, MIJAS tv
-http://195.10.10.201/mijas/live-hls/chunks.m3u8
-
 #EXTINF:-1, Multimedios TV
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
@@ -28,52 +9,38 @@ http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 #EXTINF:-1, Telesur 
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 
-#EXTINF:-1, Telesur
-http://ss1.domint.net:2110/tls_str/telesur/chunklist_w429089575.m3u8
-
-#EXTINF:-1, OnceTV 
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
-
 #EXTINF:-1, OnceTV 
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1, OnceTV 
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
+
 #EXTINF:-1, Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
-#EXTINF:-1, TELE sol
-http://149.56.98.124:9090/hls/telesol.m3u8
+
 #EXTINF:-1, Multimedios Canal 6 
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 
 #EXTINF:-1,Super TV55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
-#EXTINF:-1, tvg-logo="xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim | HD
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-#EXTINF:-1,KidzTV
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
 #EXTINF:-1,NexTV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1,FoxMix
+
+#EXTINF:-1,FoxMixClub
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
 #EXTINF:-1,FoxComedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
 #EXTINF:-1,FENIX
 https://v3.ciclano.io:1443/fenixlarioja/_definst_/fenixlarioja/chunklist_w1713688974.m3u8
+
 #EXTINF:-1,EP
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1,HBOPlus
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-#EXTINF:-1, Showtime HD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1,HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,MaxPrime
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
 #EXTINF:-1,Dijin A
 https://www.djing.com/tv/animation.m3u8
 #EXTINF:-1,Dijin B
 http://www.djing.com/tv/ibiza.m3u8
+
 #EXTINF:-1, Fasion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
@@ -82,10 +49,9 @@ https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play
 
 #EXTINF:-1,ENTRETENIMIENTO 2:FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
 #EXTINF:-1,One
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59c2a1d622330_FXM(1).png.d6f1c7c3edd2b588d1913f57fc757f4d.png" group-title="Movies",FXM
-http://tvpremiumhd.club/lista-gratuita/sad/s98.ts
 
 #EXTINF:-1, TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
@@ -93,16 +59,11 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:-1 ,Series y Cine Xtreme
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1, TC
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-
 #EXTINF:-1tvg-id="" tvg-name="" tvg-logo="http://www.toch.tv/toch2/wp-content/uploads/still__0016_Layer-49.jpg" group-title="USA",NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8? www.tecnotv.info?
 
 #EXTINF:-1,|ES|NEOX
 http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/625.ts
-#EXTINF:-1,MAXPRIME
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
 #EXTINF:-1,|Music Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
 
@@ -126,17 +87,12 @@ http://91.134.238.137/live/cawcaw1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
-#EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://economistjobs.com/wp-content/uploads/2018/02/virgin-150x150.png" group-title="Music",Virgin Tv
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
 #EXTINF:-1,Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
-#EXTINF:-1,Metal TV
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
 #EXTINF:-1,RetroTV Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1, Power HD
@@ -261,6 +217,7 @@ http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="Infantil", LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 XTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
