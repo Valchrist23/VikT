@@ -1,6 +1,12 @@
 ﻿#EXTM3U
  
- #EXTINF:-1,|MEX| TVE
+#EXTINF:-1, MoviesFacebook
+https://video.ftij3-1.fna.fbcdn.net/hvideo-lla2-odn/_nc_cat-106/v/rUxPxUKcqnYUtUkcgWG2_/live-dash/dash-abr5/2536560099774997.mpd?_nc_rl=AfAYegQjdH3npZ87&ms=m_CN&oh=0915719ce6664a90795b283c764731e6&oe=5E13A214
+
+#EXTINF:-1, DragonBallSuper
+https://video.ftij3-1.fna.fbcdn.net/hvideo-ftw1-prn/_nc_cat-111/v/r7CbRMLGhLxSp-aw6nbqF/live-dash/dash-abr-ibr-audio/138449210937584.mpd?_nc_rl=AfCDZr4DFpwWoymJ&oh=c00ab5834b0e09ff3ddddb74c653ddad&oe=5E13C02D
+
+#EXTINF:-1,|MEX| TVE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
 #EXTINF:-1,|MEX| UNICABLE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741358
@@ -205,6 +211,7 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%2
 
 #EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
 
 #EXTINF:-1, Movies4 24/7
 https://www.youtube.com/watch?v=6j4KVfAlykA
