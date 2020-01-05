@@ -1,5 +1,8 @@
 ﻿#EXTM3U
  
+#EXTINF:-1, tvg-logo="V9nFWcP.png" group-title="Canales Miscelaneos", Trailer TV Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
+ 
 #EXTINF:-1, MoviesFacebook
 https://video.ftij3-1.fna.fbcdn.net/hvideo-lla2-odn/_nc_cat-106/v/rUxPxUKcqnYUtUkcgWG2_/live-dash/dash-abr5/2536560099774997.mpd?_nc_rl=AfAYegQjdH3npZ87&ms=m_CN&oh=0915719ce6664a90795b283c764731e6&oe=5E13A214
 #EXTINF:-1, MoviesFacebook2
@@ -10,8 +13,22 @@ https://video.ftij3-1.fna.fbcdn.net/hvideo-lla2-cln/_nc_cat-101/v/rDJmdKWB_0jxSd
 #EXTINF:-1, DragonBallSuper
 https://video.ftij3-1.fna.fbcdn.net/hvideo-ftw1-prn/_nc_cat-111/v/r7CbRMLGhLxSp-aw6nbqF/live-dash/dash-abr-ibr-audio/138449210937584.mpd?_nc_rl=AfCDZr4DFpwWoymJ&oh=c00ab5834b0e09ff3ddddb74c653ddad&oe=5E13C02D
 
+#EXTINF:-1, RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1, tvg-logo="82Xp9F7.png" group-title="Canales Españoles", Boing | HD 
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1, tvg-logo="ZGkQ1Dk.jpg" group-title="Canales Juveniles", Anime All Day | HD 
+http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1, tvg-logo="DAXmZWE.png" group-title="Canales Chilenos", FM Hot | HD 
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1, Canal 26 Argentina Entertainment
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1, Canal 10 Dominicana
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1,|MEX| TVE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
+#EXTINF:-1, tvg-logo="BxZR6fX.png" group-title="Canales Panameños", Nex TV | SD 
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1,|MEX| UNICABLE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741358
 #EXTINF:-1,|MEX| UNIVERSAL CHANNEL
@@ -114,6 +131,11 @@ https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 #EXTINF:-1, OnceTV 
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN | HD 
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN  Int. | HD 
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1, Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
@@ -174,7 +196,17 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
 #EXTINF:-1,Miami TV2
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1, tvg-logo="k2T6u4G.png" group-title="Canales Miscelaneos", Miami TV | HD 
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="k2T6u4G.png" group-title="Canales Miscelaneos", Miami TV | FHD | USA
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
+
+#EXTINF:-1, tvg-logo="k2T6u4G.png" group-title="Canales Miscelaneos", Miami TV | HD  | Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+
+#EXTINF:-1, tvg-logo="k2T6u4G.png" group-title="Canales Miscelaneos", Miami TV | HD  | Colombia
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w152373056_b2592000.m3u8
 #EXTINF:-1,MiamiSpain
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8
 
@@ -193,11 +225,14 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 #EXTINF:-1,Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="s38aC2U.png" group-title="Canales de Musica", MTV | HD 
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,RetroTV Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1, Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-
+#EXTINF:-1, La SuperTV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 #EXTINF:-1,Heavy MetalTV
 http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
 
@@ -270,7 +305,8 @@ http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png"",Jasmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-
+#EXTINF:-1, tvg-logo="Q6dNJTO.png" group-title="Canales Miscelaneos", Jasmin TV | SD 
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
