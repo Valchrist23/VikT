@@ -28,8 +28,6 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1,|MEX| TVE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
-#EXTINF:-1, tvg-logo="BxZR6fX.png" group-title="Canales Panameños", Nex TV | SD 
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1,|MEX| UNICABLE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741358
 #EXTINF:-1,|MEX| UNIVERSAL CHANNEL
@@ -295,9 +293,6 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
 #EXTINF:-1,Latinos:NexTV
 http://198.1.117.5:1935/live/livestream/master.m3u8
-
-#EXTINF:-1,Latinos:NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
 
 #EXTINF:-1,UTNTV
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/chunklist_w1603279060.m3u8
