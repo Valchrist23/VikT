@@ -3,8 +3,6 @@
 #EXTINF:-1, tvg-logo="V9nFWcP.png" group-title="Canales Miscelaneos", Trailer TV Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
  
-#EXTINF:-1, MoviesFacebook
-https://video.ftij3-1.fna.fbcdn.net/hvideo-lla2-odn/_nc_cat-106/v/rUxPxUKcqnYUtUkcgWG2_/live-dash/dash-abr5/2536560099774997.mpd?_nc_rl=AfAYegQjdH3npZ87&ms=m_CN&oh=0915719ce6664a90795b283c764731e6&oe=5E13A214
 #EXTINF:-1, MoviesFacebook2
 https://video.ftij3-1.fna.fbcdn.net/hvideo-frc2-prn/_nc_cat-102/v/rpjkSeU5TLaoWOwHmBwX6/live-dash/dash-abr-ibr-audio/102991074560335.mpd?_nc_rl=AfCrzXevG1Pa6w7Z&oh=9ed52af3247186e954993e89002b4b74&oe=5E134B24
 
@@ -171,9 +169,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1,ENTRETENIMIENTO 2:FASHION TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
 #EXTINF:-1,One
 http://rtmp.one.by:2300
 
@@ -194,8 +189,7 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 
 #EXTINF:-1,Miami TV1
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
-#EXTINF:-1,Miami TV2
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="k2T6u4G.png" group-title="Canales Miscelaneos", Miami TV | HD 
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
@@ -219,6 +213,8 @@ http://91.134.238.137/live/cawcaw1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
+#EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="General",Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5887ba337b8e94223eb121bd/featuredImage.jpg" group-title="General",Pluto TV Her
 https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, tvg-logo="https://pmcvariety.files.wordpress.com/2017/05/pluto-tv.jpg?w=1000&h=563&crop=1" group-title="General",Pluto Movies
