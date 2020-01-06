@@ -38,6 +38,14 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1,ANTARES TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1,BHTV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1, TV PLATA GUATEMALA
+http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
 #EXTINF:-1,|MEX| TVE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
 #EXTINF:-1,|MEX| UNICABLE
