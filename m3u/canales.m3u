@@ -5,9 +5,6 @@ http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
  
 #EXTINF:-1, MoviesFacebook2
 https://video.ftij3-1.fna.fbcdn.net/hvideo-frc2-prn/_nc_cat-102/v/rpjkSeU5TLaoWOwHmBwX6/live-dash/dash-abr-ibr-audio/102991074560335.mpd?_nc_rl=AfCrzXevG1Pa6w7Z&oh=9ed52af3247186e954993e89002b4b74&oe=5E134B24
-
-#EXTINF:-1, DragonBall
-https://video.ftij3-1.fna.fbcdn.net/hvideo-lla2-cln/_nc_cat-101/v/rDJmdKWB_0jxSdwUU4lYk/live-dash/dash-abr-ibr-audio/126338215519292.mpd?_nc_rl=AfDysKrQ0w0Ti4Au&oh=93c8b0a57b58ebe43902715c3222399a&oe=5E134948
 #EXTINF:-1, DragonBallSuper
 https://video.ftij3-1.fna.fbcdn.net/hvideo-ftw1-prn/_nc_cat-111/v/r7CbRMLGhLxSp-aw6nbqF/live-dash/dash-abr-ibr-audio/138449210937584.mpd?_nc_rl=AfCDZr4DFpwWoymJ&oh=c00ab5834b0e09ff3ddddb74c653ddad&oe=5E13C02D
 
@@ -17,10 +14,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1, tvg-logo="http://www.formulatv.com/fotos/a/156000/156317/huyj0srmvt0n9f32la4f86e97158bac_logotipo-en-png-de-andluna-el-misterio-de-calendaand.png" group-title="Canales Españoles", Luna TV | 
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
+#EXTINF:-1, tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/logo.svg", Chicos IPE | HD 
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, tvg-logo="http://www.palisadenews.com/wp-content/uploads/2016/02/3.png" group-title="Canales Juveniles", Anime All Day | HD 
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Anime_central_logo.png/220px-Anime_central_logo.png" group-title="24/7 PLUTO TV",Anime All Ages
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Anime_central_logo.png/220px-Anime_central_logo.png", Anime All Ages
 https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
 #EXTINF:-1 group-title="COSTA RICA",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -30,12 +28,16 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://fmhot.cl/wp-content/uploads/2018/01/PRGRAMACION-DESTACADA.fw_.png", FMHOT+Movies | HD 
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
-
-
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png13", 13MAX | HD
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+#EXTINF:-1, tvg-logo="https://tse2.mm.bing.net/th?id=OIP.1vwpG_FJKdcNul5BZYNBDAHaFj&pid=Api&P=0&w=132&h=99", Cinema World | 
+http://210.210.155.35/uq2663/h/h04/01.m3u8
 #EXTINF:-1, Canal 26 Argentina Entertainment
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1, Canal 10 Dominicana
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1,ANTARES TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1,|MEX| TVE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
 #EXTINF:-1,|MEX| UNICABLE
