@@ -28,6 +28,10 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1, tvg-logo="DAXmZWE.png" group-title="Canales Chilenos", FM Hot | HD 
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://fmhot.cl/wp-content/uploads/2018/01/PRGRAMACION-DESTACADA.fw_.png", FMHOT+Movies | HD 
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+
+
 #EXTINF:-1, Canal 26 Argentina Entertainment
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1, Canal 10 Dominicana
