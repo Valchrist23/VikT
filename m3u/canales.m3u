@@ -321,7 +321,8 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
+https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
 
 
 
