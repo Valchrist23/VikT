@@ -15,11 +15,17 @@ https://video.ftij3-1.fna.fbcdn.net/hvideo-ftw1-prn/_nc_cat-111/v/r7CbRMLGhLxSp-
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Canales Españoles", Boing | HD 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1, tvg-logo="http://www.formulatv.com/fotos/a/156000/156317/huyj0srmvt0n9f32la4f86e97158bac_logotipo-en-png-de-andluna-el-misterio-de-calendaand.png" group-title="Canales Españoles", Luna TV | 
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-logo="http://www.palisadenews.com/wp-content/uploads/2016/02/3.png" group-title="Canales Juveniles", Anime All Day | HD 
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Anime_central_logo.png/220px-Anime_central_logo.png" group-title="24/7 PLUTO TV",Anime All Ages
 https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:-1 group-title="COSTA RICA",TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Puñal TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1, tvg-logo="DAXmZWE.png" group-title="Canales Chilenos", FM Hot | HD 
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 #EXTINF:-1, Canal 26 Argentina Entertainment
@@ -230,7 +236,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 #EXTINF:0, tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="Cultura", Garage TV
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45084_Garage_TV.png", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="s38aC2U.png" group-title="Canales de Musica", MTV | HD 
