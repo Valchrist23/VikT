@@ -64,7 +64,7 @@ http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741487
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741486
 #EXTINF:-1,|MEX| CINEMAX
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741485
-#EXTINF:-1,|MEX| EL GOURMET
+#EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cultura",|MEX| EL GOURMET
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741459
 #EXTINF:-1,|MEX| FILM AND ARTS
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741450
@@ -159,12 +159,11 @@ https://v3.ciclano.io:1443/fenixlarioja/_definst_/fenixlarioja/chunklist_w171368
 #EXTINF:-1,EP
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
-#EXTINF:-1,Dijin A
+#EXTINF:-1 tvg-logo="https://i.dawn.com/large/2018/12/5c139eb053ffd.jpg" group-title="Music", Dijin A
 https://www.djing.com/tv/animation.m3u8
-#EXTINF:-1,Dijin B
+#EXTINF:-1 tvg-logo="https://pop-verse.com/wp-content/uploads/2017/02/THE-DJINN-FALLS-IN-LOVE-HI-RES-COVER-e1487079640675.jpg" group-title="Music", Dijin B
 http://www.djing.com/tv/ibiza.m3u8
-
-#EXTINF:-1, Fasion TV
+#EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="Cultura", Fasion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
