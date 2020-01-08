@@ -3,10 +3,6 @@
 #EXTINF:-1, tvg-logo="V9nFWcP.png" group-title="Canales Miscelaneos", Trailer TV Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
  
-#EXTINF:-1, MoviesFacebook2
-https://video.ftij3-1.fna.fbcdn.net/hvideo-frc2-prn/_nc_cat-102/v/rpjkSeU5TLaoWOwHmBwX6/live-dash/dash-abr-ibr-audio/102991074560335.mpd?_nc_rl=AfCrzXevG1Pa6w7Z&oh=9ed52af3247186e954993e89002b4b74&oe=5E134B24
-#EXTINF:-1, DragonBallSuper
-https://video.ftij3-1.fna.fbcdn.net/hvideo-ftw1-prn/_nc_cat-111/v/r7CbRMLGhLxSp-aw6nbqF/live-dash/dash-abr-ibr-audio/138449210937584.mpd?_nc_rl=AfCDZr4DFpwWoymJ&oh=c00ab5834b0e09ff3ddddb74c653ddad&oe=5E13C02D
 
 #EXTINF:-1, tvg-logo="http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2.png" group-title="Sport", RedBull TV | HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
