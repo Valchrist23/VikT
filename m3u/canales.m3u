@@ -19,6 +19,10 @@ http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Anime_central_logo.png/220px-Anime_central_logo.png", Anime All Ages
 https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/logo.png" group-title="",Nick Jr. Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/logo.png" group-title="",Nick Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1d81c85c-ff9a-48ca-ac76-aaf60ec7e71d&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 group-title="COSTA RICA",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -342,13 +346,14 @@ http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV | SD 
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV (HD)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/AHHE8Rt.png" tvg-country="DE" tvg-url="" group-title="XXX",Babestation24
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 
 
 
