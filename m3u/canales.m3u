@@ -2,6 +2,7 @@
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="CO" tvg-url="" group-title="",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
+
 #EXTINF:-1, tvg-logo="http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2.png" group-title="Sport", RedBull TV | HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="MUNDIAL", After School Cartoons
@@ -22,7 +23,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-
+#EXTINF:-1 tvg-name="PBS (WPBT)" tvg-id="PBS-TV" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT)
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XAgQE1z.png" tvg-country="BO" tvg-url="" group-title="",Red Uno
 http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
@@ -385,10 +387,10 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 
 #EXTINF:-1, Mola TV 
 http://ventdelnord.tv:8080/mola/directe.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="USA;PLUTO TV",Eye Candy
+http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1,Exxxtassy
 http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png"",Jasmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
