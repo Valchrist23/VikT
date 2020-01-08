@@ -249,7 +249,14 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" group-title="General",Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" tvg-country="PK" tvg-url="" group-title="Kids",POP Kids
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vIQR1Fv.png" tvg-country="UK" tvg-url="" group-title="Kids",POP Kids
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="PH" tvg-url="" group-title="",Pop Life TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Documentary",Pluto TV Documentaries
 http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -395,5 +402,35 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/3vf53u4.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
 http://122.38.74.172:9981/stream/channelid/1463854277
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iNmHyo2.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/L0VcV7w.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xfIelNY.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rzZYfkN.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/bp1qW74.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6LqaFuD.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t3LXxuv.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uosNpWk.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6dgyIz0.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/acW4Fe9.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/S2kSwfv.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EvqysKS.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5WSwI1A.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3nOaNzu.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k85bqov.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
