@@ -241,8 +241,12 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_
 
 #EXTINF:-1, tvg-logo="k2T6u4G.png" group-title="Canales Miscelaneos", Miami TV | HD  | Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-
-
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg", Orbit TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1", MTV USA
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tv.lattelecom.lv/media/upload/be47_chaula_tv.png", CHAU Tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CowE_jqLWieXP3PM7nSAhV2kEOyrYdEk9yqVWxS0uZkoaQu4CkngiynZjXw2-80Y4SaRtq-VkHX6ZOXmIrlsS1zT8DVZwlec6I42VHqYD4yfRNOoKrH0ozxqu0BD6OwBYU_5sc1qEyB9jfHSwXNLLBc1eyTu2cPAIh9zuI8jdGQMqdrp7zkhK-6bc5XigFlTv5jITt2WS_9tPkeOSoUNYCkXIAZVNemk_hst6TJ2z5DOLJrOnAAiX56ZhJyDiRdF0N1-VoeHGpW0Ay51PkrbBjN-o39GREwjYc6euoUr7nvNM2VDVLwdo2ZBGGL7U3zGxmJR--bPLpzzAOesJrsDVlXyQ8tRdY8nEX1LS8-gnhs9Wwn8VpEYxiQy6vusR6gjbyBCjGlgGyB-Oe9ltxNfKfdldksyak9A8FgMUqFMT524fhfSrgGQpedTP-qwvPuMymmjbQCXFCxdaOagZqhFuoxf0t4umYR4_ajKg0rTzeM1OWcpq9OhBGxZKZYbeXNWbAh3qZCb_AorE9EOIGZ1iqh8noQQIfKh4jNbTfcmjWGd2T7jAkPUI58MU1LrCOqC1ujrqQbW8Q5XfrIhORImucIftyWxx8gBmq7u0sRwyaf-qk4OydJ14W39c90FeAu1PKo7oJ1mr7OQJ2odLRCPM1jXjd8-QzNKaw1qTd5JT6DkLyT9t72GXsaCRWks6NUSEDAqNa5obAUYkflH94r-Kl4aDOvaH4LxM5gUH_iPFA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV2
@@ -316,17 +320,18 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u
 
 #EXTINF:-1,Wizard TV
 http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png", 24/7 Hollywood Movies series 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/TDRDF4q.png" tvg-country="US" tvg-url="" group-title="",byu TV
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles The Movie (1990)
 http://bit.ly/2gbHp2p?JoCaRoMovie
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
 http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",Back to the Future (1985)
 http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%281985%29/Back%20To%20The%20Future%20%281985%29.mkv
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png", 24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1, Movies4 24/7
 https://www.youtube.com/watch?v=6j4KVfAlykA
