@@ -1,11 +1,7 @@
 ﻿#EXTM3U
  
-#EXTINF:-1, tvg-logo="V9nFWcP.png" group-title="Canales Miscelaneos", Trailer TV Kids
-http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="CO" tvg-url="" group-title="",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
-
 #EXTINF:-1, tvg-logo="http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2.png" group-title="Sport", RedBull TV | HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="MUNDIAL", After School Cartoons
@@ -51,8 +47,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXY5XLu.png" tvg-country="US" tvg-url="" group-title="Movies",Sony Movies Christmas
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" tvg-country="ES" tvg-url="" group-title="",Sophia TV
-https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-language="English" tvg-logo="https://i.imgur.com/9uFrMex.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="",Space
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 
@@ -295,8 +290,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,RetroTV Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
-#EXTINF:-1, Power HD
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
 #EXTINF:-1, La SuperTV
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 
