@@ -395,7 +395,8 @@ https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg" group-title="24/7 ADULT SWIM GEO",Metalocalypse (Geo)
 http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-
+#EXTINF:-1,Channel 5 
+https://pcva3.manifest.auditude.com/auditude/live/as-AWvhiwYM4aLemgzOLFCo/5000/90deeedb-3d40-4036-9993-48cd1f3ed387/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL2NoYW5uZWwtNS9zdHJlYW1fNy5tM3U4.m3u8?pttrackingversion=v2&ptassetid=as-AWvhiwYM4aLemgzOLFCo&ptdebug=false&u=ac217921a4a853e52310ebc459eef367&g=1000015&pttoken=true&z=131829&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-AWvhiwYM4aLemgzOLFCo;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=&ptcueformat=turner&live=true
 #EXTINF:-1,The Venture Bros
 https://pcva3.manifest.auditude.com/auditude/live/as-5g7-O12-SeWvBbfTKnI9CA/5000/18c13102-be1e-4227-9649-b96ed36fec58/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3ZlbnR1cmUtYnJvcy9zdHJlYW1fNy5tM3U4.m3u8?pttrackingversion=v2&ptassetid=as-5g7-O12-SeWvBbfTKnI9CA&ptdebug=false&u=ac217921a4a853e52310ebc459eef367&g=1000015&pttoken=true&z=131829&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-5g7-O12-SeWvBbfTKnI9CA;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=&ptcueformat=turner&live=true
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="VIETNAM",24/7 Tom & Jerry
