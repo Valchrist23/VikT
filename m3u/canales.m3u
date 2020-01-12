@@ -440,7 +440,8 @@ https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="LABEL",~ 24/7 Adult Swim Geo-Blocked ~
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
- 
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="LABEL",~ 24/7 William Stream~
+https://pcva4.manifest.auditude.com/auditude/live/as-d8DEBj7QRfetLsRgFnGEyg/5000/80763091-5931-42fe-a1e4-d1c930d971e7/aHR0cHM6Ly9hZHVsdHN3aW0tdm9kbGl2ZS5jZG4udHVybmVyLmNvbS9saXZlL3dpbGxpYW1zLXN0cmVhbS9zdHJlYW1fNy5tM3U4.m3u8?pttrackingversion=v2&ptassetid=as-d8DEBj7QRfetLsRgFnGEyg&ptdebug=false&u=ac217921a4a853e52310ebc459eef367&g=1000015&pttoken=true&z=131829&k=_fw_ae=725bd42fc9c9394e790b9a73610da431;stream=AS-desktop-streams;caid=as-d8DEBj7QRfetLsRgFnGEyg;vdur=0;_fw_ar=0;idfa=084D2F97-D6A5-41C6-90BB-4CDDE192ACBB;_fw_us_privacy=&ptcueformat=turner&live=true
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" group-title="24/7 ADULT SWIM GEO",Aqua Teen Hunger Force (Geo)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8 
 #EXTINF:-1 tvg-logo="http://img.sharetv.com/shows/standard/home_movies.jpg" group-title="24/7 ADULT SWIM GEO",Home Movies (Geo)
