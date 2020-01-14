@@ -66,7 +66,7 @@ http://43.224.120.99:8080/prime/prime_1000k.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a-/ACSszfG6TOAud_r5AZ8zRHuJNTk2sU0_PJXsf0RCMQ=s900-mo-c-c0xffffffff-rj-k-no",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Puñal TV
+#EXTINF:-1, tvg-logo="http://dominicanchannels.com/wp-content/uploads/2019/05/pu%C3%B1al-tv-300x194.png",Puñal TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="http://fmhot.cl/wp-content/uploads/2018/01/PRGRAMACION-DESTACADA.fw_.png", FMHOTMovies | 
@@ -76,7 +76,7 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EUujsZU.png" group-title="CHILE",FM Hot Movies (Opt-1)
 http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
  
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png13", 13MAX | HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="", 13MAX | HD
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
