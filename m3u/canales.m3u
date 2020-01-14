@@ -63,7 +63,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 #EXTINF:-1 tvg-id="tv.28" tvg-name="Prime" tvg-language="English" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Prime NZ
 http://43.224.120.99:8080/prime/prime_1000k.m3u8
 
-#EXTINF:-1 group-title="COSTA RICA",TeleUno TV
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a-/ACSszfG6TOAud_r5AZ8zRHuJNTk2sU0_PJXsf0RCMQ=s900-mo-c-c0xffffffff-rj-k-no",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Puñal TV
@@ -79,12 +79,13 @@ http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png13", 13MAX | HD
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
-#EXTINF:-1, Canal 26 Argentina Entertainment
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1, Canal 10 Microvision HD
+#EXTINF:-1, tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png", Canal 10 Microvision HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1,ANTARES TV
+
+#EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png",ANTARES TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15509476631.png" group-title="Chileiptv" , TV+ 
