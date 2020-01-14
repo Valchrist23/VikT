@@ -4,7 +4,7 @@
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.87C-YLRz4uWn76Y5NqpUyQHaHa&pid=Api&P=0&w=300&h=300g" group-title="Infantil", Totally Turtles
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/1539795/playlist.m3u8?terminate=false&deviceId=fce4c833-99bc-4447-95a5-ea62df5ff07b&deviceVersion=75.0.3770.100&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=03776a13-3efd-4cba-ab64-231d47c0528c&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/3063648/playlist.m3u8?terminate=false&deviceId=fce4c833-99bc-4447-95a5-ea62df5ff07b&deviceVersion=75.0.3770.100&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=197b6e90-d615-49c7-8dba-ed4d08c079b4&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="USA",Cartoons 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
