@@ -2,7 +2,8 @@
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="CO" tvg-url="" group-title="",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
-
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.87C-YLRz4uWn76Y5NqpUyQHaHa&pid=Api&P=0&w=300&h=300g" group-title="Infantil", Totally Turtles
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/3063648/playlist.m3u8?terminate=false&deviceId=fce4c833-99bc-4447-95a5-ea62df5ff07b&deviceVersion=75.0.3770.100&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=c3853479-8cbb-4529-8bb9-b60ff6005179&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="USA",Cartoons 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 PLUTO TV",Yu-Gi-Oh! 5D’s
