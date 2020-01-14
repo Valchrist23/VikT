@@ -42,7 +42,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="USA",Sci-fi 4U
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-name="PBS (WPBT)" tvg-id="PBS-TV" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT)
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
@@ -110,12 +111,14 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/m
 
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="",Paramount Channel
 http://paramount.live.flumotion.com/live/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="DOMINICAN REPUBLIC",Telenovisa 43
+http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fCUgMtm.png" tvg-country="ES" tvg-url="" group-title="",Paramount Channel
 http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="HONDURAS",Q'hubo TV
+http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3jMiCj.png" group-title="CHILE",Pintana TV
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
 
@@ -124,7 +127,8 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iree4Y7.png" group-title="UK",Syfy (New!)
 http://84.22.33.254/unicast.scifi/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
 #EXTINF:-1,|MEX| TVE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
 #EXTINF:-1,|MEX| UNICABLE
@@ -347,7 +351,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_500000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="USA",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBr6UAw.png" group-title="USA PUBLIC",Local Now (New!)
+https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Movies",Pluto TV Movies 1
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Movies",Pluto TV Movies 2
