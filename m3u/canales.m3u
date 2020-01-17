@@ -149,14 +149,14 @@ http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1966.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png" group-title="UK",Comedy Central UK
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1967.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="UK",UK Drama 
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2016.m3u8
-
 #EXTINF:-1 tvg-logo="http://seeklogo.com/images/C/Cine_Cinema_Premier-logo-8A764CBAD9-seeklogo.com.gif" group-title="UK",Cinema Premier 
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2034.m3u8
 
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20111118190215/logopedia/images/4/46/Sky-Movies-DramaRomance.png" group-title="UK",UK Sky Cinema Drama & Romance
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2035.m3u8
+
+#EXTINF:-1 tvg-logo="http://i2.cdnds.net/13/18/618x400/uktv-drama-logo_1.gif" group-title="UK",UK Drama 
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2016.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiodisneyclub.fr/wp-content/uploads/2015/04/Disney-Cinema-RGB-Logo-Alternative-BG-Blue1.png" group-title="UK",UK Disney Cinema 
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2040.m3u8
