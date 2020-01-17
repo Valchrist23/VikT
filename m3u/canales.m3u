@@ -131,6 +131,42 @@ http://84.22.33.254/unicast.scifi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="UK",UK Disney
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2134.m3u8
+
+#EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" group-title="UK",Nickelodeon UK 
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2139.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_Bnpzj2hNgIg/TFvGzW7yACI/AAAAAAAAAAk/_jXTUpWjeuo/s1600/cartoon-network-logo.jpg" group-title="USA",Cartoon Network HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2151.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1024px-Cartoonito_logo.svg.png" group-title="USA",Cartoonito
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2153.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png" group-title="UK",Comedy Central UK HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1966.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png" group-title="UK",Comedy Central UK
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1967.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="UK",UK Drama 
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2016.m3u8
+
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/C/Cine_Cinema_Premier-logo-8A764CBAD9-seeklogo.com.gif" group-title="UK",Cinema Premier 
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2034.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20111118190215/logopedia/images/4/46/Sky-Movies-DramaRomance.png" group-title="UK",UK Sky Cinema Drama & Romance
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2035.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiodisneyclub.fr/wp-content/uploads/2015/04/Disney-Cinema-RGB-Logo-Alternative-BG-Blue1.png" group-title="UK",UK Disney Cinema 
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2040.m3u8
+
+#EXTINF:-1 tvg-logo="http://kellysluckyyou.com/wp-content/uploads/2014/08/disneyfamily-logo.png" group-title="UK",UK Disney Familly
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2042.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Sky_uk_movies_action_adventure_hd.png/revision/latest?cb=20140329135514" group-title="UK",Sky Cinema Action Adventure
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2044.m3u8
+
 #EXTINF:-1,|MEX| TVE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
 #EXTINF:-1,|MEX| UNICABLE
