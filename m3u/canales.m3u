@@ -167,6 +167,12 @@ http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2042.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Sky_uk_movies_action_adventure_hd.png/revision/latest?cb=20140329135514" group-title="UK",Sky Cinema Action Adventure
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2044.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/tvpedia/images/9/92/Sky_Movies_Sci_Fi_and_Horror.png/revision/latest?cb=20160104133923&path-prefix=ru" group-title="UK",Cinema SCI-FI
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2052.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Sky_Cinema_Hits_DE_Logo_2016.png" group-title="UK",Sky Cinema Hits
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2049.m3u8
+
 #EXTINF:-1,|MEX| TVE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
 #EXTINF:-1,|MEX| UNICABLE
