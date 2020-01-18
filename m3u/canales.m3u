@@ -444,39 +444,6 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/TDRDF4q.png" tvg-country="US" tvg-url="" group-title="",byu TV
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles The Movie (1990)
-http://bit.ly/2gbHp2p?JoCaRoMovie
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
-http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",Back to the Future (1985)
-http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%281985%29/Back%20To%20The%20Future%20%281985%29.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES",A Christmas Star
-https://2.bp.blogspot.com/zRJE4%5FZ8lCmUyfCQQYw%2DA4XI4Tj26WsXoCqnrZ4Yzsjz%3Dm22
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Madea Christmas 2013
-https://www.deadlyblogger.com/NewRelease/madea2013.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Nightmare on Elm Street 2: Freddy's Revenge 1985
-https://www.deadlyblogger.com/NewRelease/elm2.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Nightmare on Elm Street 3: Dream Warriors 1987
-https://www.deadlyblogger.com/NewRelease/elm3.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Nightmare on Elm Street 4: The Dream Master 1988
-https://www.deadlyblogger.com/NewRelease/elm4.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Nightmare on Elm Street 5: The Dream Child 1989
-https://www.deadlyblogger.com/NewRelease/elm5.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", After Earth 2013
-https://www.deadlyblogger.com/NewRelease/after.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", Ali 2001
-https://www.deadlyblogger.com/NewRelease/ali1.mp4
-
-
-
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png", 24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
@@ -561,6 +528,73 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
 http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles The Movie (1990)
+http://bit.ly/2gbHp2p?JoCaRoMovie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
+http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",Back to the Future (1985)
+http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%281985%29/Back%20To%20The%20Future%20%281985%29.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES",A Christmas Star
+https://2.bp.blogspot.com/zRJE4%5FZ8lCmUyfCQQYw%2DA4XI4Tj26WsXoCqnrZ4Yzsjz%3Dm22
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Madea Christmas 2013
+https://www.deadlyblogger.com/NewRelease/madea2013.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Nightmare on Elm Street 2: Freddy's Revenge 1985
+https://www.deadlyblogger.com/NewRelease/elm2.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Nightmare on Elm Street 3: Dream Warriors 1987
+https://www.deadlyblogger.com/NewRelease/elm3.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Nightmare on Elm Street 4: The Dream Master 1988
+https://www.deadlyblogger.com/NewRelease/elm4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Nightmare on Elm Street 5: The Dream Child 1989
+https://www.deadlyblogger.com/NewRelease/elm5.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", After Earth 2013
+https://www.deadlyblogger.com/NewRelease/after.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", Ali 2001
+https://www.deadlyblogger.com/NewRelease/ali1.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", Aloft (2014)
+https://lh3.googleusercontent.com/MbzpYy0VnYO4rzNv%5F9RHex9JMfidY8z7KH0F%5FwIv44g%3Dm18
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", Animal 2005
+https://www.deadlyblogger.com/NewRelease/animal.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", THE FAMILY 2013
+https://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", The Mortal Instrumens: City of Bones 2013 
+https://www.deadlyblogger.com/NewRelease/themort1.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", The Wolverine 2013
+https://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", The Worlds End 2013
+https://www.deadlyblogger.com/NewRelease/worldend.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", X-Men: First Class 2011
+https://www.deadlyblogger.com/NewRelease/xmen4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", X-Men 2000
+https://www.deadlyblogger.com/NewRelease/xmen1.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", X-Men2 2003 
+https://www.deadlyblogger.com/NewRelease/xmen2.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", X-Men: The Last Stand 2006
+https://www.deadlyblogger.com/NewRelease/xmen3.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", X-Men: First Class 2011 
+https://www.deadlyblogger.com/NewRelease/xmen4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", X-Men Origins: Wolverine 2009
+https://www.deadlyblogger.com/NewRelease/origin.mp4
 
 #EXTINF:-1,Exxxtassy
 http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
