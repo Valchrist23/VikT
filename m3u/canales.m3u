@@ -1,5 +1,15 @@
 ﻿#EXTM3U
- 
+
+#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/telemundo_followup_logo_detail.jpg" group-title="USA",Telemundos
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1 tvg-logo="https://d1og0s8nlbd0hm.cloudfront.net/tg4-redesign-2015/wp-content/uploads/2018/08/TG4-Logo-Grad_1600-le-pad1.jpg" group-title="USA",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0IXK_dusdg3l1aDY1gL2mAAAAA&pid=Api&P=0&w=300&h=300" group-title="USA",the asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JtCafjCMDPtdLBGgaLYxmwAAAA&pid=Api&P=0&w=178&h=162" group-title="USA",z linving
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="CO" tvg-url="" group-title="",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
 
@@ -314,6 +324,9 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV | HD  | Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+
+
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CowE_jqLWieXP3PM7nSAhV2kEOyrYdEk9yqVWxS0uZkoaQu4CkngiynZjXw2-80Y4SaRtq-VkHX6ZOXmIrlsS1zT8DVZwlec6I42VHqYD4yfRNOoKrH0ozxqu0BD6OwBYU_5sc1qEyB9jfHSwXNLLBc1eyTu2cPAIh9zuI8jdGQMqdrp7zkhK-6bc5XigFlTv5jITt2WS_9tPkeOSoUNYCkXIAZVNemk_hst6TJ2z5DOLJrOnAAiX56ZhJyDiRdF0N1-VoeHGpW0Ay51PkrbBjN-o39GREwjYc6euoUr7nvNM2VDVLwdo2ZBGGL7U3zGxmJR--bPLpzzAOesJrsDVlXyQ8tRdY8nEX1LS8-gnhs9Wwn8VpEYxiQy6vusR6gjbyBCjGlgGyB-Oe9ltxNfKfdldksyak9A8FgMUqFMT524fhfSrgGQpedTP-qwvPuMymmjbQCXFCxdaOagZqhFuoxf0t4umYR4_ajKg0rTzeM1OWcpq9OhBGxZKZYbeXNWbAh3qZCb_AorE9EOIGZ1iqh8noQQIfKh4jNbTfcmjWGd2T7jAkPUI58MU1LrCOqC1ujrqQbW8Q5XfrIhORImucIftyWxx8gBmq7u0sRwyaf-qk4OydJ14W39c90FeAu1PKo7oJ1mr7OQJ2odLRCPM1jXjd8-QzNKaw1qTd5JT6DkLyT9t72GXsaCRWks6NUSEDAqNa5obAUYkflH94r-Kl4aDOvaH4LxM5gUH_iPFA.m3u8
@@ -636,6 +649,8 @@ http://122.38.74.172:9981/stream/channelid/1463854277
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iNmHyo2.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xfIelNY.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Blowjob
