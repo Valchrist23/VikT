@@ -532,12 +532,17 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles The Movie (1990)
-http://bit.ly/2gbHp2p?JoCaRoMovie
+http://www.deadlyblogger.com/NewRelease/tmnt1.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
 http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",Back to the Future (1985)
 http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%281985%29/Back%20To%20The%20Future%20%281985%29.mkv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Silent_Hill_series_logo.png" group-title="Movies", Silent Hill
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29%20Dual%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",Training Day (2001)
+http://www.deadlyblogger.com/NewRelease/training.mp4
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES",A Christmas Star
 https://2.bp.blogspot.com/zRJE4%5FZ8lCmUyfCQQYw%2DA4XI4Tj26WsXoCqnrZ4Yzsjz%3Dm22
 
