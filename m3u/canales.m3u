@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,UK | E!-HD
-http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2007.m3u8
 #EXTINF:-1,UK | E!
 http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2008.m3u8
+#EXTINF:-1,UK | Crime Investigation 
+http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2127.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1og0s8nlbd0hm.cloudfront.net/tg4-redesign-2015/wp-content/uploads/2018/08/TG4-Logo-Grad_1600-le-pad1.jpg" group-title="USA",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
@@ -44,9 +44,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Anime_central_logo.png/220px-Anime_central_logo.png", Anime All Ages
 https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" tvg-country="US" tvg-url="" group-title="Kids",Kids TV
-http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1,UK |Cartoon Network UK
 http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2152.m3u8
 
@@ -57,12 +54,6 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-name="PBS (WPBT)" tvg-id="PBS-TV" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT)
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/logo.png" group-title="",Nick Jr. Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/logo.png" group-title="",Nick Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1d81c85c-ff9a-48ca-ac76-aaf60ec7e71d&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://bhtv.pe/wp-content/uploads/2017/04/bhtv-logo-300x219.png" tvg-country="MX" tvg-url="" group-title="",bh tv
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -323,18 +314,16 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-ODju9qWxqrE/UPghIhSo6nI/AAAAAAAAPnU/Y3TzahcP0kk/s320/Logo+Miami+TV.jpg" group-title="Canales Miscelaneos", Miami TV | FHD | USA
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV | HD  | Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-
 
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV | HD  | Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CowE_jqLWieXP3PM7nSAhV2kEOyrYdEk9yqVWxS0uZkoaQu4CkngiynZjXw2-80Y4SaRtq-VkHX6ZOXmIrlsS1zT8DVZwlec6I42VHqYD4yfRNOoKrH0ozxqu0BD6OwBYU_5sc1qEyB9jfHSwXNLLBc1eyTu2cPAIh9zuI8jdGQMqdrp7zkhK-6bc5XigFlTv5jITt2WS_9tPkeOSoUNYCkXIAZVNemk_hst6TJ2z5DOLJrOnAAiX56ZhJyDiRdF0N1-VoeHGpW0Ay51PkrbBjN-o39GREwjYc6euoUr7nvNM2VDVLwdo2ZBGGL7U3zGxmJR--bPLpzzAOesJrsDVlXyQ8tRdY8nEX1LS8-gnhs9Wwn8VpEYxiQy6vusR6gjbyBCjGlgGyB-Oe9ltxNfKfdldksyak9A8FgMUqFMT524fhfSrgGQpedTP-qwvPuMymmjbQCXFCxdaOagZqhFuoxf0t4umYR4_ajKg0rTzeM1OWcpq9OhBGxZKZYbeXNWbAh3qZCb_AorE9EOIGZ1iqh8noQQIfKh4jNbTfcmjWGd2T7jAkPUI58MU1LrCOqC1ujrqQbW8Q5XfrIhORImucIftyWxx8gBmq7u0sRwyaf-qk4OydJ14W39c90FeAu1PKo7oJ1mr7OQJ2odLRCPM1jXjd8-QzNKaw1qTd5JT6DkLyT9t72GXsaCRWks6NUSEDAqNa5obAUYkflH94r-Kl4aDOvaH4LxM5gUH_iPFA.m3u8
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CowEqOFgs2mGXQaLRhF106uCBMfzonPi6Qfu8tF9JATjabPLfVovPdNrfloNqIqiDffNWtbix3k9mRk3spfIGQofoJywUB75Qrp30smpVwmlYFGQ50Lx-LL1w-g8wQjS3KH8sLdfZIFPs2cCQ_2kjeJvbbjeZFgfZy2DcMjslcy6Q9Osx7XfGEk0_0gfljn3H6rhMrqQKkGggJQXaGJ7oDGU_DcpGm7STV35FKoG3F88URqwKWBm8o1clyFkuUO8iTE9tJJ9Oa8It4S83kCREHMEhDL7KObD7k9CWKRC-5PMcjNtnkTiN_-5jV3BUz1tp8D2_o3igyymK1hOXNc5yJ2q1JNr_rgCKXVyucX7DVqws9zDrKhiFA_0xyHkK725MeepKsShCF1xMiMpXLD8Ey8qOSbGyn58X_xWzz4p0pCgxWiGaXEs8aPMf-yiU9D5uj6rwnY7HTiSQGsO80zTYNYM9N5-eSwFm6bd75LC4CQ9CtRUUW8ygoEPXUfDW48UKrJRH07Wy2UAYa1JAmpr6XfDVQ5d0Fily-zGoLpuGyoBsTKWkTH_vFInXidmOsObjHcbZhPSy4xwiKv4yxd2sWTb4QSWKFzaffLJQ10msXXuZDJkWwE64bryFOSNY4gAKjslbd1nOVN81zlzWPY4UY8jYOQVl9dr3gLqS75Wi1c7THxLgOGgfVnIIleFZnkSEHGWzihHeSoaQ_BR2iBHVZkaDNdDkidtTiex1sATZg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV2
 http://91.134.238.137/live/goat/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV3
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CowEe2upHDzi8KkN5MpJK2siMMmvl-BhzzHSjJgdCLvSTha5GDAPnqRDYI10MqzapRAElaY4IseA2s9rOUZy0HX-xyXWJY9f17cz2o8ViVyoxPVwmXV4nSbdMxHf3-YfwmwghcNUwvmZ6yqVTz31xun46iwoPJg3pqodST1wh9s88iRnBYTxB6Qchts44wAxE-rN-PXGyuAGBc7GfzMHXANRrByw92Wz0FlrFLvKPI9u2vIc-jT-obuV413g9cnUWzQJwFnbvoMlTWUYzfjfvZRHmHtsZKXhKEosHOhkMe_VvXfq1zJUUrTeadW6y_CQQW3OUy8pPOxgYdOVjp1eYGnpXbtMeReO40EKSgPwOw9Ih0KZ5ne-_AdC47-Uu0MeZ2KRnC4i2SlQii5enaAccQmJmPD5kc0mm16G6NVkoMZ3StZEagpY4wGpKFdFWSnsNn3VCn_kuDujJtSicdFy3H9wfn_591s5gveM9z8R0qmRrwQnyWenOv9aoqmaIHq_9P2MTsqOBVb49Bedn_suFK_Iz-dakiTPuvaxJOVQwHK82CJsBeQCHEtivNGCKlAK3oJcHOpAb4Vk8IOZvQDRWpjEMElz1_M7D851HraP1obWm6ha2Uuz9hXDq8IMlsTn9FP9zsCWsdCEYJaZLssWV4fGB-REDpnR0VpBntUQD-Jd5heOSAECJLEynNbUV3QSEJr9_0OuDVRV2CkzmMRQyssaDBCiI6bkGpCGMFW91Q.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
@@ -508,8 +497,6 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="24/7",Adult Swim Live Action
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="24/7",Adult Swim Live Action
-http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
 #EXTINF:0 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" group-title="",Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/azzpKrT.png" group-title="24/7 ADULT SWIM GEO",Dream Corp LLC (Geo)
@@ -618,18 +605,6 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
