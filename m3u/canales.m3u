@@ -1,7 +1,10 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/telemundo_followup_logo_detail.jpg" group-title="USA",Telemundos
-https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1,UK | E!-HD
+http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2007.m3u8
+#EXTINF:-1,UK | E!
+http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2008.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1og0s8nlbd0hm.cloudfront.net/tg4-redesign-2015/wp-content/uploads/2018/08/TG4-Logo-Grad_1600-le-pad1.jpg" group-title="USA",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0IXK_dusdg3l1aDY1gL2mAAAAA&pid=Api&P=0&w=300&h=300" group-title="USA",the asylum
@@ -9,8 +12,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JtCafjCMDPtdLBGgaLYxmwAAAA&pid=Api&P=0&w=178&h=162" group-title="USA",z linving
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d6792bd6be2998ad0ccce30/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Totally Turtles
-https://stitcher.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jdßo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="CO" tvg-url="" group-title="",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
 
@@ -46,8 +47,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" tvg-country="US" tvg-url="" group-title="Kids",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 group-title="MUNDIAL", Kids TV
-http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,UK |Cartoon Network UK
+http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2152.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
