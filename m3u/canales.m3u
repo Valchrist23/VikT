@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,UK | Kids Geo (UK) Log
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
 #EXTINF:-1,UK | E!
 http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2008.m3u8
 #EXTINF:-1,UK | Crime Investigation 
@@ -437,6 +439,9 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2059160/screenshots/4442715/day29-film.jpg" group-title="CH",Holliwood China
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/TDRDF4q.png" tvg-country="US" tvg-url="" group-title="",byu TV
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
