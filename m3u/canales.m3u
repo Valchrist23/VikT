@@ -1,13 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,Thundercat
-https://stream.allsprk.tv/live/0/index.m3u8
-#EXTINF:-1,HomeImprovement
-https://stream.allsprk.tv/live/2/index.m3u8
-#EXTINF:-1,The WonderYears
-https://stream.allsprk.tv/live/3/index.m3u8
-#EXTINF:-1,Chozen
-https://stream.allsprk.tv/live/6/index.m3u8
 #EXTINF:-1,UK | Kids Geo (UK) Log
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
 #EXTINF:-1,UK | E!
@@ -525,12 +517,18 @@ https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg" group-title="24/7 ADULT SWIM GEO",Metalocalypse (Geo)
 http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/The_Venture_Bros_logo.svg/1200px-The_Venture_Bros_logo.svg.png" group-title="24/7 ADULT SWIM GEO",The Venture Bros
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="VIETNAM",24/7 Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-
+#EXTINF:-1,Thundercat
+https://stream.allsprk.tv/live/0/index.m3u8
+#EXTINF:-1,HomeImprovement
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1,The WonderYears
+https://stream.allsprk.tv/live/3/index.m3u8
+#EXTINF:-1,Chozen
+https://stream.allsprk.tv/live/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
