@@ -2,6 +2,10 @@
 
 #EXTINF:-1,Thundercat
 https://stream.allsprk.tv/live/0/index.m3u8
+#EXTINF:-1,HomeImprovement
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1,Chozen
+https://stream.allsprk.tv/live/6/index.m3u8
 #EXTINF:-1,UK | Kids Geo (UK) Log
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
 #EXTINF:-1,UK | E!
