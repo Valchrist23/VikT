@@ -521,7 +521,7 @@ http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="VIETNAM",24/7 Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1,Thundercat
+#EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Thundercats
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1,HomeImprovement
 https://stream.allsprk.tv/live/2/index.m3u8
