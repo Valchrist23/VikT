@@ -174,98 +174,66 @@ http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2052.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Sky_Cinema_Hits_DE_Logo_2016.png" group-title="UK",Sky Cinema Hits
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2049.m3u8
 
-#EXTINF:-1,|MEX| TVE
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741359
-#EXTINF:-1,|MEX| UNICABLE
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741358
-#EXTINF:-1,|MEX| UNIVERSAL CHANNEL
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741356
-#EXTINF:-1,|MEX| WARNER
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741353
-#EXTINF:-1,|MEX| IMAGEN TV
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741411
-#EXTINF:-1,|MEX| INGENIO TV
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741410
-#EXTINF:-1,|MEX| INVESTIGATION DISCOVERY
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741409
-#EXTINF:-1,|MEX| LAS ESTRELLAS
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741408
-#EXTINF:-1,|MEX| LIFETIME
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741406
-#EXTINF:-1,|MEX| MAS CHIC
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741405
-#EXTINF:-1,|MEX| HOLA TV
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741413
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741403
+#EXTINF:-1,|MEX| Foro TV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvb_1280x720_2500k.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="|MEX|" Canal de las Estrellas
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw0MzYlMkYqJmV4cGlyeT0xNTgxMTMzOTc2JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsZDNjYTE4ODJjMTdhY2MxMTlkZjc3M2IxMTk4NmNhOWFhMDhiMmE5Y2RiMjM5NjQ5NzYxZGJmOTFlNDI0NTI2MA==/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MX",De Pelicula MX 
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwzMzUlMkYqJmV4cGlyeT0xNTgxMTQ2NDk5JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYWUyZGI0M2QxYTJlNzFjZTJhOGFkYTI1Yjg4ZGI4YTdhZmFiNWE0NjJlMjkxMWVjOWEwZTEwYWUwNzExMmVkMw==/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,|MEX| COMEDY CENTRAL
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741478
+
+#EXTINF:-1,#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMTglMkYqJmV4cGlyeT0xNTgxMTM0MDQxJmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsZGRmMzFhM2RmNjg0ZjE1NDJmNzhkMTI4YjU3ZTA1MmYzNmI3NGU4ZmM0NGQ3MzAzZTNkZDQ1MGIwZTM4ODE4Zg==/PROFILE03.m3u8
+
+#EXTINF:-1,|MEX| Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
+#EXTINF:-1,|MEX| Bite ME
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTkxJTJGKiZleHBpcnk9MTU4MTE1MTEzNiZmbj1zaGEyNTYmeCUzQXM9c3ltOTgwOTExY2NvMW5oLGZiNTIyZjY0MDU5YzU4ZDg2YjVlMTVhMjYyMzUxM2RkMjI0NDcyMTdhMTdjZGQ4MjBhYzRiZjI0ZTM4ODcxYTQ=/PROFILE03.m3u8
+
+#EXTINF:-1,|MEX| Tele HIT
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL702,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw3MDIlMkYqJmV4cGlyeT0xNTgxMTQ2MDM4JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYTZmYzM2NGVlMjM5YzBmNjliNzkxYTYxYTMxNzA2ZTA1ZWRlMTAzYmZkYmJhZThjZDY2NDUwYTAxNGFkNmIzYw==/PROFILE03.m3u8
+
+#EXTINF:-1,|MEX| De Pelicula
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwzMzUlMkYqJmV4cGlyeT0xNTgxMTQ2NDk5JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYWUyZGI0M2QxYTJlNzFjZTJhOGFkYTI1Yjg4ZGI4YTdhZmFiNWE0NjJlMjkxMWVjOWEwZTEwYWUwNzExMmVkMw==/PROFILE03.m3u8
+
+#EXTINF:-1,|MEX| INVESTIGATION DISCOVERY
+http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741409
+#EXTINF:-1,Music TLT
+http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
+#EXTINF:-1,XD Tokyo
+https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,Knowladge TV
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1, Wow Cine Japan
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMTclMkYqJmV4cGlyeT0xNTgxMTQ0OTk3JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsMDIzMWVlODU5ZGU4OTExZTc1YmYyMTU5MjZhMDFkOGUxNDQ0NjI0OTAxZWUxNzk4MjJkM2VlZjYwNmQ1MTZlNg==/PROFILE03.m3u8
+
 #EXTINF:-1,|MEX| DISCOVERY TLC
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741469
 #EXTINF:-1,|MEX| CANAL ONCE
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741489
 #EXTINF:-1,|MEX| CARTOON NETWORK
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741488
-//#EXTINF:-1,|MEX| CINECANAL
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741487//
-//#EXTINF:-1,|MEX| CINELATINO
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741486//
-#EXTINF:-1,|MEX| CINEMAX
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741485
+
+#EXTINF:-1,|MEX| Golden Plus
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw0NDIlMkYqJmV4cGlyeT0xNTgxMTMzODk2JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYTJkYmE5NjVkOTU3ZmJiNDkzZTAxMTlmNjczMTNmODgzZWNlZmY5MjRkOTRiNWQ2MjA1OGNlYjZjMDI2OGI5MA==/PROFILE03.m3u8
+
+#EXTINF:-1,|MEX| Golden Edge
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw0ODQlMkYqJmV4cGlyeT0xNTgxMTQ2OTMzJmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsNDczMDk2Y2ZjYmVkZWFkZGIyOWJjZWFhMDYxNGE4ODkxNjIyY2E2ODBlZjc5ZTY4ZjZmZTZjNGFkZjNkZjIxMw==/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cultura",|MEX| EL GOURMET
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741459
-#EXTINF:-1,|MEX| FILM AND ARTS
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741450
-#EXTINF:-1,|MEX| FOOD NETWORK
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741449
-#EXTINF:-1,|MEX| FOX SPORTS 3 SUR
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741430
-#EXTINF:-1,|MEX| FX
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741429
-#EXTINF:-1,|MEX| FX MOVIE
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741428
-#EXTINF:-1,|MEX| NICK
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741392
-#EXTINF:-1,|MEX| NICK 2
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741391
-#EXTINF:-1,|MEX| NICK JR
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741390
-#EXTINF:-1,|MEX| PARAMOUNT
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741388
-#EXTINF:-1,|MEX| PX TV
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741387
-#EXTINF:-1,|MEX| TELEHIT
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741373
-#EXTINF:-1,|MEX| SONY
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741383
-#EXTINF:-1,|MEX| SPACE
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741382
-#EXTINF:-1,|MEX| STUDIO UNIVERSAL
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741381
-#EXTINF:-1,|MEX| SUNDANCE
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741380
-#EXTINF:-1,|MEX| SYFY
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741378
-#EXTINF:-1,|MEX| TBS
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741377
-#EXTINF:-1,|MEX| TCM
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741376
-#EXTINF:-1,|MEX| TELEFORMULA
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741375
-#EXTINF:-1,|MEX| TELEMUNDO INTERNACIONAL
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741374
-#EXTINF:-1,|MEX| TELEVISA MTY
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741371
-#EXTINF:-1,|MEX| HBO
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741417
-#EXTINF:-1,|MEX| HBO 2
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741416
-#EXTINF:-1,|MEX| HBO FAMILY
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741415
-#EXTINF:-1,|MEX| HBO PLUS
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741414 
+
+#EXTINF:-1,tvg-logo="https://lh5.googleusercontent.com/-WRHSZkHIfgo/TWrFF6t7PzI/AAAAAAAAAag/OlsA7MM5d-0/s1600/Azteca+7+logo+2011.jpg" group-title="Cultura",|MEX| Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master03_.m3u8
+#EXTINF:-1,tvg-logo="https://images.wikia.nocookie.net/__cb20171106202311/logopedia/images/thumb/3/3f/Azclic2014.png/130px-53%2C186%2C0%2C117-Azclic2014.png" group-title="Cultura",|MEX| Azteca Click
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw3MjUlMkYqJmV4cGlyeT0xNTgxMTQ1NzI0JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYjRkNjQ3OGM0NmM5MzA0ZDMwZDEwNDQ1NjI4ZjVmOTQ4OGE5MWQ3YTQzMDhjNDUyMmQ1ZGQ3YjVhNGZjOTBjNQ==/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ejXfHa4.png" group-title="",History HD
 https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
