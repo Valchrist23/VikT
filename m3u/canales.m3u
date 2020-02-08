@@ -96,6 +96,7 @@ https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXY5XLu.png" tvg-country="UK" tvg-url="" group-title="Movies",Sony Movies Classics
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-language="English" tvg-logo="https://i.imgur.com/9uFrMex.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="",Space
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 
@@ -189,31 +190,35 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado.jpg" group-title="MX", Teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 
-#EXTINF:-1,|MEX| Bite ME
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTkxJTJGKiZleHBpcnk9MTU4MTE1MTEzNiZmbj1zaGEyNTYmeCUzQXM9c3ltOTgwOTExY2NvMW5oLGZiNTIyZjY0MDU5YzU4ZDg2YjVlMTVhMjYyMzUxM2RkMjI0NDcyMTdhMTdjZGQ4MjBhYzRiZjI0ZTM4ODcxYTQ=/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PIXEL
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 
-#EXTINF:-1,XD Tokyo
-https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/knowl.png" group-title="US",Knowladge TV
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
+#EXTINF:-1,XD Tokyo
+https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1, Wow Cine Japan
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMTclMkYqJmV4cGlyeT0xNTgxMTQ0OTk3JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsMDIzMWVlODU5ZGU4OTExZTc1YmYyMTU5MjZhMDFkOGUxNDQ0NjI0OTAxZWUxNzk4MjJkM2VlZjYwNmQ1MTZlNg==/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cultura",|MEX| EL GOURMET
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741459
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
+
 #EXTINF:-1,tvg-logo="https://lh5.googleusercontent.com/-WRHSZkHIfgo/TWrFF6t7PzI/AAAAAAAAAag/OlsA7MM5d-0/s1600/Azteca+7+logo+2011.jpg" group-title="Cultura",|MEX| Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master03_.m3u8
+
 #EXTINF:-1,tvg-logo="https://images.wikia.nocookie.net/__cb20171106202311/logopedia/images/thumb/3/3f/Azclic2014.png/130px-53%2C186%2C0%2C117-Azclic2014.png" group-title="Cultura",|MEX| Azteca Click
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw3MjUlMkYqJmV4cGlyeT0xNTgxMTQ1NzI0JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYjRkNjQ3OGM0NmM5MzA0ZDMwZDEwNDQ1NjI4ZjVmOTQ4OGE5MWQ3YTQzMDhjNDUyMmQ1ZGQ3YjVhNGZjOTBjNQ==/PROFILE03.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ejXfHa4.png" group-title="",History HD
 https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
@@ -257,18 +262,18 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+
 #EXTINF:-1, tvg-logo="https://tse4.mm.bing.net/th?id=OIP.2Vc8sra9rn308JBTtT4SagHaDf&pid=Api&P=0&w=359&h=170" group-title="Canales Miscelaneos", Miami TV | HD 
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-ODju9qWxqrE/UPghIhSo6nI/AAAAAAAAPnU/Y3TzahcP0kk/s320/Logo+Miami+TV.jpg" group-title="Canales Miscelaneos", Miami TV | FHD | USA
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
-
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV | HD  | Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CowEqOFgs2mGXQaLRhF106uCBMfzonPi6Qfu8tF9JATjabPLfVovPdNrfloNqIqiDffNWtbix3k9mRk3spfIGQofoJywUB75Qrp30smpVwmlYFGQ50Lx-LL1w-g8wQjS3KH8sLdfZIFPs2cCQ_2kjeJvbbjeZFgfZy2DcMjslcy6Q9Osx7XfGEk0_0gfljn3H6rhMrqQKkGggJQXaGJ7oDGU_DcpGm7STV35FKoG3F88URqwKWBm8o1clyFkuUO8iTE9tJJ9Oa8It4S83kCREHMEhDL7KObD7k9CWKRC-5PMcjNtnkTiN_-5jV3BUz1tp8D2_o3igyymK1hOXNc5yJ2q1JNr_rgCKXVyucX7DVqws9zDrKhiFA_0xyHkK725MeepKsShCF1xMiMpXLD8Ey8qOSbGyn58X_xWzz4p0pCgxWiGaXEs8aPMf-yiU9D5uj6rwnY7HTiSQGsO80zTYNYM9N5-eSwFm6bd75LC4CQ9CtRUUW8ygoEPXUfDW48UKrJRH07Wy2UAYa1JAmpr6XfDVQ5d0Fily-zGoLpuGyoBsTKWkTH_vFInXidmOsObjHcbZhPSy4xwiKv4yxd2sWTb4QSWKFzaffLJQ10msXXuZDJkWwE64bryFOSNY4gAKjslbd1nOVN81zlzWPY4UY8jYOQVl9dr3gLqS75Wi1c7THxLgOGgfVnIIleFZnkSEHGWzihHeSoaQ_BR2iBHVZkaDNdDkidtTiex1sATZg.m3u8
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CooEwIOvUrydrds0N7zeWbAamg6ARkHHVmib5VcP0QU6x8JQCdC2_hRaOFxt5Ju8Dh-HW1fXBybakWSfmDgJDKhLhf_Plc5guVT_L0uTOoqIDohPCIaEY8AM6ZWSKro9YUWZPV0Zi87nBQuYBoRIx8YlTTNxgmu36Q1Y29l4nuatK_wQ6emdt3aVZoxwbTTxLu9G_-Vi2tMx6OlMoJrR7-pWvvPf2-dp7n79mig0YfbSqAlhqyfqP_Pw0dl-JH30jMkJJvF0mZ22ssKj9_yiYztqLSJddZ_QpWrZd_2qDkNbN4G6rZ2bBMY4v4w0NVQ6WAxnNYMs7uV_UpT2Wlcf2pZF86Gxovg-C6yNuD8Cz7Mtzjl_OU2kv2U6L81UkYSiI8A7azpsN2iH1TG6FdiEQ5itlxbYRu_FkOLpyfXQa-s7NGKvBLIiecKwZclScVOTtkBPDSnP3UH0Bt-axei60NIZbqIWEybFdIvAIEO6x4tnNc4FWoeT_pjS7Sfu3CuPxjbKTvYI98nK7kXSC5UAiI9qVBU-aIh3xbDwJ_SVib5qyE2QCYMrgm5DTIq6EmFmwGQJL9jfnnaM7Ifs-BEZBj3Pq0okJ4Q00KwJ4i2P5Rj3Q-AUhHYoTDC8KyUcKEjZX5-RlkOo3igL95z8gndlN3J3x3tzktul7E8IAL4_yO437WidU_JtIVp199rREhC4dmCbHBclFBa-2PEtZioAGgx0a4RYoVZmmBj3bvo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV2
 http://91.134.238.137/live/goat/index.m3u8
 
@@ -406,9 +411,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="24/7 PLUTO TV",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1, xanadu
-https://stream.allsprk.tv/live/test/index.m3u8
-
 #EXTINF:-1, Movies4 24/7
 https://www.youtube.com/watch?v=6j4KVfAlykA
 #EXTINF:-1, Movies5 24/7
@@ -474,6 +476,7 @@ http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="VIETNAM",24/7 Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
 #EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Thundercats
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1,Random 1
@@ -495,8 +498,6 @@ https://stream.allsprk.tv/live/8/index.m3u8
 #EXTINF:-1,Random 9
 https://stream.allsprk.tv/live/9/index.m3u8
 
-#EXTINF:-1,Chozen
-https://stream.allsprk.tv/live/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
