@@ -43,14 +43,12 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Anime_central_logo.png/220px-Anime_central_logo.png", Anime All Ages
 https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
 
-#EXTINF:-1,UK |Cartoon Network UK
-http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2152.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="USA",Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-name="PBS (WPBT)" tvg-id="PBS-TV" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT)
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
@@ -174,56 +172,40 @@ http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2052.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Sky_Cinema_Hits_DE_Logo_2016.png" group-title="UK",Sky Cinema Hits
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2049.m3u8
 
-#EXTINF:-1,|MEX| Foro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX", Foro TV
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvb_1280x720_2500k.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="|MEX|" Canal de las Estrellas
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw0MzYlMkYqJmV4cGlyeT0xNTgxMTMzOTc2JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsZDNjYTE4ODJjMTdhY2MxMTlkZjc3M2IxMTk4NmNhOWFhMDhiMmE5Y2RiMjM5NjQ5NzYxZGJmOTFlNDI0NTI2MA==/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MX",De Pelicula MX 
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwzMzUlMkYqJmV4cGlyeT0xNTgxMTQ2NDk5JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYWUyZGI0M2QxYTJlNzFjZTJhOGFkYTI1Yjg4ZGI4YTdhZmFiNWE0NjJlMjkxMWVjOWEwZTEwYWUwNzExMmVkMw==/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMTglMkYqJmV4cGlyeT0xNTgxMTM0MDQxJmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsZGRmMzFhM2RmNjg0ZjE1NDJmNzhkMTI4YjU3ZTA1MmYzNmI3NGU4ZmM0NGQ3MzAzZTNkZDQ1MGIwZTM4ODE4Zg==/PROFILE03.m3u8
-
-#EXTINF:-1,|MEX| Teleformula
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado.jpg" group-title="MX", Teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
+
 #EXTINF:-1,|MEX| Bite ME
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTkxJTJGKiZleHBpcnk9MTU4MTE1MTEzNiZmbj1zaGEyNTYmeCUzQXM9c3ltOTgwOTExY2NvMW5oLGZiNTIyZjY0MDU5YzU4ZDg2YjVlMTVhMjYyMzUxM2RkMjI0NDcyMTdhMTdjZGQ4MjBhYzRiZjI0ZTM4ODcxYTQ=/PROFILE03.m3u8
 
-#EXTINF:-1,|MEX| Tele HIT
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL702,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw3MDIlMkYqJmV4cGlyeT0xNTgxMTQ2MDM4JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYTZmYzM2NGVlMjM5YzBmNjliNzkxYTYxYTMxNzA2ZTA1ZWRlMTAzYmZkYmJhZThjZDY2NDUwYTAxNGFkNmIzYw==/PROFILE03.m3u8
-
-#EXTINF:-1,|MEX| De Pelicula
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwzMzUlMkYqJmV4cGlyeT0xNTgxMTQ2NDk5JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYWUyZGI0M2QxYTJlNzFjZTJhOGFkYTI1Yjg4ZGI4YTdhZmFiNWE0NjJlMjkxMWVjOWEwZTEwYWUwNzExMmVkMw==/PROFILE03.m3u8
-
-#EXTINF:-1,Music TLT
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
+
 #EXTINF:-1,XD Tokyo
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,Knowladge TV
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/knowl.png" group-title="US",Knowladge TV
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+
 #EXTINF:-1, Wow Cine Japan
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMTclMkYqJmV4cGlyeT0xNTgxMTQ0OTk3JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsMDIzMWVlODU5ZGU4OTExZTc1YmYyMTU5MjZhMDFkOGUxNDQ0NjI0OTAxZWUxNzk4MjJkM2VlZjYwNmQ1MTZlNg==/PROFILE03.m3u8
-
-#EXTINF:-1,|MEX| DISCOVERY TLC
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741469
-#EXTINF:-1,|MEX| CANAL ONCE
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741489
-#EXTINF:-1,|MEX| CARTOON NETWORK
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741488
-
-#EXTINF:-1,|MEX| Golden Plus
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw0NDIlMkYqJmV4cGlyeT0xNTgxMTMzODk2JmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsYTJkYmE5NjVkOTU3ZmJiNDkzZTAxMTlmNjczMTNmODgzZWNlZmY5MjRkOTRiNWQ2MjA1OGNlYjZjMDI2OGI5MA==/PROFILE03.m3u8
-
-#EXTINF:-1,|MEX| Golden Edge
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUw0ODQlMkYqJmV4cGlyeT0xNTgxMTQ2OTMzJmZuPXNoYTI1NiZ4JTNBcz1zeW05ODA5MTFjY28xbmgsNDczMDk2Y2ZjYmVkZWFkZGIyOWJjZWFhMDYxNGE4ODkxNjIyY2E2ODBlZjc5ZTY4ZjZmZTZjNGFkZjNkZjIxMw==/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cultura",|MEX| EL GOURMET
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741459
