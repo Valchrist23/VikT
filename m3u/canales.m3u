@@ -67,9 +67,6 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://dominicanchannels.com/wp-content/uploads/2019/05/pu%C3%B1al-tv-300x194.png",Puñal TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="http://fmhot.cl/wp-content/uploads/2018/01/PRGRAMACION-DESTACADA.fw_.png", FMHOTMovies | 
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EUujsZU.png" group-title="CHILE",FM Hot Movies (Opt-1)
 http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
  
@@ -117,9 +114,6 @@ http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="HONDURAS",Q'hubo TV
-http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3jMiCj.png" group-title="CHILE",Pintana TV
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
 
@@ -135,7 +129,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2134.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" group-title="UK",Nickelodeon UK 
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2139.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_Bnpzj2hNgIg/TFvGzW7yACI/AAAAAAAAAAk/_jXTUpWjeuo/s1600/cartoon-network-logo.jpg" group-title="USA",Cartoon Network HD
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2151.m3u8
@@ -190,34 +184,21 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado.jpg" group-title="MX", Teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PIXEL
-https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
-
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/knowl.png" group-title="US",Knowladge TV
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
-#EXTINF:-1,XD Tokyo
-https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1, Wow Cine Japan
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cultura",|MEX| EL GOURMET
 http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741459
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
 
 #EXTINF:-1,tvg-logo="https://lh5.googleusercontent.com/-WRHSZkHIfgo/TWrFF6t7PzI/AAAAAAAAAag/OlsA7MM5d-0/s1600/Azteca+7+logo+2011.jpg" group-title="Cultura",|MEX| Azteca 7
 
 #EXTINF:-1,tvg-logo="https://images.wikia.nocookie.net/__cb20171106202311/logopedia/images/thumb/3/3f/Azclic2014.png/130px-53%2C186%2C0%2C117-Azclic2014.png" group-title="Cultura",|MEX| Azteca Click
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ejXfHa4.png" group-title="",History HD
@@ -435,13 +416,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1,Kool LND Music
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24/7 MANDARIN",24/7 Marvel Movies
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24/7 MANDARIN",24/7 Resident Evil Movies
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 3
@@ -477,7 +455,7 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="VIETNAM",24/7 Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
-#EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Thundercats
+#EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Random
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1,Random 1
 https://stream.allsprk.tv/live/1/index.m3u8
@@ -500,6 +478,10 @@ https://stream.allsprk.tv/live/9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1,XD Tokyo
+https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1, Wow Cine Japan
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
 http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -516,6 +498,8 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%2
 http://www.deadlyblogger.com/NewRelease/training.mp4
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES",A Christmas Star
 https://2.bp.blogspot.com/zRJE4%5FZ8lCmUyfCQQYw%2DA4XI4Tj26WsXoCqnrZ4Yzsjz%3Dm22
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PIXEL
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Madea Christmas 2013
 https://www.deadlyblogger.com/NewRelease/madea2013.mp4
