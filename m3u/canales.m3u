@@ -1,15 +1,11 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,UK | Kids Geo (UK) Log
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
-#EXTINF:-1,UK | E!
-http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2008.m3u8
-#EXTINF:-1,UK | Crime Investigation 
-http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2127.m3u8
 #EXTINF:-1 tvg-logo="https://d1og0s8nlbd0hm.cloudfront.net/tg4-redesign-2015/wp-content/uploads/2018/08/TG4-Logo-Grad_1600-le-pad1.jpg" group-title="USA",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0IXK_dusdg3l1aDY1gL2mAAAAA&pid=Api&P=0&w=300&h=300" group-title="USA",the asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JtCafjCMDPtdLBGgaLYxmwAAAA&pid=Api&P=0&w=178&h=162" group-title="USA",z linving
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
@@ -59,7 +55,6 @@ https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 
 #EXTINF:-1 tvg-id="tv.28" tvg-name="Prime" tvg-language="English" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Prime NZ
-
 
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a-/ACSszfG6TOAud_r5AZ8zRHuJNTk2sU0_PJXsf0RCMQ=s900-mo-c-c0xffffffff-rj-k-no",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -199,10 +194,12 @@ http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741459
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=340&format=HLSAD&f=.m3u8
+
 #EXTINF:-1,tvg-logo="https://lh5.googleusercontent.com/-WRHSZkHIfgo/TWrFF6t7PzI/AAAAAAAAAag/OlsA7MM5d-0/s1600/Azteca+7+logo+2011.jpg" group-title="Cultura",|MEX| Azteca 7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Fwq6oM.png" group-title="MEXICO",Azteca Clic (New!)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=223&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnWt2cF.png" group-title="LATIN AMERICA",Fox Premium Family (Dual) (New!)
 http://181.198.153.175:5005/play/a07s/index.m3u8
 
@@ -210,6 +207,8 @@ http://181.198.153.175:5005/play/a07s/index.m3u8
 https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" tvg-country="US" tvg-url="" group-title="",History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="",Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/invert-logo.png" group-title="", Multimedios TV
@@ -243,7 +242,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" group-title="", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,|Holvoet
+#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.pe9R5K1j-uuFGRsHwWrtEgAAAA&pid=Api&P=0&w=300&h=300" group-title="Canales Miscelaneos", Holvoet
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Latino
@@ -280,7 +279,7 @@ https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Classic Arts Showcase
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cgUAySwTdV0/V_rDBlllznI/AAAAAAAAA9s/DNQ04yQuyoM21NNTfwcWIOsZlBlXunWqgCLcB/s1600/People%2B%252B%2BArts%2B%25281997%2529.png" group-title="USA",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="",Pop
@@ -346,10 +345,10 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1", MTV USA Different
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1,EP
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_9QOWhWoCY-Q/S5dyyu3yyNI/AAAAAAAAAC0/bGmAkQCBCTY/s320/Ep+logo.bmp" group-title="Music", EP
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
-#EXTINF:-1,FoxMixClub
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ZrI38xiYMEAmCbQhQX2qZgHaEI&pid=Api&P=0&w=328&h=184" group-title="Music", FoxMixClub
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.dawn.com/large/2018/12/5c139eb053ffd.jpg" group-title="Music", Dijin A
@@ -361,25 +360,25 @@ http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1,|Music Retro
+#EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest?cb=20100526164945" group-title="Canales de Musica", Music Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
 
-#EXTINF:-1,One
+#EXTINF:-1, tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Canales de Musica", 1Mus
 http://rtmp.one.by:2300
 
 #EXTINF:-1, tvg-logo="s38aC2U.png" group-title="Canales de Musica", MTV | HD 
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1,RetroTV Music
+#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ai96wlrz5fNrUSV7sKL1YgHaFj&pid=Api&P=0&w=300&h=300" group-title="Canales de Musica", RetroTV Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tv.lattelecom.lv/media/upload/be47_chaula_tv.png", CHAU Music Tv
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.f6CRu0wyDg2h-LZtdvZ2PgHaEK&pid=Api&P=0&w=328&h=185", CHAU Music Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
-#EXTINF:-1, Mola TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LOGOTIP_de_molaTV.png/140px-LOGOTIP_de_molaTV.png" group-title="Lat", Mola TV 
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1, La SuperTV
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcG1ha3IubGFzdXBlcnR2bmV0X3NjcmVlbl8wXzE1MjA5MzEyMTFfMDUy/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Lat", La SuperTV
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box
@@ -415,11 +414,12 @@ https://www.youtube.com/watch?v=u15I8HB3gTk
 https://www.youtube.com/watch?v=1fhZJsnRTMs
 #EXTINF:-1, Movies13 24/7
 https://www.youtube.com/watch?v=m5TEZ4zxg1g
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="",VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="SpecialS", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1,Kool LND Music
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.Dac83-cpClxiAR2XX3i0TQHaHa&pid=Api&P=0&w=300&h=300" group-title="SpecialS",Kool LND Music
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24/7 MANDARIN",24/7 Marvel Movies
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
