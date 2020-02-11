@@ -45,6 +45,9 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="USA",Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jEtKLkp.png" group-title="UK",SciFi (New!)
+http://84.22.33.254/unicast.scifi/index.m3u8
+
 #EXTINF:-1 tvg-name="PBS (WPBT)" tvg-id="PBS-TV" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT)
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
@@ -168,14 +171,22 @@ http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2049.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX", Foro TV
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvb_1280x720_2500k.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ozinKJC.png" group-title="CHILE",El Pinguino TV (Opt-1)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nKdVqnU.png" group-title="ARGENTINA",Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88kYkJ3.png" group-title="MEXICO",Tlnovelas (New!)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=83&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="|MEX|" Canal de las Estrellas
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MX",De Pelicula MX 
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fox_Family_Channel2.svg/1635px-Fox_Family_Channel2.svg.png" group-title="|MEX|"Fox Family
+http://181.198.153.175:5005/play/a07s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
