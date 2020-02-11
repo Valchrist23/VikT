@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBpQDCZ.png" group-title="MEXICO",Canal 5 CDMX (New!)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=2038&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://d1og0s8nlbd0hm.cloudfront.net/tg4-redesign-2015/wp-content/uploads/2018/08/TG4-Logo-Grad_1600-le-pad1.jpg" group-title="USA",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
