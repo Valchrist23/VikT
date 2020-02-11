@@ -416,7 +416,7 @@ https://www.youtube.com/watch?v=1fhZJsnRTMs
 https://www.youtube.com/watch?v=m5TEZ4zxg1g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="SpecialS", Wow TV
+#EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="SpecialS", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.Dac83-cpClxiAR2XX3i0TQHaHa&pid=Api&P=0&w=300&h=300" group-title="SpecialS",Kool LND Music
