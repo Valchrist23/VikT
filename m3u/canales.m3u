@@ -3,6 +3,9 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBpQDCZ.png" group-title="MEX",Canal 5
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="UK",Mafa Shortfilm
+https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
+
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="SPAIN",Antena 3
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 
