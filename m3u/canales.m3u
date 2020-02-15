@@ -2,6 +2,10 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBpQDCZ.png" group-title="MEX",Canal 5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
 #EXTINF:-1 tvg-name="Bulb TV" tvg-id="" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Bulb_Energy_company_logo.png",Bulb TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-bulbtv-hsslive-25f-16x9-SD/chunklist.m3u8
 
