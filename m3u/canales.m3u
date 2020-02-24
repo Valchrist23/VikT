@@ -1,6 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="Twitch", New Releases Movies 24/7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="MX", Canal 5
+http://23.237.0.58:25461/live/prueba/prueba/26.m3u8
+
+ Releases Movies 24/7
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CsYE_1OHFLM_nZS9oKOw4cM1To7EbgfvdV7EHzi9Z--4gL-opSogLP2Y0-UEC_IwBuAzdS-KLCyEH-q8pZrxy06Du49lZpFfXAiLyrYRe3vG96YEnooH3BHzS35xJuD9pSxhFtM4fIE9ykNULZOzRWuRDfSCeP3in8DV8q5AdVlErBXk51bu2lD2JiVsyhGfqSXb7PaCjpM7zXF3P1SfGlicyyV6DFd7nwczrXckTYVH7kmCkbKyttza1YRQU6-lGNgVoq9yLqz2pgAIV04L9F3nlvDB7Gbxsrkrcoh1Z5Ezu2BquZDhOgnSOjN04bxJFs2go9SX3A_wZlOcR8mUcVBb2JYOjoml23Ot2TmaeJbI4KTqZO1FJNXs-5JK8pe9lHnwaTb5IroxmT3pW2Xf3w9WMLrVJySNNlnXjh2FxF8NHibQslHDWRjLZkb6Y20qG4tjXluN9q8JQgW6Cqi8DG3wZ-CGcv6jWbfKKBployYePEVdo8EQSsYxk_zI9DFhh8iTfX66-aylcg3XLPVuy20AW97n7hKuNiHFVP9KzIbcmnu2lGoCg2xWHD9UKo5dliuexEPtcHrfSTwLExZl0sE3Ie9RaWQCdVlQciUeHsbVBBpxRICDAilPt_8b6n2N8W4fsArntJDSFg8g-Zz8xz9WPhTV1hat7TwNYQkDHzH_xDuX74Kbu6LA_3PpnSXucIVBUqxTWR0x4KPcuI6AcoZljyvoqwdkZqcAKNlDXbalgs-4kjL5Ep3Vfl7HEBeUldABtMceYRfpEhA6dxdRhYX1dwCMPUJgX9RjGgzYzXEJncQsPf9ruKc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Anime_central_logo.png/220px-Anime_central_logo.png" group-title="Twitch", Anime time
