@@ -1,9 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="MX", Canal 5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Anime_central_logo.png/220px-Anime_central_logo.png" group-title="Twitch", Anime time
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CswECenINI4RpePiWe5QmVd-0iI2Ic8KuEzr7nhKCdZFJaEIjdzrUhTaf1rOXtsFYSpK4Cr1mr5inVHERJ8lbbd7TohepiwcvTx-7PrfkXTGMbIvVgv1YxFwxRXAW0TOQS_QMANDTaDh8vvlDeeh7ZFN6t5MtUDIHsaHIOneDmMrq2ZIypRgDWJOtZSCgP3iZr1iCc86em37XQCdt-O2-bCiHebNaGZHZQcauPWP8gOzVL0nY4QHLAdbIc4YYYJ2oFrCr_5QuXLly3m0fSsWCtG5DkXVt1WSFg8XzvJVQr0Q-M5w7N_Ycl7SZ7gqiIeaC2w7x4_y9sSz5lNKAyBJ2W_jaCwL7dnbh7-kquj4HYMTEA9fiRemIEV93fAd64ght9LRXVJwet239C3x0cX_IDZAfrkk4Czedqsk0UeJ9L7xJ-dZR2qQV97az5Wq1oTvCYWIvOr30IQfjZ4QnGr-oLj8FDM1U18y-aA8qOeqXB0fE1wW1ZgsK3joeHfjju9J7P9J9C_3Ju30btrvSQiUpTaB8y-JHGKYGvw1y0fcG-hBGmEO3XfQ9Js5fCT0luYU17GDaj8LgxL0ty6dBDJiJMMKyWjeKGO8aaPMf48nwhrTrsrwA3BIdVpJlGPnFFWVV2K-YKOCWUhnZ3U8AabzSjQpr0GyIlwytpgzsnpvdqOCEoZoUKNwXIhoMxySd3iMUey0ZxWxcRAEKelGVyEyvpzqipqzecO6JoJxQZtMxNcyzBe-_RPJ6wunDxI6FRroL9vHnVZA2GLGePmczhBREhAJVXFrKWQ45xWf7WCg5ieVGgxTbFliJ2oBM3eZrS0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",Disney Channel
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
