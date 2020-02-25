@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/Logo_DisneyChannel2010.png" tvg-country="US" tvg-url="" group-title="Kids",Disney Channel
 http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
