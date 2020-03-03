@@ -80,20 +80,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 http://radio.7chan.org:8000/CH7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sNidxnW.png" group-title="INDO",Fox Crime (Opt-1) (New!)
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sNidxnW.png" group-title="INDO",Fox Crime (Opt-2) (New!)
-https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WY2deTP.png" group-title="INDO",Fox Life (New!)
-https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="INDO",FX (New!)
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dfHHWYX.png" group-title="INDO",HBO Hits (New!)
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRXxLom.png" group-title="INDO",HBO Signature (New!)
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrEuZ7f.png" group-title="THAI",Fox Family Movies (New!)
-https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKVkp3m.png" group-title="THAILAND",FXM (New!)
-https://livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwQfZ7e.png" group-title="INDO",Disney Junior (Opt-1)
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -121,10 +107,6 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BswJZk.png" group-title="CHILE",Atacama TV
 https://v3.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zXY5XLu.png" group-title="Movies",Sony Movies Classics
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-language="English" tvg-logo="https://i.imgur.com/9uFrMex.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="",Space
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
