@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA", BEMAD tv
 http://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 
+#EXTINF:0 tvg-name="THREE" tvg-language="English" tvg-country="UK" tvg-id="THREE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMiu9JyrqRD_V1NympT4tBw90Isy9SbTCd5uWNWYhdBdtelFV0FJx1A" group-title="Public-Movie Channels",THREE (Public-Movie Channels) (UK) (English)
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",Azteca 7
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 
@@ -154,28 +158,30 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2134.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" group-title="MX",Nickelodeon 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=1708&format=HLSAD&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWRVenm.png" group-title="LATIN AMERICA",Nick 2 (New!)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=2147&format=HLSAD&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_Bnpzj2hNgIg/TFvGzW7yACI/AAAAAAAAAAk/_jXTUpWjeuo/s1600/cartoon-network-logo.jpg" group-title="USA",Cartoon Network HD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2151.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1024px-Cartoonito_logo.svg.png" group-title="USA",Cartoonito
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2153.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png" group-title="UK",Comedy Central UK HD
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1966.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png" group-title="UK",Comedy Central UK
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1967.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://seeklogo.com/images/C/Cine_Cinema_Premier-logo-8A764CBAD9-seeklogo.com.gif" group-title="UK",Cinema Premier 
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2034.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20111118190215/logopedia/images/4/46/Sky-Movies-DramaRomance.png" group-title="UK",UK Sky Cinema Drama & Romance
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2035.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--EgfQDU6vg8/UYLkuY6CReI/AAAAAAAAZcU/CIeuXU9WFZI/s1600/UKTV+Drama+logo+2013.jpg" group-title="UK",UK Drama 
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2016.m3u8
@@ -206,7 +212,8 @@ https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88kYkJ3.png" group-title="MEXICO",Tlnovelas (New!)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=83&format=HLSAD&f=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="|MEX|" Canal de las Estrellas
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MX",De Pelicula MX 
@@ -224,7 +231,6 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/knowl.png" group-title="US",Knowladge TV
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cultura",|MEX| EL GOURMET
@@ -235,18 +241,18 @@ http://95.86.32.7:999/food
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=340&format=HLSAD&f=.m3u8
+
 
 #EXTINF:-1,tvg-logo="https://lh5.googleusercontent.com/-WRHSZkHIfgo/TWrFF6t7PzI/AAAAAAAAAag/OlsA7MM5d-0/s1600/Azteca+7+logo+2011.jpg" group-title="Cultura",|MEX| Azteca 7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Fwq6oM.png" group-title="MEXICO",Azteca Clic (New!)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=223&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnWt2cF.png" group-title="LATIN AMERICA",Fox Premium Family (Dual) (New!)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=sym980911cco1nh&lchId=223&format=HLSAD&f=.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ejXfHa4.png" group-title="",History HD
-https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" tvg-country="US" tvg-url="" group-title="",History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="",Titanic TV
