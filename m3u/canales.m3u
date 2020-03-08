@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="ESPAÑA", BEMAD tv
 http://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HB TV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fr.trace.tv/trace-urban/wp-content/uploads/sites/2/2016/11/logo_mziki.png" group-title="Without category", Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.easycsgobets.com/wp-content/uploads/2015/03/ORBIT-logo-300x300.png" group-title="Without category", orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+
 #EXTINF:0 tvg-name="THREE" tvg-language="English" tvg-country="UK" tvg-id="THREE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMiu9JyrqRD_V1NympT4tBw90Isy9SbTCd5uWNWYhdBdtelFV0FJx1A" group-title="Public-Movie Channels",THREE (Public-Movie Channels) (UK) (English)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
