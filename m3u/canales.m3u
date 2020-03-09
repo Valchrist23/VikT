@@ -6,6 +6,9 @@ http://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HB TV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="Without category", a+
+http://aztkhlslive-i.akamaihd.net/hls/live/596132/amas/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://fr.trace.tv/trace-urban/wp-content/uploads/sites/2/2016/11/logo_mziki.png" group-title="Without category", Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
 
