@@ -21,14 +21,8 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="Without category", FDF | HD
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",Azteca 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_Azteca_7_1998.svg/600px-Logo_Azteca_7_1998.svg.png" group-title="MEXICO",Azteca 7
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es" group-title="MEXICO",Azteca 1
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/e06cdfd2-58e7-4c1b-a8a9-e54cf2ff84fb:DLS/variant/d17344e16f9e9753fee91df38e48d281/bandwidth/789800.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/Logo_DisneyChannel2010.png" tvg-country="US" tvg-url="" group-title="Kids",Disney Channel
-http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
@@ -198,22 +192,20 @@ http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2134.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--EgfQDU6vg8/UYLkuY6CReI/AAAAAAAAZcU/CIeuXU9WFZI/s1600/UKTV+Drama+logo+2013.jpg" group-title="UK",UK Drama 
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2016.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://radiodisneyclub.fr/wp-content/uploads/2015/04/Disney-Cinema-RGB-Logo-Alternative-BG-Blue1.png" group-title="UK",UK Disney Cinema 
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2040.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://kellysluckyyou.com/wp-content/uploads/2014/08/disneyfamily-logo.png" group-title="UK",UK Disney Familly
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2042.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Sky_uk_movies_action_adventure_hd.png/revision/latest?cb=20140329135514" group-title="UK",Sky Cinema Action Adventure
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2044.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/tvpedia/images/9/92/Sky_Movies_Sci_Fi_and_Horror.png/revision/latest?cb=20160104133923&path-prefix=ru" group-title="UK",Cinema SCI-FI
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2052.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Sky_Cinema_Hits_DE_Logo_2016.png" group-title="UK",Sky Cinema Hits
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2049.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX", Foro TV
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvb_1280x720_2500k.m3u8
@@ -246,9 +238,9 @@ http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/knowl.png" group-title="US",Knowladge TV
 
-
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cultura",|MEX| EL GOURMET
-http://iplay-tv.com:9999/AnEoOyND/H564mYF3/741459
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK",Food Network
 http://95.86.32.7:999/food
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
@@ -346,9 +338,6 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" tvg-country="PK" tvg-url="" group-title="Kids",POP Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vIQR1Fv.png" tvg-country="UK" tvg-url="" group-title="Kids",POP Kids
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
@@ -468,14 +457,7 @@ https://www.youtube.com/watch?v=Fz0GPHrch5o
 https://www.youtube.com/watch?v=5F_kbM2DSpY
 #EXTINF:-1, Movies8 24/7
 https://www.youtube.com/watch?v=UbmXX4djv2M
-#EXTINF:-1, Movies9 24/7
-https://www.youtube.com/watch?v=Xubshk2jFJw
-#EXTINF:-1, Movies10 24/7
-https://www.youtube.com/watch?v=u15I8HB3gTk
-#EXTINF:-1, Movies12 24/7
-https://www.youtube.com/watch?v=1fhZJsnRTMs
-#EXTINF:-1, Movies13 24/7
-https://www.youtube.com/watch?v=m5TEZ4zxg1g
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="SpecialS", Wow TV
