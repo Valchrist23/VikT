@@ -39,6 +39,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/aztecadeportes.png" group-title="MEXICO",Azteca Deportes
 https://dai.google.com/linear/hls/pa/event/2fbVlME-Q9qJ_5TdUYsW2A/stream/04b29b48-aa28-4803-8dbc-e8381c20ec26:DLS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B", Travle HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
