@@ -24,6 +24,9 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="Without category", FDF | HD
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-azteca-uno-1314.png" group-title="MX", Azteca Uno
+https://dai.google.com/linear/hls/pa/event/ZyR7aLo4Rom-9KzwcLCoNg/stream/1ff4560e-6782-4653-9216-295fd3eef9c7:DLS/variant/78da20f8f1c42899d160562baa97c79a/bandwidth/789800.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_Azteca_7_1998.svg/600px-Logo_Azteca_7_1998.svg.png" group-title="MEXICO",Azteca 7
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 
