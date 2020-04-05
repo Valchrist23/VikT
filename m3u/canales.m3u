@@ -633,6 +633,9 @@ https://goo.gl/sFaEVq
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
 http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:0 type="stream" channelId="-1" radio="true" tvg-logo="http://i.imgur.com/4CGIlyX.jpg" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
+http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
 
 #EXTINF:-1,Exxxtassy
 http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
