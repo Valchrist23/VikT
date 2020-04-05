@@ -91,11 +91,17 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="Infantil", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRLOlNT.png" group-title="USA",Kids Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-name="Buzzr" tvg-id="buzzr.com" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png",Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="USA",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="USA",Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
@@ -180,6 +186,22 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iree4Y7.png" group-title="UK",Syfy (New!)
 http://84.22.33.254/unicast.scifi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LecvKzR.png" group-title="USA",MGM Sci-Fi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1NCY1k.png" group-title="USA",PHL 17 Philadelphia
+https://v-pi.mybtv.net/event/17.1/1280x720?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2046&env=prd&uid=29375
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA",Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-1)
+http://cdnak8.cast4u.info/channels/2/10802.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
 
