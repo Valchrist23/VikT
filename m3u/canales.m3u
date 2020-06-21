@@ -9,8 +9,9 @@ https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7PUTPqg.png" group-title="LATIN AMERICA",Azteca America
 https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-ooPzTWzvqvw/TWrIAKRxrTI/AAAAAAAAAak/s6qcrTFXSOI/s1600/Azteca+7+logo.png" group-title="MEXICO",Azteca 7
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
 https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 
@@ -38,17 +39,8 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="Without category", FDF | HD
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-azteca-uno-1314.png" group-title="MX", Azteca Uno
-https://dai.google.com/linear/hls/pa/event/ZyR7aLo4Rom-9KzwcLCoNg/stream/1ff4560e-6782-4653-9216-295fd3eef9c7:DLS/variant/78da20f8f1c42899d160562baa97c79a/bandwidth/789800.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-ooPzTWzvqvw/TWrIAKRxrTI/AAAAAAAAAak/s6qcrTFXSOI/s1600/Azteca+7+logo.png" group-title="MEXICO",Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MX",adn 40
 https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/68668d27-a6a9-4f8e-86ae-0f4b2b0ad400:DLS/variant/347dd514e4c301d219227132972fd749/bandwidth/681120.m3u8
-
-#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/aztecadeportes.png" group-title="MEXICO",Azteca Deportes
-https://dai.google.com/linear/hls/pa/event/2fbVlME-Q9qJ_5TdUYsW2A/stream/04b29b48-aa28-4803-8dbc-e8381c20ec26:DLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B", Travle HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
@@ -268,7 +260,7 @@ http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Without category", Out Door Cooking
+#EXTINF:-1 tvg-logo="http://www.+cookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Without category", Out Door Cooking
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
