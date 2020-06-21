@@ -14,9 +14,6 @@ http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
 https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="LATIN AMERICA",Cartelera Hollywood (Dual)
-http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y65NQ49.png" group-title="CHILE",Maxima Movie
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 
@@ -229,45 +226,14 @@ http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2134.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" group-title="MX",Nickelodeon 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWRVenm.png" group-title="LATIN AMERICA",Nick 2 (New!)
-
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_Bnpzj2hNgIg/TFvGzW7yACI/AAAAAAAAAAk/_jXTUpWjeuo/s1600/cartoon-network-logo.jpg" group-title="USA",Cartoon Network HD
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1024px-Cartoonito_logo.svg.png" group-title="USA",Cartoonito
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png" group-title="UK",Comedy Central UK HD
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png" group-title="UK",Comedy Central UK
-
-
-
-#EXTINF:-1 tvg-logo="http://seeklogo.com/images/C/Cine_Cinema_Premier-logo-8A764CBAD9-seeklogo.com.gif" group-title="UK",Cinema Premier 
-
-
-#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20111118190215/logopedia/images/4/46/Sky-Movies-DramaRomance.png" group-title="UK",UK Sky Cinema Drama & Romance
-
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--EgfQDU6vg8/UYLkuY6CReI/AAAAAAAAZcU/CIeuXU9WFZI/s1600/UKTV+Drama+logo+2013.jpg" group-title="UK",UK Drama 
-
-
-#EXTINF:-1 tvg-logo="https://radiodisneyclub.fr/wp-content/uploads/2015/04/Disney-Cinema-RGB-Logo-Alternative-BG-Blue1.png" group-title="UK",UK Disney Cinema 
-
-
-#EXTINF:-1 tvg-logo="http://kellysluckyyou.com/wp-content/uploads/2014/08/disneyfamily-logo.png" group-title="UK",UK Disney Familly
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Sky_uk_movies_action_adventure_hd.png/revision/latest?cb=20140329135514" group-title="UK",Sky Cinema Action Adventure
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="US",KTLA
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/tvpedia/images/9/92/Sky_Movies_Sci_Fi_and_Horror.png/revision/latest?cb=20160104133923&path-prefix=ru" group-title="UK",Cinema SCI-FI
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2052.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX", Foro TV
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvb_1280x720_2500k.m3u8
