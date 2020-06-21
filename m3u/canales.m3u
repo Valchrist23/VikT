@@ -1,6 +1,5 @@
 ﻿#EXTM3U
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HB TV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
@@ -12,6 +11,8 @@ https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
+https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="LATIN AMERICA",Cartelera Hollywood (Dual)
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
@@ -283,7 +284,8 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="|MEX|" Canal de las Estrellas
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MX",De Pelicula MX 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fox_Family_Channel2.svg/1635px-Fox_Family_Channel2.svg.png" group-title="|MEX|"Fox Family
@@ -297,13 +299,11 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/knowl.png" group-title="US",Knowladge TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
+https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cultura",|MEX| EL GOURMET
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK",Food Network
-http://95.86.32.7:999/food
+#EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Without category", Out Door Cooking
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
