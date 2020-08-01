@@ -25,7 +25,7 @@ http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=198&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="Without category", a+
-http://aztkhlslive-i.akamaihd.net/hls/live/596132/amas/master.m3u8
+http://roedor.xyz/regiomx20x/tp.php?c=2316&p=3&k=srregio&f=.m3u8%20%20
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Without category", France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -266,7 +266,7 @@ http://roedor.xyz/regiomx20x/tp.php?c=2145&p=3&k=srregio&f=.m3u8%20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
 http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Cultura",|MEX| El Gourmet
+#EXTINF:-1,tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Cultura",|MEX| El Gourmet
 http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Fwq6oM.png" group-title="MEXICO",Azteca Clic (New!)
