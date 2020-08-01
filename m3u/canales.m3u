@@ -188,6 +188,9 @@ https://v-pi.mybtv.net/event/17.1/1280x720?start_time=2019-12-11T19%3A45%3A00.00
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA",Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="MEXICO", TLC
+http://roedor.xyz/regiomx20x/tp.php?c=97&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
@@ -247,9 +250,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado.jpg" group-title="MX", Teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="MEXICO", TLC
-http://roedor.xyz/regiomx20x/tp.php?c=97&p=3&k=srregio&f=.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 
@@ -280,10 +280,9 @@ http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="UK",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" tvg-country="US" tvg-url="" group-title="",History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="",Titanic TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/invert-logo.png" group-title="", Multimedios TV
