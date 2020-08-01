@@ -23,6 +23,8 @@ http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="España",TVE
 http://roedor.xyz/regiomx20x/tp.php?c=198&p=3&k=srregio&f=.m3u8%20
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="España",StarTVE
+http://roedor.xyz/regiomx20x/tp.php?c=2375&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="Without category", a+
 http://roedor.xyz/regiomx20x/tp.php?c=2316&p=3&k=srregio&f=.m3u8%20%20
