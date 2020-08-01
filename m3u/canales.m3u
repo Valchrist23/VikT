@@ -240,11 +240,15 @@ http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fox_Family_Channel2.svg/1635px-Fox_Family_Channel2.svg.png" group-title="|MEX|"Fox Family
 http://181.198.153.175:5005/play/a07s/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado.jpg" group-title="MX", Teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="MEXICO", TLC
+http://roedor.xyz/regiomx20x/tp.php?c=97&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
@@ -266,7 +270,7 @@ http://roedor.xyz/regiomx20x/tp.php?c=2145&p=3&k=srregio&f=.m3u8%20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
 http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
 
-#EXTINF:-1,tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Cultura",|MEX| El Gourmet
+#EXTINF:-1,tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Cultura", El Gourmet
 http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Fwq6oM.png" group-title="MEXICO",Azteca Clic (New!)
