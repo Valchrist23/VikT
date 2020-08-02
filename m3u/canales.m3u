@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HB TV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.k6rf2YBLsxA8UzPWjUrL0AHaE8&pid=Api&P=0&w=247&h=165" group-title="Without category", Chespirito TV
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CusEvjQrQ2kZVk0KymWNdZbBB5wLeQ4vrFLKVItzEEM5Cz3SZrzIhrsx5dMMzqifQZB7jy2ImbxwAWoEn55u57mzOBwrBTZYCB9Hm35KvWkDoA1RzbP3vbu4fPI8hx35A0podFMKLoBuLWafZDB3mNCOvebAUWyCdpu5hi6FupQ-Ch2XKuKGFU3uHiG5v6dDPQbYB97iQ8uPadW6DkUegpr-ZnCEFCpAbKHi2LRmm3rlPDSdCVO1bs-4fKjkfyNxzHXdIIMntsmSX6bjWqOhGSRbCtGNBWVG-Edx9hG8qwPmwPQ9zcJ2u08klEbrKqGSXwMKqn4LtxRpsQAHnlsB8QGPO2K8u4C1mAFREX5jgcO8eQDxANfjatUbjs8CYK0Cvd1qZjZDMVDNBP5vqDeFC0-81k7ZmqXiVsmaZFwsWnOYq0H0SOQiqvcX02hnOCVLtLs60QcNBoE9NJ0w4lz4jeqhHn0aTI3fUgccxQVZNo0z8Rsx2rCeOdq_iPtt88hwKzXSmWJo1IDJTMRSNX0Ffhpj0zSyvRdlm5rX09_JW9cinGIpd_eIZ9cffABW9T_ISRFjir1VK5SUL0UM2aXt6LLIP36FVgKIiDtXu1FRkGKyzgjGMIKmwTg77TvdRKBQYNlg2mLEQJMSxLZFtgt2BKDAcDBI1AeGkUZnF-DazLkpRjryW9XhsUTBDBmoGGMz-MYtxcrs3A3TPJk6GtWErvCjUXB0ODGbKW00knt3spIBbb-gs1oVfgLF0nuraN20i25qzfa-xBNcdxQMUX1lBSWuzw1-6PilE_RoGgBEqEV0Dln1z7ireBsWkSTRGBIQmUk49oo2WXJZ3WJ6_qj1IxoMoVSnvh37kvdFC2MQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno 
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
