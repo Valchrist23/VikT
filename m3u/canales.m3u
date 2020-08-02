@@ -90,6 +90,12 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="Infantil", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="Animation", Retro Crush
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/60739b67-fe1f-4388-9789-4a6ed5a53d47/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://specials.layer3tv.com/hubfs/Blog%20Assets/Blog%20Images/Toon_Goggles_Logo_Orange_rectangle.jpg" group-title="Animation", TG Toon Google
+https://stream-us-east-1.getpublica.com/cl/3b58896d-a137-4ab5-850e-c88433b1c6e0/640x480_0.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
@@ -102,7 +108,8 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="USA",Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jEtKLkp.png" group-title="UK",SciFi (New!)
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-2hyMnkH-3Ds/TlwC6t0eamI/AAAAAAAAATE/kjEpG65EsAc/s1600/tves.jpg" group-title="Movies",TV ES 
+http://95.216.150.122:1935/tves/tves/chunklist_w767857638.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://bhtv.pe/wp-content/uploads/2017/04/bhtv-logo-300x219.png" tvg-country="MX" tvg-url="" group-title="",BH tv
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -126,14 +133,17 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="Esp",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwQfZ7e.png" group-title="INDO",Disney Junior (Opt-1)
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwQfZ7e.png" group-title="INDO",Disney Junior (Opt-2)
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8WkMCW4Y8yxHH8_NwVCJgwHaHa&pid=Api&P=0&w=300&h=300" group-title="news",MVM Television
+https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="news",Sintesis TV
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/Cu0EOblcdW55Gl3DiR-LVAiHNMF-ZyBa6cgKQ0xNUJ_jJsdWlcaePHFN8LwiaNT2_QuONBNo0FPjQrtk5TqwaZUk9SpSqIbbJj4u_BHlwD8_ZoLv7_CIU2nilQMpFCBX-NlZyx1VL1sm6VjKjKfaaCWclSWIzqWnhaAkXli4aRoPKsMu-XAvvDeSnJpF81PaDHMt288EG8B-jN9gnn0ajf1_aCesbhtbuT_yLb9aM8EHxfYFHBvllt4r1biedv0KpJbhmqFB2SjleI_S3JABuZ7pghXgJT5j03FMEpMz9jUxrNEpJvLRs8prMOx3mjej7_FK4MPAlyQKTtivy5yD4ha4cIJxLjvqzu4W45uPCwRPRmce1RJj8afpEWcDkM3qJWxxE_Syz6tPyDuclZO0mETKXh99J1y4ghrtrJ5pKG7rIQqpiem-_LJ8hWRXxZj4ZlXeqQpt1fsl0rmC83_-8Rl5n4ofuBYQMHb4lcp6wzqzY_BnNi5yNkd3ZKerNJYefIyKqsUW7pYny-KchqMP0ccf5xkd507PQYBLjIEJGz4duzOHW9DNT0wovp-wK0jyiFdIZm1PF1fWK8CbC_WzcAS2tCv7jQLdXrd4QsoeodoIf-X-2AX0YTaM6qR0rQ3NZwXORQEG-QbkMjm5lTXbrzOlhLTRCwmbCN_zG1UReGl1D17KryDpZqt5SxjfahOmpGhnRzAXwzaXLEcMidGxikCSLrhOazVBVlzsU8PWB6cMqhVR-1WufMvX5_aG0E844B5xYzO5rMboKY0Iz8Qt05dYQKp2HO1Fl650dJDPqekXcBaUAkbWQ419NRHmgG-6EhAKIf6j9JatMHWddPg-jLKoGgyMO8cAs3OBzf4dJaw.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
+https://playback2.akamaized.net/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/exp=1596428084~acl=%2f*~data=hdntl~hmac=0ee986160ffb98e80be22cfad68cfcae99d3afd71b75bbccb1ce16ab0cd562ef/media/27177136_8970901_lsijbnyuc2ucm74elfi_1@2128000p.m3u8?dw=14400&ts=1596340800
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="", 13MAX | HD
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VSUbSDi.png" group-title="INDO",Disney XD (New!)
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -206,7 +216,11 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="UK",UK Disney
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2134.m3u8
 
-#EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" group-title="MX",Nickelodeon 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/b8/eb/ccb8eb3f8769444b78f1425e557b3aa4.png" group-title="Sport",EDGE Extreme
+https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea71d45252710041e0ccb9/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/1280x720_2890800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.c9jaWFU0gDtj8-sqBY6v8AHaHa&pid=Api&P=0&w=300&h=300" group-title="Drink", Drink TV  
+https://stream-us-east-1.getpublica.com/cl/6831833c-eb8c-4dce-9214-5d7d9fc9b77d/1280x720_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="US",KTLA
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
