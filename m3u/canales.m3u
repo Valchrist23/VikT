@@ -12,9 +12,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=17&p=3&k=srregio&f=.m3u8%20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEX" Canal 5
 http://roedor.xyz/regiomx20x/tp.php?c=20&p=3&k=srregio&f=.m3u8%20
 
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-ooPzTWzvqvw/TWrIAKRxrTI/AAAAAAAAAak/s6qcrTFXSOI/s1600/Azteca+7+logo.png" group-title="MEXICO",Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/0cc73a5f-167a-4e49-be3c-d8caad75418c:DLS/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/789800.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/0cc73a5f-167a-4e49-be3c-d8caad75418c:DLS/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/789800.m3u8
 
