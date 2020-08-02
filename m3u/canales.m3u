@@ -48,9 +48,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSIx6la.png" group-title="UK",Mafa Shortfilm
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
-
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="SPAIN",Antena 3
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 
@@ -123,6 +120,10 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2019/05/pu%C3%B1al-tv-300x194.png",Puñal TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Without category", So...Real
+https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/28a0de89-376d-4402-a207-1e3e621ef63c/2.m3u8
+
 #EXTINF:-1 tvg-name="Channel 7" tvg-id="Channel7" group-title="USA" tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png",Channel 7
 http://radio.7chan.org:8000/CH7
 
@@ -162,9 +163,6 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BswJZk.png" group-title="CHILE",Atacama TV
 https://v3.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-language="English" tvg-logo="https://i.imgur.com/9uFrMex.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/XHGTV.png", Canal 4
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
@@ -172,12 +170,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="DOMINICAN REPUBLIC",Telenovisa 43
 http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fCUgMtm.png" group-title="Entertainment", Paramount Channel
-http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" group-title="Entertainment", Paramount Channel
-http://paramount.live.flumotion.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -193,9 +185,6 @@ http://84.22.33.254/unicast.scifi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LecvKzR.png" group-title="USA",MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1NCY1k.png" group-title="USA",PHL 17 Philadelphia
-https://v-pi.mybtv.net/event/17.1/1280x720?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2046&env=prd&uid=29375
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA",Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
