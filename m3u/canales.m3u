@@ -457,17 +457,8 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LOGOTIP_de_molaTV.png/140px-LOGOTIP_de_molaTV.png" group-title="Lat", Mola TV 
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcG1ha3IubGFzdXBlcnR2bmV0X3NjcmVlbl8wXzE1MjA5MzEyMTFfMDUy/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Lat", La SuperTV
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2059160/screenshots/4442715/day29-film.jpg" group-title="CH",Holliwood China
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/TDRDF4q.png" tvg-country="US" tvg-url="" group-title="",byu TV
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png", 24/7 Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="24/7 PLUTO TV",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -485,6 +476,7 @@ https://www.youtube.com/watch?v=UbmXX4djv2M
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="SpecialS", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
@@ -493,8 +485,10 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Asia", HBO Asia 
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.SWANuG4PSGc87SlDJtm3KgAAAA&pid=Api&P=0&w=448&h=162" group-title="24/7",Movies
 http://51.158.190.97/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-1)
 https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8
 
@@ -548,8 +542,6 @@ https://stream.allsprk.tv/live/9/index.m3u8
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1,XD Tokyo
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1, Wow Cine Japan
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
 http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
