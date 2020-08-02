@@ -75,6 +75,9 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JtCafjCMDPtdLBGgaLYxmwAAAA&pid=Api&P=0&w=178&h=162" group-title="USA",z linving
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="USA", Warner
+https://edge4-sl.cvattv.com.ar//live/live/WarnerHD/verimatrix_rotating_FTA/WarnerHD-video=530000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="MEX", Mundo Mas 
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
 
