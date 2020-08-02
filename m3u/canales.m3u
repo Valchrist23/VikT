@@ -223,13 +223,13 @@ http://edge2-sl.cvattv.com.ar//live/live/TNT/verimatrix_rotating_FTA/TNT-video=5
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="UK",UK Disney
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2134.m3u8
+https://edge-live11-sl.cvattv.com.ar//live/c3eds/DisneyChannelHD/verimatrix_rotating_FTA/DisneyChannelHD-video=1040000-audio_20001=144800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/b8/eb/ccb8eb3f8769444b78f1425e557b3aa4.png" group-title="Sport",EDGE Extreme
 https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea71d45252710041e0ccb9/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/1280x720_2890800/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.c9jaWFU0gDtj8-sqBY6v8AHaHa&pid=Api&P=0&w=300&h=300" group-title="Drink", Drink TV  
-https://stream-us-east-1.getpublica.com/cl/6831833c-eb8c-4dce-9214-5d7d9fc9b77d/1280x720_0.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="US",KTLA
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
