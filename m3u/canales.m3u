@@ -10,10 +10,7 @@ https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CusEvjQrQ2kZVk0KymWNdZbBB5w
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEX" Canal de las Estrellas
-http://roedor.xyz/regiomx20x/tp.php?c=17&p=3&k=srregio&f=.m3u8%20
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6Pfj33.png" group-title="EL SALVADOR", Canal 5
-https://ul.cdn946.net:8443/hls/r3aiivtasuq.m3u8?s=PD5xcfQ04RS4S_oG83wB7g&e=1596420919
+https://edge3-sl.cvattv.com.ar//live/c2live/Canal_de_las_estrellas/verimatrix_rotating_FTA/Canal_de_las_estrellas-video=1532000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEX" Canal 5
 https://ul.cdn946.net:8443/hls/r3aiivtasuq.m3u8?s=PD5xcfQ04RS4S_oG83wB7g&e=1596420919
@@ -202,7 +199,7 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+https://edge-live12-hr.cvattv.com.ar//live/live/Boomerang/verimatrix_rotating_FTA/Boomerang-audio_AACL_spa_144800_51=144800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iree4Y7.png" group-title="UK",Syfy (New!)
 http://84.22.33.254/unicast.scifi/index.m3u8
@@ -248,17 +245,18 @@ https://dcs-vod.apis.anvato.net/vod/p/2831300/prog.m3u8?i=i176816478-n2d8c1773-f
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ozinKJC.png" group-title="CHILE",El Pinguino TV (Opt-1)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
 https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKdVqnU.png" group-title="ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fox_Family_Channel2.svg/1635px-Fox_Family_Channel2.svg.png" group-title="|MEX|"Fox Family
 http://181.198.153.175:5005/play/a07s/index.m3u8
 
@@ -273,6 +271,9 @@ http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Without category", History2
+https://edge6-hr.cvattv.com.ar//live/c2live/History_2/verimatrix_rotating_FTA/History_2-video=1040000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Without category", Food Network
 http://roedor.xyz/regiomx20x/tp.php?c=2145&p=3&k=srregio&f=.m3u8%20
@@ -322,8 +323,9 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 https://player-api.new.livestream.com/accounts/25082096/events/7376073/live.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/super-tv-55-300x169.jpg", Super TV55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png", NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
+https://edge1-sl.cvattv.com.ar//live/live/SonyHD/verimatrix_rotating_FTA/SonyHD-video=530000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/piweDaK.jpg" tvg-country="US" tvg-url="" group-title="",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
@@ -356,6 +358,7 @@ http://91.134.238.137/live/goat/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Fbzbq1y.png" tvg-country="US" tvg-url="" group-title="",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
@@ -391,6 +394,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_500
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png" group-title="USA", Investigation Discovery ID
+https://edge2-sl.cvattv.com.ar//live/live/ID/verimatrix_rotating_FTA/ID-video=1040000.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24/7 PLUTO TV",Forensic Files
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
