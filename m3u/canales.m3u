@@ -23,8 +23,20 @@ http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="España",TVE
 http://roedor.xyz/regiomx20x/tp.php?c=198&p=3&k=srregio&f=.m3u8%20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MEXICO",DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="España",StarTVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="|MEX|" Canal de las Estrellas
+http://roedor.xyz/regiomx20x/tp.php?c=17&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="|MEX|" Canal 5
+http://roedor.xyz/regiomx20x/tp.php?c=20&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/65/Hola_tv_logo.png/revision/latest?cb=20151122155608" group-title="|MEX|" Hola TV
+https://edge10-sl.cvattv.com.ar//live/live/Hola_TV/verimatrix_rotating_FTA/Hola_TV-audio_AACL_spa_144800_51=144800.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/65/Hola_tv_logo.png/revision/latest?cb=20151122155608" group-title="|MEX|" Hola TV
+http://roedor.xyz/regiomx20x/tp.php?c=219&p=3&k=srregio&f=.m3u8%20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="España",StarTVE
 http://roedor.xyz/regiomx20x/tp.php?c=2375&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="Without category", a+
@@ -138,6 +150,7 @@ https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="news",Sintesis TV
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CusEtZ-xb9BkOplcCtG3OwAAOTrOIFtzZHKIUfVbYObsa_hyGRdLGeVQ3nNLSCNHqaX_exk4S8Gw__1lGRX7JeoV-xpt2ViRszuGxFXDMK3JN65Mq6VyMwygmCOebWhY30XN96j3ZNITt5UPM4jioIqlGx6hE_t7QAYHwSiBPxNTWMFqNUOBJ_GsHU6iwdxMJLP92co4tGjRAU8YJ96HGXfRaF-Fe6st6tqoZgb_rTfJUVRqP2LMvhPlCVRIxlTLE_xe4_5BReUPXjomFApWi4wdurUbxX13R1W4R7q3NJwuk4uEjuTXfhF5ISkGTvR78Xqzt3oFLR2uin42kNWguetZlcgvlxbYwt2NsRgcfoRKpxg0okxfB8IWtpzCaCbMGR52BcHg4qlJ-qR1fv5sP0wErDauZZ-sqvwWsSFV-2Y1KvlT6p13buzsH1e_ghcs5Dkim6-SrpMGy7SS5RJ-OzfX16G7PUA94-wm29JdnDmm091CNUNJrDqsk1zfheHyPmU1gRAlZir8m_ily-Ct5Jus46Atb3ajszqnUBpplWPJEVpU5IMl6Yl32VSNyR__NPd9BKJRRO1WFLTb-yaW2O6gn5rmuVfjampto1ILLcWP5Nu4QfJEsifKNWrPS56TQAfZapYWBqkb7Ajmt5L4vf8PK0ZDKLH1IwRDs5d339ee9BU_MfLoUKyfuIhv_78LU_X1RUaqWKn6Bv_57zSEG-DajjAUDn4T6lZEHEp1CRC007NqBEplzi5G7kAqdvZ4ic3hEJEoKKOxS3uvVwQlDqAUJVImCTDUgJRCj2zfw6ysLAmcMUfYqNPTBRspZhIQkT8eNJOSp-3n7msrI0NARBoMCKV0atUJtelEzrTu.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 https://playback2.akamaized.net/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/exp=1596428084~acl=%2f*~data=hdntl~hmac=0ee986160ffb98e80be22cfad68cfcae99d3afd71b75bbccb1ce16ab0cd562ef/media/27177136_8970901_lsijbnyuc2ucm74elfi_1@2128000p.m3u8?dw=14400&ts=1596340800
 
@@ -228,18 +241,7 @@ https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKdVqnU.png" group-title="ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MEXICO",DW
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="|MEX|" Canal de las Estrellas
-http://roedor.xyz/regiomx20x/tp.php?c=17&p=3&k=srregio&f=.m3u8%20
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="|MEX|" Canal 5
-http://roedor.xyz/regiomx20x/tp.php?c=20&p=3&k=srregio&f=.m3u8%20
-
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/65/Hola_tv_logo.png/revision/latest?cb=20151122155608" group-title="|MEX|" Hola TV
-
-http://roedor.xyz/regiomx20x/tp.php?c=219&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
