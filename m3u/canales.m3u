@@ -77,9 +77,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Canales Españoles", Boing | HD 
 
-
-#EXTINF:-1 tvg-logo="http://www.formulatv.com/fotos/a/156000/156317/huyj0srmvt0n9f32la4f86e97158bac_logotipo-en-png-de-andluna-el-misterio-de-calendaand.png" group-title="Canales Españoles", Luna TV | 
-
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="Without category", Bob Ross Channel
+https://0167f86aa97a480aa970acbab674bd42.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_BobRoss/3d3c7fe4-1b0f-4203-8c5a-60ab403fe1dd/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png" group-title="", Chicos IPE | HD 
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
