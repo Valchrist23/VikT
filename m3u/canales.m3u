@@ -46,7 +46,7 @@ http://roedor.xyz/regiomx20x/tp.php?c=2316&p=3&k=srregio&f=.m3u8%20%20
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr.trace.tv/trace-urban/wp-content/uploads/sites/2/2016/11/logo_mziki.png" group-title="Without category", Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MX",adn 40
 http://roedor.xyz/regiomx20x/tp.php?c=184&p=3&k=srregio&f=.m3u8%20%20
@@ -76,7 +76,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 https://edge3-hr.cvattv.com.ar//live/c3eds/Space/verimatrix_rotating_FTA/Space-video=1040000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="USA", Warner
-https://edge4-sl.cvattv.com.ar//live/live/WarnerHD/verimatrix_rotating_FTA/WarnerHD-video=530000.m3u8
+https://edge4-sl.cvattv.com.ar//live/live/WarnerHD/verimatrix_rotating_FTA/WarnerHD-audio_AACL_spa_144800_51=144800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="MEX", Mundo Mas 
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
