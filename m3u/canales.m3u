@@ -160,8 +160,9 @@ https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="news",Sintesis TV
 https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CusEr32VDlYmmDof00W8vt_zjQF9QoBejAKH53c3LX0Rl1QDLruNDiweIlnjAuWNBkfFLaLbq7NQzNIQgGMZRjRdQ686nmCJMOHhmQF7dbM_pmRuoBmJPYri5ccZl10Qma4GauSR1Gf-kVBDczpdvdf3tYxpPLuXnDE4TNRa37lslW9mpXTKe5c3I35v04pA1mVvpuUKAOa2NTrhfDszf-J8fCKZGAXj01Nne_XT3-yq8h6yhhRg_Zw8A4mJdnlZjjUGwedTBeNhtZ1NHMe7NKOOFTQDQIOjLGLZcyxPSzyP_Sm69zfTS-GOtZ9mLRxZNQ3aT-D6QezmY9TCgCXOUHWYq0ZzU50J2wMjS8o9tFvaRU6z7bcrz48XDIRDTdv9hmjyQG1Lp1dSi921P_GtIje3U9mimmOMfLPY7grgVmtVoEQg232TDSARn4GyBIaOv2j7I2ZnUE-iMQaBsgFlbPRj6q358Z-qimDMbmorVfxnN3Ba3rG7cq2LWpCRPh6l2uNS_f2iBBnbSyeL2CY-n3hZ0nnCYW72dKUuzOh45_954w1WgbqhBgqbb_PCd65lcyOryrnpRHAmDHgF3NVHQQ3VEkFg2yI9YFXQiedeieHeSfWKykCt-26USr7blMwV1w8eBw4-0Gu2CVOfH3vwgph4bJk5dW1RT4b6DAPVQyKIyMyMKVteyRmHAThopzMZuAuaZDHbFf0sp8aiMSMo1mais6Wbas64OBg0XV2BaEb3Whwy5t-zVK-kbfDh2joi9iuxrAGyEdDZrDeg2CIT_BdTNfjrHYWc7tn3NM6_tQXwYIvhN1TVLs_mO0XzVRIQryOM33ooIigIEvbn5xU0AhoMOMZ16MCEmD33PCeE.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
-https://playback2.akamaized.net/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/exp=1596428084~acl=%2f*~data=hdntl~hmac=0ee986160ffb98e80be22cfad68cfcae99d3afd71b75bbccb1ce16ab0cd562ef/media/27177136_8970901_lsijbnyuc2ucm74elfi_1@2128000p.m3u8?dw=14400&ts=1596340800
+https://playback2.akamaized.net/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/master.m3u8?dw=14400&hdnts=exp=1596424283~acl=/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/master.m3u8*~hmac=38f633b6209b5083c80d44ed2b1c58a6ae5eda0327850094b2bfc61a315772d3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="", 13MAX | HD
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
