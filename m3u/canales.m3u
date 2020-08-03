@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="news",Sintesis TV
+https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CusEr32VDlYmmDof00W8vt_zjQF9QoBejAKH53c3LX0Rl1QDLruNDiweIlnjAuWNBkfFLaLbq7NQzNIQgGMZRjRdQ686nmCJMOHhmQF7dbM_pmRuoBmJPYri5ccZl10Qma4GauSR1Gf-kVBDczpdvdf3tYxpPLuXnDE4TNRa37lslW9mpXTKe5c3I35v04pA1mVvpuUKAOa2NTrhfDszf-J8fCKZGAXj01Nne_XT3-yq8h6yhhRg_Zw8A4mJdnlZjjUGwedTBeNhtZ1NHMe7NKOOFTQDQIOjLGLZcyxPSzyP_Sm69zfTS-GOtZ9mLRxZNQ3aT-D6QezmY9TCgCXOUHWYq0ZzU50J2wMjS8o9tFvaRU6z7bcrz48XDIRDTdv9hmjyQG1Lp1dSi921P_GtIje3U9mimmOMfLPY7grgVmtVoEQg232TDSARn4GyBIaOv2j7I2ZnUE-iMQaBsgFlbPRj6q358Z-qimDMbmorVfxnN3Ba3rG7cq2LWpCRPh6l2uNS_f2iBBnbSyeL2CY-n3hZ0nnCYW72dKUuzOh45_954w1WgbqhBgqbb_PCd65lcyOryrnpRHAmDHgF3NVHQQ3VEkFg2yI9YFXQiedeieHeSfWKykCt-26USr7blMwV1w8eBw4-0Gu2CVOfH3vwgph4bJk5dW1RT4b6DAPVQyKIyMyMKVteyRmHAThopzMZuAuaZDHbFf0sp8aiMSMo1mais6Wbas64OBg0XV2BaEb3Whwy5t-zVK-kbfDh2joi9iuxrAGyEdDZrDeg2CIT_BdTNfjrHYWc7tn3NM6_tQXwYIvhN1TVLs_mO0XzVRIQryOM33ooIigIEvbn5xU0AhoMOMZ16MCEmD33PCeE.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HB TV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
@@ -43,8 +46,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=2316&p=3&k=srregio&f=.m3u8%20%20
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr.trace.tv/trace-urban/wp-content/uploads/sites/2/2016/11/logo_mziki.png" group-title="Without category", Trace Mziki
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MX",adn 40
 http://roedor.xyz/regiomx20x/tp.php?c=184&p=3&k=srregio&f=.m3u8%20%20
@@ -156,9 +157,6 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8WkMCW4Y8yxHH8_NwVCJgwHaHa&pid=Api&P=0&w=300&h=300" group-title="news",MVM Television
 https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="news",Sintesis TV
-https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CusEr32VDlYmmDof00W8vt_zjQF9QoBejAKH53c3LX0Rl1QDLruNDiweIlnjAuWNBkfFLaLbq7NQzNIQgGMZRjRdQ686nmCJMOHhmQF7dbM_pmRuoBmJPYri5ccZl10Qma4GauSR1Gf-kVBDczpdvdf3tYxpPLuXnDE4TNRa37lslW9mpXTKe5c3I35v04pA1mVvpuUKAOa2NTrhfDszf-J8fCKZGAXj01Nne_XT3-yq8h6yhhRg_Zw8A4mJdnlZjjUGwedTBeNhtZ1NHMe7NKOOFTQDQIOjLGLZcyxPSzyP_Sm69zfTS-GOtZ9mLRxZNQ3aT-D6QezmY9TCgCXOUHWYq0ZzU50J2wMjS8o9tFvaRU6z7bcrz48XDIRDTdv9hmjyQG1Lp1dSi921P_GtIje3U9mimmOMfLPY7grgVmtVoEQg232TDSARn4GyBIaOv2j7I2ZnUE-iMQaBsgFlbPRj6q358Z-qimDMbmorVfxnN3Ba3rG7cq2LWpCRPh6l2uNS_f2iBBnbSyeL2CY-n3hZ0nnCYW72dKUuzOh45_954w1WgbqhBgqbb_PCd65lcyOryrnpRHAmDHgF3NVHQQ3VEkFg2yI9YFXQiedeieHeSfWKykCt-26USr7blMwV1w8eBw4-0Gu2CVOfH3vwgph4bJk5dW1RT4b6DAPVQyKIyMyMKVteyRmHAThopzMZuAuaZDHbFf0sp8aiMSMo1mais6Wbas64OBg0XV2BaEb3Whwy5t-zVK-kbfDh2joi9iuxrAGyEdDZrDeg2CIT_BdTNfjrHYWc7tn3NM6_tQXwYIvhN1TVLs_mO0XzVRIQryOM33ooIigIEvbn5xU0AhoMOMZ16MCEmD33PCeE.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 https://playback2.akamaized.net/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/master.m3u8?dw=14400&hdnts=exp=1596424283~acl=/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/master.m3u8*~hmac=38f633b6209b5083c80d44ed2b1c58a6ae5eda0327850094b2bfc61a315772d3
 
@@ -191,8 +189,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="DOMINICAN REPUBLIC",Telenovisa 43
 http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3jMiCj.png" group-title="CHILE",Pintana TV
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
@@ -224,7 +220,7 @@ http://edge2-sl.cvattv.com.ar//live/live/TNT/verimatrix_rotating_FTA/TNT-video=5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="UK",UK Disney
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="Global", Disney
 https://edge-live11-sl.cvattv.com.ar//live/c3eds/DisneyChannelHD/verimatrix_rotating_FTA/DisneyChannelHD-video=1040000-audio_20001=144800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/b8/eb/ccb8eb3f8769444b78f1425e557b3aa4.png" group-title="Sport",EDGE Extreme
@@ -257,6 +253,9 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
 https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKdVqnU.png" group-title="ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
@@ -266,7 +265,6 @@ http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fox_Family_Channel2.svg/1635px-Fox_Family_Channel2.svg.png" group-title="|MEX|"Fox Family
-
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
@@ -297,18 +295,17 @@ http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
 #EXTINF:-1,tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Cultura", El Gourmet
 http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fwq6oM.png" group-title="MEXICO",Azteca Clic (New!)
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnWt2cF.png" group-title="LATIN AMERICA",Fox Premium Family (Dual) (New!)
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="UK",Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="MX",Discovery Turbo
+https://edge-vod02-sl.cvattv.com.ar//live/live/DiscoveryTurbo/verimatrix_rotating_FTA/DiscoveryTurbo-video=1040000-audio_AACL_spa_144800_51=144800-44090185.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="",Titanic TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/invert-logo.png" group-title="", Multimedios TV
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
@@ -330,7 +327,7 @@ https://player-api.new.livestream.com/accounts/25082096/events/7376073/live.m3u8
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
-https://edge1-sl.cvattv.com.ar//live/live/SonyHD/verimatrix_rotating_FTA/SonyHD-video=530000.m3u8
+https://edge1-sl.cvattv.com.ar//live/live/SonyHD/verimatrix_rotating_FTA/SonyHD-video=530000-audio_AACL_spa_144800_51=144800-44090258.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/piweDaK.jpg" tvg-country="US" tvg-url="" group-title="",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
@@ -347,19 +344,11 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 
-#EXTINF:-1, tvg-logo="https://tse4.mm.bing.net/th?id=OIP.2Vc8sra9rn308JBTtT4SagHaDf&pid=Api&P=0&w=359&h=170" group-title="Canales Miscelaneos", Miami TV | HD 
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-ODju9qWxqrE/UPghIhSo6nI/AAAAAAAAPnU/Y3TzahcP0kk/s320/Logo+Miami+TV.jpg" group-title="Canales Miscelaneos", Miami TV | FHD | USA
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
-
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV | HD  | Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CooEwIOvUrydrds0N7zeWbAamg6ARkHHVmib5VcP0QU6x8JQCdC2_hRaOFxt5Ju8Dh-HW1fXBybakWSfmDgJDKhLhf_Plc5guVT_L0uTOoqIDohPCIaEY8AM6ZWSKro9YUWZPV0Zi87nBQuYBoRIx8YlTTNxgmu36Q1Y29l4nuatK_wQ6emdt3aVZoxwbTTxLu9G_-Vi2tMx6OlMoJrR7-pWvvPf2-dp7n79mig0YfbSqAlhqyfqP_Pw0dl-JH30jMkJJvF0mZ22ssKj9_yiYztqLSJddZ_QpWrZd_2qDkNbN4G6rZ2bBMY4v4w0NVQ6WAxnNYMs7uV_UpT2Wlcf2pZF86Gxovg-C6yNuD8Cz7Mtzjl_OU2kv2U6L81UkYSiI8A7azpsN2iH1TG6FdiEQ5itlxbYRu_FkOLpyfXQa-s7NGKvBLIiecKwZclScVOTtkBPDSnP3UH0Bt-axei60NIZbqIWEybFdIvAIEO6x4tnNc4FWoeT_pjS7Sfu3CuPxjbKTvYI98nK7kXSC5UAiI9qVBU-aIh3xbDwJ_SVib5qyE2QCYMrgm5DTIq6EmFmwGQJL9jfnnaM7Ifs-BEZBj3Pq0okJ4Q00KwJ4i2P5Rj3Q-AUhHYoTDC8KyUcKEjZX5-RlkOo3igL95z8gndlN3J3x3tzktul7E8IAL4_yO437WidU_JtIVp199rREhC4dmCbHBclFBa-2PEtZioAGgx0a4RYoVZmmBj3bvo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV2
-http://91.134.238.137/live/goat/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
@@ -384,9 +373,6 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vIQR1Fv.png" tvg-country="UK" tvg-url="" group-title="Kids",POP Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="PH" tvg-url="" group-title="",Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
@@ -466,14 +452,14 @@ https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play
 #EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest?cb=20100526164945" group-title="Canales de Musica", Music Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
 
+#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ai96wlrz5fNrUSV7sKL1YgHaFj&pid=Api&P=0&w=300&h=300" group-title="Canales de Musica", RetroTV Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Canales de Musica", 1Mus
 http://rtmp.one.by:2300
 
 #EXTINF:-1, tvg-logo="s38aC2U.png" group-title="Canales de Musica", MTV | HD 
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ai96wlrz5fNrUSV7sKL1YgHaFj&pid=Api&P=0&w=300&h=300" group-title="Canales de Musica", RetroTV Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.f6CRu0wyDg2h-LZtdvZ2PgHaEK&pid=Api&P=0&w=328&h=185", CHAU Music Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
@@ -582,8 +568,6 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28B%29/Back%20to%20the%20Future%20%2
 http://www.deadlyblogger.com/NewRelease/training.mp4
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES",A Christmas Star
 https://2.bp.blogspot.com/zRJE4%5FZ8lCmUyfCQQYw%2DA4XI4Tj26WsXoCqnrZ4Yzsjz%3Dm22
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PIXEL
-https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", A Madea Christmas 2013
 https://www.deadlyblogger.com/NewRelease/madea2013.mp4
@@ -648,12 +632,6 @@ https://goo.gl/sFaEVq
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
 http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
  
-#EXTINF:0 type="stream" channelId="-1" radio="true" tvg-logo="http://i.imgur.com/4CGIlyX.jpg" group-title="Radios Chilenas", Rock and Pop (94.1 FM)
-http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
-
-#EXTINF:-1,Exxxtassy
-http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png"",Jasmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV | SD 
@@ -672,10 +650,6 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/AHHE8Rt.png" tvg-country="DE" tvg-url="" group-title="XXX",Babestation24
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/3vf53u4.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
-http://122.38.74.172:9981/stream/channelid/1463854277
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
