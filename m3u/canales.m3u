@@ -15,7 +15,7 @@ https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEX" Canal de las Estrellas
 https://edge3-sl.cvattv.com.ar//live/c2live/Canal_de_las_estrellas/verimatrix_rotating_FTA/Canal_de_las_estrellas-video=1532000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEX" Canal 5
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/canal-5-logo-png-transparent.png" group-title="MEX" Canal 5
 https://ul.cdn946.net:8443/hls/r3aiivtasuq.m3u8?s=PD5xcfQ04RS4S_oG83wB7g&e=1596420919
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
