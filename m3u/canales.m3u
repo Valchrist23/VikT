@@ -124,10 +124,10 @@ https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-2hyMnkH-3Ds/TlwC6t0eamI/AAAAAAAAATE/kjEpG65EsAc/s1600/tves.jpg" group-title="ES",TV ES 
 http://95.216.150.122:1935/tves/tves/chunklist_w767857638.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://bhtv.pe/wp-content/uploads/2017/04/bhtv-logo-300x219.png" tvg-country="MX" tvg-url="" group-title="",BH tv
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzmm19umK2NS-bMzC3AqgkAiJn32uGovSUd1g=s900-c-k-c0xffffffff-no-rj-mo" group-title="LAT", BH tv
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://bhtv.pe/wp-content/uploads/2017/04/bhtv-logo-300x219.png" tvg-country="MX" tvg-url="" group-title="",BH tv PERU
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzmm19umK2NS-bMzC3AqgkAiJn32uGovSUd1g=s900-c-k-c0xffffffff-no-rj-mo" group-title="LAT", BH tv PERU
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 
 #EXTINF:-1 tvg-id="tv.28" tvg-name="Prime" tvg-language="English" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Prime NZ
