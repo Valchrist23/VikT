@@ -30,6 +30,9 @@ http://roedor.xyz/regiomx20x/tp.php?c=198&p=3&k=srregio&f=.m3u8%20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MX",DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT" Univision
+http://ul.cdn946.net:8080/hls/th9y8suwvc.m3u8?s=80kNgD4CS5F1UBL05VF59g&e=1596614645
+
 #EXTINF:-1 tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/61060_1_27666.jpg" group-title="MX" Hola TV
 https://edge10-sl.cvattv.com.ar//live/live/Hola_TV/verimatrix_rotating_FTA/Hola_TV-video=1480000-audio_AACL_spa_144800_51=144800.m3u8
 
@@ -270,10 +273,6 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
-http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 
@@ -298,8 +297,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
 #EXTINF:-1,tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Cultura", El Gourmet
 http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnWt2cF.png" group-title="LATIN AMERICA",Fox Premium Family (Dual) (New!)
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="MX",Discovery Turbo
 https://ul.cdn946.net:8443/hls/xxx2ij7mx44cfni.m3u8?s=gtAdUlCVxQS6fRg5pCACQg&e=1596609059
 
@@ -309,15 +306,11 @@ https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-country="Lat" tvg-url="" group-title="Local",Telesur Costarica | 
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-country="Lat" tvg-url="" group-title="Local", Telesur 
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.new.livestream.com/accounts/00000000017eb8f0/39405900-788a-4ff6-bad9-755051187000.png" tvg-country="US" tvg-url="" group-title="Local",KUSI
 https://player-api.new.livestream.com/accounts/25082096/events/7376073/live.m3u8
