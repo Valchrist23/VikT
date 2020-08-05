@@ -175,10 +175,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/60739b67-fe1f-4388-9789-4a6ed5a53d47/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://specials.layer3tv.com/hubfs/Blog%20Assets/Blog%20Images/Toon_Goggles_Logo_Orange_rectangle.jpg" group-title="ANIME",TG Toon Google
-https://stream-us-east-1.getpublica.com/cl/3b58896d-a137-4ab5-850e-c88433b1c6e0/640x480_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="US",Cartoons 4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
+https://stream-us-east-1.getpublica.com/cl/89e37948-7ea7-4978-beb5-64c5c980c1df/1280x720_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="INDO",Aniplus (Opt-2)
 http://45.126.83.51/dr9445/h/h02/index.m3u8
@@ -433,6 +430,10 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
+https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/1280x720_2855600/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/dbde8c4e-6756-4b17-aa62-46ceabcc3082/3.m3u8
