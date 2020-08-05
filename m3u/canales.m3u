@@ -296,12 +296,10 @@ http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Without category", History2
-https://ul.cdn946.net:8443/hls/babl1umu1r6h5.m3u8?s=GBJ66AYKHT0RE_621hNu4g&e=1596607939
-
+https://ul.cdn946.net:8443/hls/babl1umu1r6h5.m3u8?s=1nW9OlROrzbQTSF1YGWRJA&e=1596663565
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
 http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="MX",Discovery Turbo
 https://ul.cdn946.net:8443/hls/xxx2ij7mx44cfni.m3u8?s=gtAdUlCVxQS6fRg5pCACQg&e=1596609059
