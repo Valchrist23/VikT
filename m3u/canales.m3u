@@ -1,9 +1,12 @@
 ﻿#EXTM3U
  
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.5hQwvx8mDoId8mfiBSNL8AHaEo&pid=Api&P=0&w=257&h=161" group-title="Demo",FishTank
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/mid/c.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis TV
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CuwEGZPdZc38Wid8lWJYEVhjLahA592j5VEhCnsPQlarOkdCazzlH5YtjmHBqbdz0C6ygAwZlfm14-pnhGc531Dru_KT-TZVzmNO_s2cUihB-O-G5kZqkR0gYg0Ih8NnECwZFyWU8jKp1clwFN6Cnl1tSWNAtaqwwwZpemUfqdQRhl1Zfwa6m5Yy0qlc0GH1cJE_YbBtwoWmxQWtjzEnHdcrruPMZiRY21D9YHZ5Q-iLuKSv1Gh8a4E3sU_K32m00qDJLQYtqIvuiK36ZfcDqosRNdfxTLrvSpvUKvsm3-r0rACX3WNooqOMLzH3D2MlVcjTu1Xt26uKk90Z9WwctytR6SZkM2N8xRaWOaY2WnI4xg-xAPwsEyHdFOLXib-X6i_YSxXv_LaazdZCih4zVAbXl3s7r-mYLOUEvHWO2JzVDYgg-zKeXYzl2GuY_GneXMrv-S0Mf8LUpvB_q9YWRMkeYk277PmyYsD-yfgsdbR_Zmk_-b10DUFhEkO9JjHh7oMWtwLgXEfVnM3UWd9gbqyITp3WzsNb__5VsbVy_PnMeBB8oa16abS9ufGIjwsw3VIEwrWkwFN6WxjzW656bPu_vz04gNLLHodvUXWoPZVviTYMJehJ-j2hoeEh7ceRhDXSCNpWrRWd0rbfSz9N74USIiwXM4G7J9recti4FM_hPsjvTUU8I80PwytFOkhNJGwVa-JR5S3H2_ZHGcSgJXWjjF3RyMkoWzBYY_lSF2kR1wnfiI0q8MLaBEFcevLHPJfh4QjurEajmr4XqqG62aTSbs5OK5NCY9Hj2nKy57BWSNQfH7r5oWALY3fkdtcSEMDzzWWnu0qf9PfVKbxQ48UaDK89Bn_nvMeoSdwUuw.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT", Ticavision
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT",Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca Uno 
@@ -15,13 +18,13 @@ https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/91c366e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/06c23775-4445-4e5e-ad07-f9f6e74ddc6d:DLS/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/789800.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MX" Canal de las Estrellas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MX",Canal de las Estrellas
 https://ul.cdn946.net:8443/hls/jz03xor09emsvw.m3u8?s=hcVX1BAf_kXET1OXtHqZ7w&e=1596593920
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX" Canal 5 XHGC
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX",Canal 5 XHGC
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CscEhzrgQ-rPWWaVueQpaGz-574h0woo8cHfcJwTIVDqYiw48NOxGFej9KuCQw2UG3NbNGUTpKaN_RGxUNVsdtknZYzwKq5fCxjg3wNy0SHtHEBwfIgKUiuy8yns6_vJndchNWppCUEw57avZQkWbHZjZ7aWCGM2Ny9wdTGm0iSRfWIzPLoapvXTAZ-KBYEN4nBIAWNzQv-NZ_QJ7QBt116ye1E2CGfQphwr89JIdR1MKhH0NzahwDMIlKKKNayzdXvcQ48JVSALsZ0RL372aLHCFKlqG8guPh5juD1u6C9VOd26uXlsygIxqHoVaEwTlnyOkrdaxTuCQUCM0136QHpClKgZ_83ao6e9OlXgaXJLSN4xbxQcJUuC1fPWw8dCHZzFySHSw8Oy6SR-GCvdOkIbEpjyLi9Zk5YjF3h93-n2tPhvqCcWnc2fUQLyNTaWlITwRQ0vHY3yZcj17HG0wW2Xb_RJiq3py9fqlhz6qKYT9H9C6jqA_NPJqT2tgboRaSFjVt3KfwCZhuNSy5TlW7QKw1cM7V4RaB17-8xRv1XRWGFMZFJruLmdnm-zahLibQVaZgSZ4DG4qQUHZtL4A7VeG7Q4TWJdyGwq_UIIm-I-ee3K0_N6oKqk9g2TKsxJrTNG7ut8bsS_PvLiM2LV3wTQ66VyMxY-HIO_mdvFIUN-0TGWha10Im5uDsEloiKaT8mHawjtZbw6cDNbXeB37kHYAhFGqTfV8GCjNbTOt0OJcAiJSFJaVAXLCHHkZ7ZAeatJSBq9bNemUBIQLlxs_xhpa-dyhmEqjFIz7RoMVwXiPtxLP1zrqH5u.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX" Canal 22
+#EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX",Canal 22
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w1740054977_b878000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjAgNTo0NTo1MyBBTSZoYXNoX3ZhbHVlPWxhUHNJOVk1NCszWk13RzRUTDFCeXc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
@@ -30,10 +33,10 @@ https://edge10-sl.cvattv.com.ar//live/live/Hola_TV/verimatrix_rotating_FTA/Hola_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MX",DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT" Univision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
 http://ul.cdn946.net:8080/hls/th9y8suwvc.m3u8?s=80kNgD4CS5F1UBL05VF59g&e=1596614645
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="LAT", a+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="LAT",a+
 http://roedor.xyz/regiomx20x/tp.php?c=2316&p=3&k=srregio&f=.m3u8%20%20
 
 #EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="Esp",CGTN
@@ -51,9 +54,8 @@ http://roedor.xyz/regiomx20x/tp.php?c=2375&p=3&k=srregio&f=.m3u8%20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX", Foro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
 https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/516a2d84-022d-4c52-8488-6a9ded627aeb:TUL2/variant/a6ee1da317a18da91347cd2666ac9d1c/bandwidth/713397.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -70,29 +72,29 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png/186px-Antiguo_logo_de_Canal_Once_%28once_TV%29.png" group-title="Canales Mexicanos", Canal Once IPN | HD 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/invert-logo.png" group-title="", Multimedios TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/invert-logo.png" group-title="",Multimedios TV
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8WkMCW4Y8yxHH8_NwVCJgwHaHa&pid=Api&P=0&w=300&h=300" group-title="news",MVM Television
 https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="ES", France 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="ES",France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ozinKJC.png" group-title="CHILE",El Pinguino TV (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ozinKJC.png" group-title="CHILE",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyEhvPBIoaA5-SoS7arpPnK1B1rlQomNcnrdA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Without category",Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Without category", Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Without category",Food Network
 http://roedor.xyz/regiomx20x/tp.php?c=2145&p=3&k=srregio&f=.m3u8%20
 
-#EXTINF:-1,tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Cultura", El Gourmet
+#EXTINF:-1,tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Cultura",El Gourmet
 http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.+cookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Without category", Out Door Cooking
+#EXTINF:-1 tvg-logo="http://www.+cookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Without category",Out Door Cooking
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
@@ -100,6 +102,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 
 #EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22829/unidentified/logo_20200408_024027.png" group-title="UFO",Unidentified
+https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
 https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
@@ -113,7 +118,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png" group-title="AR",Orbita TV
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist_w454802563.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Unicable2018.png/revision/latest/scale-to-width-down/220?cb=20181023001628" group-title="MEX" UNICABLE
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Unicable2018.png/revision/latest/scale-to-width-down/220?cb=20181023001628" group-title="MEX",Unicable
 https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=cRsbZUobmxvsXFuD6YrkQA&e=1596610893
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
@@ -121,7 +126,7 @@ https://playback2.akamaized.net/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/m
 
 #EXTINF:-1 tvg-logo="https://fr.trace.tv/trace-urban/wp-content/uploads/sites/2/2016/11/logo_mziki.png" group-title="Without category", Trace Mziki
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B", Travle HD
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B",Travle HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
@@ -148,28 +153,28 @@ https://ul.cdn946.net:8443/hls/neexj84b3.m3u8?s=TS755Qjo9gZUUDSk1R40IA&e=1596611
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="MX", Mundo Mas 
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2.png" group-title="Sport", RedBull TV | HD
+#EXTINF:-1 tvg-logo="http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2.png" group-title="Sport",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="ES", Boing | HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="ES",Boing 
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="ART", Bob Ross Channel
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="ART",Bob Ross Channel
 https://0167f86aa97a480aa970acbab674bd42.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_BobRoss/3d3c7fe4-1b0f-4203-8c5a-60ab403fe1dd/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png" group-title="ES", Chicos IPE | HD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png" group-title="ES",Chicos IPE 
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
       
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME", LOCOMOTION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME", Retro Crush
+#EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/60739b67-fe1f-4388-9789-4a6ed5a53d47/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://specials.layer3tv.com/hubfs/Blog%20Assets/Blog%20Images/Toon_Goggles_Logo_Orange_rectangle.jpg" group-title="ANIME", TG Toon Google
+#EXTINF:-1 tvg-logo="https://specials.layer3tv.com/hubfs/Blog%20Assets/Blog%20Images/Toon_Goggles_Logo_Orange_rectangle.jpg" group-title="ANIME",TG Toon Google
 https://stream-us-east-1.getpublica.com/cl/3b58896d-a137-4ab5-850e-c88433b1c6e0/640x480_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="US",Cartoons 4U
