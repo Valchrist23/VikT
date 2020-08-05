@@ -260,8 +260,6 @@ http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="|MEX|" UNICABLE
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fox_Family_Channel2.svg/1635px-Fox_Family_Channel2.svg.png" group-title="|MEX|"Fox Family
-
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-pviALdrJS7hXa-zvaUZDwHaHP&pid=Api&P=0&w=174&h=171" group-title="MEXICO", Music TLT
 http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 
@@ -269,7 +267,7 @@ http://backup9.lateletuya.com/TeLeTeve/stream.stream/chunklist_w553965453.m3u8
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Without category", History2
-https://edge6-hr.cvattv.com.ar//live/c2live/History_2/verimatrix_rotating_FTA/History_2-video=1040000-audio_AACL_spa_144800_51=144800.m3u8
+https://ul.cdn946.net:8443/hls/babl1umu1r6h5.m3u8?s=GBJ66AYKHT0RE_621hNu4g&e=1596607939
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyEhvPBIoaA5-SoS7arpPnK1B1rlQomNcnrdA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Without category",Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
@@ -324,10 +322,10 @@ https://player-api.new.livestream.com/accounts/25082096/events/7376073/live.m3u8
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
-https://ul.cdn946.net:8443/hls/2vhquzq4q11rqrq.m3u8?s=C0in1na0NCebMeiuCkJ2nQ&e=1596598312
+https://u73165.cdn884.net:8443/hls/2vhquzq4q11rqrq.m3u8?s=Qsfhg3zQ9DCsCneAIRhKmw&e=1596607651
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png", FXM
-https://ul.cdn946.net:8443/hls/13biiju705q96ot.m3u8?s=04bdiPLSVs8JC5LK9YtEFA&e=1596597437
+https://u73165.cdn884.net:8443/hls/13biiju705q96ot.m3u8?s=zqhlJw8EitxUBEC7lFo3EA&e=1596608109
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
 https://edge1-sl.cvattv.com.ar//live/live/SonyHD/verimatrix_rotating_FTA/SonyHD-video=530000-audio_AACL_spa_144800_51=144800-44090258.m3u8
