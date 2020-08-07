@@ -151,7 +151,7 @@ https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="ART",Bob Ross Channel
 https://0167f86aa97a480aa970acbab674bd42.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_BobRoss/3d3c7fe4-1b0f-4203-8c5a-60ab403fe1dd/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png" group-title="ES",Chicos IPE 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png" group-title="ES",IPE 
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
       
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids
@@ -199,7 +199,7 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="Without category",Comet TV
-https://content-ause3.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/d.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=d1ed611d22af41b283a7a9712b5f0bb1
+https://content-ause2-up-5.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/g.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=34f2a1d3f7034dbeb7710fb7708e7dd1
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Without category", So...Real
 https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/28a0de89-376d-4402-a207-1e3e621ef63c/2.m3u8
@@ -215,7 +215,6 @@ https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/b67ce8d
 
 #EXTINF:-1 tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="Movies",CineHouse
 https://dai.google.com/linear/hls/pa/event/28oUp4GcQ-u49U4_jjC4Iw/stream/3180e307-9d72-48a5-88f4-76014571d179:CHS/variant/e7a689c84746e34a1f2796260d252320/bandwidth/3072000.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7lxkwbzDHpx_LkAbjHWh0wHaE-&pid=Api&P=0&w=282&h=191" group-title="Wihtout Category", Con TV
 https://dai.google.com/linear/hls/pa/event/o8Smo_gsSAm26uW9Xkww_g/stream/7628660f-b008-4d6d-989a-5a8b4660f237:CHS/variant/a756bb1c2baeece431e1c49c47aadf83/bandwidth/2108000.m3u8
