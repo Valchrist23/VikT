@@ -187,8 +187,6 @@ https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzmm19umK2NS-bMzC3AqgkAiJn32uGovSUd1g=s900-c-k-c0xffffffff-no-rj-mo" group-title="LAT", BH tv PERU
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 
-#EXTINF:-1 tvg-id="tv.28" tvg-name="Prime" tvg-language="English" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Prime NZ
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfG6TOAud_r5AZ8zRHuJNTk2sU0_PJXsf0RCMQ=s900-mo-c-c0xffffffff-rj-k-no",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
@@ -306,13 +304,13 @@ http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Without category", History2
-https://ul.cdn946.net:8443/hls/babl1umu1r6h5.m3u8?s=1nW9OlROrzbQTSF1YGWRJA&e=1596663565
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="|MEX|", COMEDY CENTRAL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",COMEDY CENTRAL
 http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="MX",Discovery Turbo
-https://ul.cdn946.net:8443/hls/xxx2ij7mx44cfni.m3u8?s=gtAdUlCVxQS6fRg5pCACQg&e=1596609059
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="US",ComedyDynamics
+https://dai.google.com/linear/hls/pa/event/NJK_yxrcTBqULaHt-wi0Wg/stream/6eae6580-44d0-467e-8ef3-9e8ce0be6dee:CHS/variant/77ac22ed2466cad379d1a2dffdacc2d4/bandwidth/2622400.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="",Titanic TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
@@ -333,7 +331,7 @@ https://player-api.new.livestream.com/accounts/25082096/events/7376073/live.m3u8
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
-https://u73165.cdn884.net:8443/hls/2vhquzq4q11rqrq.m3u8?s=Qsfhg3zQ9DCsCneAIRhKmw&e=1596607651
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png", FXM
 https://u73165.cdn884.net:8443/hls/13biiju705q96ot.m3u8?s=zqhlJw8EitxUBEC7lFo3EA&e=1596608109
