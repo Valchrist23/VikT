@@ -121,8 +121,6 @@ https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=cRsbZUobmxvsXFuD6YrkQA&e=159661
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 https://playback2.akamaized.net/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/master.m3u8?dw=14400&hdnts=exp=1596424283~acl=/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/master.m3u8*~hmac=38f633b6209b5083c80d44ed2b1c58a6ae5eda0327850094b2bfc61a315772d3
 
-#EXTINF:-1 tvg-logo="https://fr.trace.tv/trace-urban/wp-content/uploads/sites/2/2016/11/logo_mziki.png" group-title="Without category", Trace Mziki
-
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B",Travle HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 
@@ -214,6 +212,9 @@ https://content-ause3.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/d.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Without category", So...Real
 https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/28a0de89-376d-4402-a207-1e3e621ef63c/2.m3u8
+
+#EXTINF:-1 tvg-logo="http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png" group-title="Without category", Stirr City
+https://dai.google.com/linear/hls/pa/event/n3PVAFmPTJSVYjdSVf7XZw/stream/8294f685-e139-4192-b08f-a5f44e91f215:ATL/variant/e56651bc1ba49d4ac833e8a3d5224809/bandwidth/1291125.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png",Channel 7
 http://radio.7chan.org:8000/CH7
