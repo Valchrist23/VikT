@@ -163,9 +163,6 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/60739b67-fe1f-4388-9789-4a6ed5a53d47/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://specials.layer3tv.com/hubfs/Blog%20Assets/Blog%20Images/Toon_Goggles_Logo_Orange_rectangle.jpg" group-title="ANIME",TG Toon Google
-https://stream-us-east-1.getpublica.com/cl/89e37948-7ea7-4978-beb5-64c5c980c1df/1280x720_0.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="INDO",Aniplus (Opt-2)
 http://45.126.83.51/dr9445/h/h02/index.m3u8
 
@@ -215,6 +212,9 @@ https://dai.google.com/linear/hls/pa/event/YakHdnr_RpyszducVuHOpQ/stream/19e8837
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest?cb=20130503215946" group-title="US", Movie Mix
 https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/b67ce8df-4b3f-4510-9c49-e78a33246027:ATL/variant/98383d315bae12ef6695278700bce70f/bandwidth/3072000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="Movies",CineHouse
+https://dai.google.com/linear/hls/pa/event/28oUp4GcQ-u49U4_jjC4Iw/stream/3180e307-9d72-48a5-88f4-76014571d179:CHS/variant/e7a689c84746e34a1f2796260d252320/bandwidth/3072000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png",Channel 7
 http://radio.7chan.org:8000/CH7
