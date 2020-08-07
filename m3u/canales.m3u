@@ -216,6 +216,10 @@ https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/b67ce8d
 #EXTINF:-1 tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="Movies",CineHouse
 https://dai.google.com/linear/hls/pa/event/28oUp4GcQ-u49U4_jjC4Iw/stream/3180e307-9d72-48a5-88f4-76014571d179:CHS/variant/e7a689c84746e34a1f2796260d252320/bandwidth/3072000.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7lxkwbzDHpx_LkAbjHWh0wHaE-&pid=Api&P=0&w=282&h=191" group-title="Wihtout Category", Con TV
+https://dai.google.com/linear/hls/pa/event/o8Smo_gsSAm26uW9Xkww_g/stream/7628660f-b008-4d6d-989a-5a8b4660f237:CHS/variant/a756bb1c2baeece431e1c49c47aadf83/bandwidth/2108000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png",Channel 7
 http://radio.7chan.org:8000/CH7
 
