@@ -214,7 +214,7 @@ https://dai.google.com/linear/hls/pa/event/n3PVAFmPTJSVYjdSVf7XZw/stream/8294f68
 https://dai.google.com/linear/hls/pa/event/YakHdnr_RpyszducVuHOpQ/stream/19e88377-664b-4c05-ac16-fe3a58208c1e:ATL/variant/c219190a0aa0da9cc44f9188ff32c8ab/bandwidth/3072000.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest?cb=20130503215946" group-title="US", Movie Mix
-https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/8b3c16e1-aa05-44ce-bcf0-b301e54cfae2:ATL/id3-events.json
+https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/b67ce8df-4b3f-4510-9c49-e78a33246027:ATL/variant/98383d315bae12ef6695278700bce70f/bandwidth/3072000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png",Channel 7
 http://radio.7chan.org:8000/CH7
