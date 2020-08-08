@@ -116,13 +116,12 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png" group-title="AR",Orbita TV
-https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist_w454802563.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Unicable2018.png/revision/latest/scale-to-width-down/220?cb=20181023001628" group-title="MEX",Unicable
-https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=cRsbZUobmxvsXFuD6YrkQA&e=1596610893
+
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
-https://playback2.akamaized.net/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/master.m3u8?dw=14400&hdnts=exp=1596424283~acl=/streams/27177136_8970901_lsijbnyuc2ucm74elfi_1/master.m3u8*~hmac=38f633b6209b5083c80d44ed2b1c58a6ae5eda0327850094b2bfc61a315772d3
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B",Travle HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
@@ -167,7 +166,8 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/60739b67-fe1f-4388-9789-4a6ed5a53d47/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="INDO",Aniplus (Opt-2)
-http://45.126.83.51/dr9445/h/h02/index.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="MX",Cartoon Network
 https://edge9-hr.cvattv.com.ar//live/c3eds/CartoonNetwork/verimatrix_rotating_FTA/CartoonNetwork-video=1344000-audio_20001=144800.m3u8
