@@ -202,6 +202,9 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22829/unidentified/logo_20200408_024027.png" group-title="UFO",Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="UFO",Comet TV
+https://content-ausw1-up-5.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/g.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=025f3af413394a5fa27e3435d7702f18
+
 #EXTINF:-1 tvg-logo="https://cdn.collider.com/wp-content/uploads/2020/06/unsolved-mysteries-netflix-logo-slice-1.jpg" group-title="Without category",Unsolved Mysteries
 https://dai.google.com/linear/hls/pa/event/iLjE1UKtRCiSNkFatA65bg/stream/871bc54d-36e2-431c-b960-92f1fbd6fa8a:CHS/variant/b665824d8473e67ca734b50163b3c149/bandwidth/445125.m3u8
 
