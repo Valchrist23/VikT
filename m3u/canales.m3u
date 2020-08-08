@@ -665,14 +665,14 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://nonprofitquarterly.org/wp-content/uploads/2016/04/Private-771x484.jpgg" tvg-country="INT" tvg-url="" group-title="XXX",Private TV
+http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=74a532b175d48db70c14651689719096-1596924604-17i821i222i981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" tvg-country="INT" tvg-url="" group-title="XXX",Hustler TV
+http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=15733cceccb00e232437c7bb2a2e6ddb-1596924108-17i821i222i981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ebayimg.com/images/g/J4wAAOSwAwRZpmeo/s-l1600.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Playboy TV
+http://50.7.220.130/playboy/index.m3u8?wmsAuthSign=8549eacd4cc6aa5a9738de6b9da92f87-1596923687-17i821i222i981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://okteve.com/wp-content/uploads/media/07e2ff5e9362d95b22e79db7561de6cb-196x126.jpeg" tvg-country="INT" tvg-url="" group-title="XXX",Candy TV
+http://50.7.220.130:8081/candy/index.m3u8?wmsAuthSign=7ca525009ed29b2411ee0d9b215de2f0-1596923423-17i821i222i981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
