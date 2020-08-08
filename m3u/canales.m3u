@@ -97,6 +97,12 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/pl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/saveur-1/logo_20200204_134616.png" group-title="Cooking",Saveour
+https://a.jsrdn.com/broadcast/060753d37e/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22718/gusto-tv/logo_20191213_004422.png" group-title="Cooking",gusto
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
@@ -196,8 +202,8 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22829/unidentified/logo_20200408_024027.png" group-title="UFO",Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="Without category",Comet TV
-https://dai.google.com/linear/hls/pa/event/83L2OqtGSZ6lbWt8ODomWg/stream/d5784990-02bd-4a00-9191-79a3fc2a71a5:CHS/variant/8e1be255f3d0f6636c1c4fb2eefa8bde/bandwidth/745125.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.collider.com/wp-content/uploads/2020/06/unsolved-mysteries-netflix-logo-slice-1.jpg" group-title="Without category",Unsolved Mysteries
+https://dai.google.com/linear/hls/pa/event/iLjE1UKtRCiSNkFatA65bg/stream/871bc54d-36e2-431c-b960-92f1fbd6fa8a:CHS/variant/b665824d8473e67ca734b50163b3c149/bandwidth/445125.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Without category", So...Real
 https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/28a0de89-376d-4402-a207-1e3e621ef63c/2.m3u8
@@ -215,7 +221,7 @@ https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/b67ce8d
 https://dai.google.com/linear/hls/pa/event/28oUp4GcQ-u49U4_jjC4Iw/stream/3180e307-9d72-48a5-88f4-76014571d179:CHS/variant/e7a689c84746e34a1f2796260d252320/bandwidth/3072000.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7lxkwbzDHpx_LkAbjHWh0wHaE-&pid=Api&P=0&w=282&h=191" group-title="Wihtout Category", Con TV
-https://dai.google.com/linear/hls/pa/event/o8Smo_gsSAm26uW9Xkww_g/stream/7628660f-b008-4d6d-989a-5a8b4660f237:CHS/variant/a756bb1c2baeece431e1c49c47aadf83/bandwidth/2108000.m3u8
+https://a.jsrdn.com/broadcast/44hgsuu7/playlistR216lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png",Channel 7
 http://radio.7chan.org:8000/CH7
@@ -310,7 +316,7 @@ https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="US",ComedyDynamics
-https://dai.google.com/linear/hls/pa/event/NJK_yxrcTBqULaHt-wi0Wg/stream/6eae6580-44d0-467e-8ef3-9e8ce0be6dee:CHS/variant/77ac22ed2466cad379d1a2dffdacc2d4/bandwidth/2622400.m3u8
+https://a.jsrdn.com/broadcast/5Gt2c8lsw/CDYN.stream_360p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="",Titanic TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
