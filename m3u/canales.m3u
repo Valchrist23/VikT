@@ -26,6 +26,7 @@ https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w1740
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
+http://ul.cdn946.net:8080/hls/th9y8suwvc.m3u8?s=sl1klxKDsu3vZ1UvdmBXWQ&e=1597215762
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="LAT",a+
 http://roedor.xyz/regiomx20x/tp.php?c=2316&p=3&k=srregio&f=.m3u8%20%20
