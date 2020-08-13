@@ -219,6 +219,9 @@ http://radio.7chan.org:8000/CH7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies", 13MAX | HD
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CscEIv7c0Q9I6NmaolLL_Mj75vEMk5gsRx0fxzwfdd2jCEBYont2lC6vXMiePqhY6g8P5rukCpPDuQ8zkXqUa-lNZ3xcQhKwqWYee3kzmiqYsIdSf5K_CgfD5E6NjalgM4_qK2VICSgpqx7QLeaOFckmdopfOAlJi8Dudhjlbex17STZDLT21zt2CfCZD9T2e1hQpfcug6qdiEjR1HvD66QN2o90uPrQ7slj4mBtkwvKTZvSAmvrw-kfGgFqXcrczRpD8CQRu7fQJWjpijmYyvPRy0IwFxXdhF7g2J_5eV0ppbe1t6yO56tj4evwJ7OD4M0HRNR5yF8YjYxFJ2mc1p72spVOQ0H9VAfDJhxwmpFalGrTXg2Brt7sSqlX78734M2mKroheYAQuApOB_qQyh7HpLW9TEbA9E4drJXu9LzYkxOl2DEQEHO-aRBi69BJvlOorr3U-Cw8qnEK49irvcNBQWdymPhLZB0CqSxaVbEbpp2G8eXaAC8TpN2z6TgFYmAA6egE9GOz87qYgbmiTDHlmPAkPeC9z0uUmTTg25p_-49KgU41DWMQwIR7eCa2XvSXq1_orkni2EBEtN5zNB6Vuf5tuzc7joqS_FCrWaqF74WbOAobzkRuBdDRqgXBejQm2L-Al-sNzudiyPSFt3HwA2H1NZUPL8wOb7m6laa-ZGRJkojcBJUjBkWIEBh9dFnAUghFKsTaiNVjJMHcwGF88XIo7mqpLvEhGb9dO1-5p5TjEQ8-XR0MeS7bzqzC4xNYkRFwSNuqbxIQuKfRjeSZZasE7NQI5W7m4xoMjQNesSJz3JR9wYdR.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
@@ -345,9 +348,6 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV 
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CooEwIOvUrydrds0N7zeWbAamg6ARkHHVmib5VcP0QU6x8JQCdC2_hRaOFxt5Ju8Dh-HW1fXBybakWSfmDgJDKhLhf_Plc5guVT_L0uTOoqIDohPCIaEY8AM6ZWSKro9YUWZPV0Zi87nBQuYBoRIx8YlTTNxgmu36Q1Y29l4nuatK_wQ6emdt3aVZoxwbTTxLu9G_-Vi2tMx6OlMoJrR7-pWvvPf2-dp7n79mig0YfbSqAlhqyfqP_Pw0dl-JH30jMkJJvF0mZ22ssKj9_yiYztqLSJddZ_QpWrZd_2qDkNbN4G6rZ2bBMY4v4w0NVQ6WAxnNYMs7uV_UpT2Wlcf2pZF86Gxovg-C6yNuD8Cz7Mtzjl_OU2kv2U6L81UkYSiI8A7azpsN2iH1TG6FdiEQ5itlxbYRu_FkOLpyfXQa-s7NGKvBLIiecKwZclScVOTtkBPDSnP3UH0Bt-axei60NIZbqIWEybFdIvAIEO6x4tnNc4FWoeT_pjS7Sfu3CuPxjbKTvYI98nK7kXSC5UAiI9qVBU-aIh3xbDwJ_SVib5qyE2QCYMrgm5DTIq6EmFmwGQJL9jfnnaM7Ifs-BEZBj3Pq0okJ4Q00KwJ4i2P5Rj3Q-AUhHYoTDC8KyUcKEjZX5-RlkOo3igL95z8gndlN3J3x3tzktul7E8IAL4_yO437WidU_JtIVp199rREhC4dmCbHBclFBa-2PEtZioAGgx0a4RYoVZmmBj3bvo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
