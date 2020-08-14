@@ -79,13 +79,13 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyEhvPBIoaA5-SoS7arpPnK1B1rlQomNcnrdA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Cooking",Tastemade
-https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 http://roedor.xyz/regiomx20x/tp.php?c=2145&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
-http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.outdoorcooking.com/skin/frontend/outdoorcooking/default/images/oc-logo-simp.png" group-title="Cookingy",Out Door Cooking
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
@@ -165,7 +165,7 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="MX",Cartoon Network
-https://edge9-hr.cvattv.com.ar//live/c3eds/CartoonNetwork/verimatrix_rotating_FTA/CartoonNetwork-video=1344000-audio_20001=144800.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
@@ -222,7 +222,7 @@ http://radio.7chan.org:8000/CH7
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
-https://ul.cdn946.net:8443/hls/s0ypgxwwbp4g752.m3u8?s=4p8uLF7zNfruEhS0dZGvAw&e=1597391338
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -271,7 +271,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="MEX",TNT 
 https://ul.cdn946.net:8443/hls/bt6z9s12bw6j2.m3u8?s=13SQa0ug5P9nyn9v2DYdAg&e=1597438268
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
 
@@ -301,7 +300,7 @@ https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Without category", History2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",COMEDY CENTRAL
-http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
+
 
 #EXTINF:-1 tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="US",ComedyDynamics
 https://a.jsrdn.com/broadcast/5Gt2c8lsw/CDYN.stream_360p.m3u8
@@ -332,7 +331,7 @@ https://u86715.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=bVLfOLhsftKObIA6OFZnnw&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
-https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=RpjT4qa633yML-VYttUw8g&e=1597390856
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/piweDaK.jpg" tvg-country="US" tvg-url="" group-title="",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
@@ -396,7 +395,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24/7 PLUTO TV",Forensic Files
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBr6UAw.png" group-title="USA PUBLIC",Local Now (New!)
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 
@@ -423,7 +421,6 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/1280x720_2855600/index.m3u8
