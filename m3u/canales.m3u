@@ -222,7 +222,7 @@ http://radio.7chan.org:8000/CH7
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
-https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CscEIv7c0Q9I6NmaolLL_Mj75vEMk5gsRx0fxzwfdd2jCEBYont2lC6vXMiePqhY6g8P5rukCpPDuQ8zkXqUa-lNZ3xcQhKwqWYee3kzmiqYsIdSf5K_CgfD5E6NjalgM4_qK2VICSgpqx7QLeaOFckmdopfOAlJi8Dudhjlbex17STZDLT21zt2CfCZD9T2e1hQpfcug6qdiEjR1HvD66QN2o90uPrQ7slj4mBtkwvKTZvSAmvrw-kfGgFqXcrczRpD8CQRu7fQJWjpijmYyvPRy0IwFxXdhF7g2J_5eV0ppbe1t6yO56tj4evwJ7OD4M0HRNR5yF8YjYxFJ2mc1p72spVOQ0H9VAfDJhxwmpFalGrTXg2Brt7sSqlX78734M2mKroheYAQuApOB_qQyh7HpLW9TEbA9E4drJXu9LzYkxOl2DEQEHO-aRBi69BJvlOorr3U-Cw8qnEK49irvcNBQWdymPhLZB0CqSxaVbEbpp2G8eXaAC8TpN2z6TgFYmAA6egE9GOz87qYgbmiTDHlmPAkPeC9z0uUmTTg25p_-49KgU41DWMQwIR7eCa2XvSXq1_orkni2EBEtN5zNB6Vuf5tuzc7joqS_FCrWaqF74WbOAobzkRuBdDRqgXBejQm2L-Al-sNzudiyPSFt3HwA2H1NZUPL8wOb7m6laa-ZGRJkojcBJUjBkWIEBh9dFnAUghFKsTaiNVjJMHcwGF88XIo7mqpLvEhGb9dO1-5p5TjEQ8-XR0MeS7bzqzC4xNYkRFwSNuqbxIQuKfRjeSZZasE7NQI5W7m4xoMjQNesSJz3JR9wYdR.m3u8
+https://ul.cdn946.net:8443/hls/s0ypgxwwbp4g752.m3u8?s=4p8uLF7zNfruEhS0dZGvAw&e=1597391338
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -269,7 +269,7 @@ https://edge-live12-sl.cvattv.com.ar//live/c2live/TLC/verimatrix_rotating_FTA/TL
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="MEX",TNT 
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CscEyT203d00HCCvgJv-KUdsUcLQq4JC1ngEtgHJCblA9qxtcT8P-OqaIvrA8UiUqIL91C8nTEmk2a-QRC3tGBIvWNYoUibCiGaZrXiDzgR8X7jcGkkrFSEB3y2ROIjTWswnwBUw8sII-2ocapfPF72hDl8pMWJcEJukrIEeyjxwGNw53rBqLgjoW71-s4En41ClV9Oswtj0GKAKB15MEGHbAguLgfSGEyp0UXjLaZovZxJrJLg3CmL1T_lMd-1epUd3DrTFO5LbbVDaXSRXCD7hu6joIHewpTjKAS3vXvMdC557AnnlRmhiYUW1KeDOLxG42UZ5RV2n8Xqzd3QrOea_L_lmPG_y7PCTMB0Y85nEh6tzpnsMCStokF7ljbN-eX8KCjvccymrDjvSL28qrRqYtsl9C0vQ6x9hq0UN6unOv5MEZ_nnw8VLSForp_VJ2bJiFTqzFBQB2f6IpDDeibm_IHZhrrLFaNcPTCLt8jLGNo0OWEoLpTshNh7wS9PCQwneusiuYs_rMThA0NKZnL8A2uP5ZxQtu-Y5I1x5R9PA9K75x4cZZkMAPBKBBEZpNDIBeBVFV9jdGc5bYUVbR81KnOEyIV9y8SwN9qJOrdQsutDuyKlFCVCUAAypfZdHbowrE6rhMyFA2yQ0DvuevUs6LtxZuRCRMJblRz4wHcOd1yy9JfDhz3uHfdon4L0D2dAdXAWrJe12hc2rNCsiYudW9j2AmruiDHadncyPbSdvUecQVdsCm0WXb4_AJdvzx_81TbGYr7-mxxIQd6w_7psGA5Wg9u-ptraWkhoMfEgqaPJNhan_7inL.m3u8
+https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8?s=u-QWkp4wlYEeqtc0a9OU_Q&e=1597391216
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
@@ -329,6 +329,8 @@ http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
+https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=RpjT4qa633yML-VYttUw8g&e=1597390856
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/piweDaK.jpg" tvg-country="US" tvg-url="" group-title="",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
