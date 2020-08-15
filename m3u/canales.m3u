@@ -121,6 +121,9 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B",Travle HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvwise.co.uk/wp-content/uploads/2016/05/Channel-5-New-Logo-300x300.jpg" group-title="UK",Channel 5
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 
