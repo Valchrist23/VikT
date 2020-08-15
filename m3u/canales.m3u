@@ -3,7 +3,10 @@
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.5hQwvx8mDoId8mfiBSNL8AHaEo&pid=Api&P=0&w=257&h=161" group-title="Demo",FishTank
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/mid/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis TV
+#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson
+https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT",Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
