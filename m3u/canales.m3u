@@ -16,6 +16,7 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
+http://23.237.23.7:8577/live/IPTVDNS.0507828/HCvMMO5E9z7609/3215.m3u8?token=GENYUUEOGwkbAVcHDlAPVlZQUQENA1lWVFIHBAJWWlRRBFUEBVYOUAEbGRZER0pWAlhqXVxDWwMDB1MZFxARVBE+WVQQXBsCDAoFDAMRFBEXXFhRGltRHBNGD1EXX0AAUVgICBBKG1ZBTVBGWVJUbAdQQ11bBEMKX0MKWRlHDV88BVVdUwhdEQMbBRYbEVFAExcPWk0NDRwTVA9BRwQWVEFbEgEAUgwRFRtWW0JdTEEaFw8WdTlDHBNTHkFQCxFYDA8SChALCkYBGxkWXkBnQQZGQUZdAAxVQxRcFwRHThMOAEhvUQlXXVxaQV1YXUsRWRcABBpNQ11eWA9BWhc9QQoFEgoQVAAAAA0XSQ==
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="CO",TDI
 https://streamyes.alsolnet.com/tdicolombia/live/chunklist_w114107597.m3u8
@@ -90,7 +91,7 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
-
+http://23.237.22.122:8577/live/IPTVDNS.0507828/HCvMMO5E9z7609/3206.m3u8?token=GENYUUEOGwkbCVdVBwQOClIMBAQNUlYDAgVXDAxWAARUVQVSUFQOAVsbGRZER0pWAlhqXVxDWwMDBlAZFxARVBE+WVQQXBsCDAoFDAMRFBEXXFhRGltRHBNGD1EXX0ADUFcDBhBKG1ZBTVBGWVJUbAdQQ11bBEMKX0MKWRlHDV88BVVdUwhdEQMbBRYbEVFAExcPWk0NDRwTVA9BRwQWVEFbEgUCVwwRFRtWW0JdTEEaFw8WdTlDHBNTHkFQCxFYDA8SChALCkYBGxkWXkBnQQZGQUZdAAxVQxRcFwRHThMOAEhvUQlXXVxaQV1YXUsRWRcABBpNQ11eWA9BWhc9QQoFEgoQVwkHAAsXSQ==
 
 #EXTINF:-1 tvg-logo="https://www.outdoorcooking.com/skin/frontend/outdoorcooking/default/images/oc-logo-simp.png" group-title="Cookingy",Out Door Cooking
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
