@@ -43,7 +43,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
-http://roedor.xyz/regiomx20x/tp.php?c=198&p=3&k=srregio&f=.m3u8%20
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/index_0400_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ES",StarTVE
 http://roedor.xyz/regiomx20x/tp.php?c=2375&p=3&k=srregio&f=.m3u8%20
