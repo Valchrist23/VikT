@@ -681,13 +681,15 @@ https://goo.gl/sFaEVq
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png"",Jasmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
-
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV | SD 
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+http://109.71.162.112/live/sd.jasminchannel.stream/master.m3u8
 
-http://109.71.162.112/live/sd.jasminchannel.stream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://yt3.ggpht.com/-vaS9AKJ-ujw/AAAAAAAAAAI/AAAAAAAAAAA/5YnMKNIu1mU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://www.goolgirls.com/tv/adult-new.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tse1.explicit.bing.net/th?id=OIP.UQdrZfJHtoK0zLDR0P2DrwHaCO&pid=Api&P=0&w=610&h=184" tvg-country="INT" tvg-url="" group-title="XXX",Chatturbate
+https://edge250.stream.highwebmedia.com/live-hls/amlst:angela_5-sd-7a5d2ffb193ae134e08c74aaf0ef157dd82b6e0fdf73956b2e21a4986a904da6_trns_h264/chunklist_w1147716689_b1148000_t64RlBTOjMwLjA=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://nonprofitquarterly.org/wp-content/uploads/2016/04/Private-771x484.jpgg" tvg-country="INT" tvg-url="" group-title="XXX",Private TV
 http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=74a532b175d48db70c14651689719096-1596924604-17i821i222i981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" tvg-country="INT" tvg-url="" group-title="XXX",Hustler TV
