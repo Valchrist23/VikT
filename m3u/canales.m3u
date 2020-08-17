@@ -85,7 +85,7 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyEhvPBIoaA5-SoS7arpPnK1B1rlQomNcnrdA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Cooking",Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 
@@ -680,10 +680,14 @@ https://goo.gl/sFaEVq
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png"",Jasmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+
+
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV | SD 
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+http://109.71.162.112/live/sd.jasminchannel.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+http://109.71.162.112/live/sd.jasminchannel.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://nonprofitquarterly.org/wp-content/uploads/2016/04/Private-771x484.jpgg" tvg-country="INT" tvg-url="" group-title="XXX",Private TV
 http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=74a532b175d48db70c14651689719096-1596924604-17i821i222i981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" tvg-country="INT" tvg-url="" group-title="XXX",Hustler TV
@@ -735,7 +739,8 @@ http://locomotiontv.com/envivo
 http://stirr.com
 https://www.distro.tv/
 http://okteve.com/candy-tv-live/
-
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/1280x720_2890800/index.m3u8
 
 I recently figured out how to get stream URLs for streams on Pluto TV, so we should be able to grab all of them; however, I do not have enough time, as there are far too many Pluto TV channels out there.
 When you guys get a chance, please grab URLs and put them here, and I will add them. The easiest way is to check the FeaturedImage.jpg image url, which has this URL scheme:
