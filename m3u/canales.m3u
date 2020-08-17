@@ -111,6 +111,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa309
 #EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://www.wnypapers.com/content/images/110-Ent/HK-logo-new.jpg" group-title="Cooking",Hells Kitchen
+https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
 https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
 
