@@ -694,7 +694,7 @@ http://109.71.162.112/live/sd.jasminchannel.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Goolgirls" tvg-language="English" tvg-logo="https://yt3.ggpht.com/-vaS9AKJ-ujw/AAAAAAAAAAI/AAAAAAAAAAA/5YnMKNIu1mU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Goolgirls
 http://www.goolgirls.com/tv/adult-new.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tse1.explicit.bing.net/th?id=OIP.UQdrZfJHtoK0zLDR0P2DrwHaCO&pid=Api&P=0&w=610&h=184" tvg-country="INT" tvg-url="" group-title="XXX",Chatturbate
-https://edge250.stream.highwebmedia.com/live-hls/amlst:angela_5-sd-7a5d2ffb193ae134e08c74aaf0ef157dd82b6e0fdf73956b2e21a4986a904da6_trns_h264/chunklist_w1147716689_b1148000_t64RlBTOjMwLjA=.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://nonprofitquarterly.org/wp-content/uploads/2016/04/Private-771x484.jpgg" tvg-country="INT" tvg-url="" group-title="XXX",Private TV
 http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=74a532b175d48db70c14651689719096-1596924604-17i821i222i981
@@ -749,7 +749,7 @@ https://www.distro.tv/
 http://okteve.com/candy-tv-live/
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/1280x720_2890800/index.m3u8
-
+https://edge250.stream.highwebmedia.com/live-hls/amlst:angela_5-sd-7a5d2ffb193ae134e08c74aaf0ef157dd82b6e0fdf73956b2e21a4986a904da6_trns_h264/chunklist_w1147716689_b1148000_t64RlBTOjMwLjA=.m3u8
 I recently figured out how to get stream URLs for streams on Pluto TV, so we should be able to grab all of them; however, I do not have enough time, as there are far too many Pluto TV channels out there.
 When you guys get a chance, please grab URLs and put them here, and I will add them. The easiest way is to check the FeaturedImage.jpg image url, which has this URL scheme:
 
