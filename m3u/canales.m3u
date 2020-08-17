@@ -237,6 +237,7 @@ https://dai.google.com/linear/hls/pa/event/n3PVAFmPTJSVYjdSVf7XZw/stream/8294f68
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/prPDVF5dfF0/maxresdefault.jpg" group-title="US",Futurism
 
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest?cb=20130503215946" group-title="US", Movie Mix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
@@ -245,6 +246,9 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7lxkwbzDHpx_LkAbjHWh0wHaE-&pid=Api&P=0&w=282&h=191" group-title="Wihtout Category", Con TV
 https://a.jsrdn.com/broadcast/44hgsuu7/playlistR432p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.jSazXZxZ0Dr3o8w-06R_FgHaEL&pid=Api&P=0&w=327&h=185" tvg-country="US" tvg-url="Stirr Fit" group-title="Fitness",Stirr Fit
+https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png",Channel 7
 http://radio.7chan.org:8000/CH7
 
@@ -252,7 +256,6 @@ http://radio.7chan.org:8000/CH7
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -507,6 +510,7 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/TDRDF4q.png" tvg-country="US" tvg-url="" group-title="",byu TV
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="24/7 PLUTO TV",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
