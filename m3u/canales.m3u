@@ -170,6 +170,9 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.irishnews.com/picturesarchive/irishnews/irishnews/2016/03/24/163307311-95ee208e-c21f-43f5-8c1d-9b928e0c85a1.jpg" group-title="MX",UTV
+https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/l/Locomotion.png" group-title="ANIME",LOCOMOTION
