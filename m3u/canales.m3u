@@ -16,7 +16,6 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
-http://23.237.23.7:8577/live/IPTVDNS.0507828/HCvMMO5E9z7609/3215.m3u8?token=GENYUUEOGwkbAVcHDlAPVlZQUQENA1lWVFIHBAJWWlRRBFUEBVYOUAEbGRZER0pWAlhqXVxDWwMDB1MZFxARVBE+WVQQXBsCDAoFDAMRFBEXXFhRGltRHBNGD1EXX0AAUVgICBBKG1ZBTVBGWVJUbAdQQ11bBEMKX0MKWRlHDV88BVVdUwhdEQMbBRYbEVFAExcPWk0NDRwTVA9BRwQWVEFbEgEAUgwRFRtWW0JdTEEaFw8WdTlDHBNTHkFQCxFYDA8SChALCkYBGxkWXkBnQQZGQUZdAAxVQxRcFwRHThMOAEhvUQlXXVxaQV1YXUsRWRcABBpNQ11eWA9BWhc9QQoFEgoQVAAAAA0XSQ==
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="CO",TDI
 https://streamyes.alsolnet.com/tdicolombia/live/chunklist_w114107597.m3u8
@@ -36,7 +35,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 http://ul.cdn946.net:8080/hls/th9y8suwvc.m3u8?s=sl1klxKDsu3vZ1UvdmBXWQ&e=1597215762
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="LAT",a+
-https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/06e1dba2-9430-4d7f-9ae0-f19b5d270a6a:ATL/variant/dcf6488c5b6184c256e866c9f8fddce0/bandwidth/645920.m3u8
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="Esp",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -45,10 +44,14 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/index_0400_av-p.m3u8?sd=10&rebase=on
+https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
+
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",RTVE
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ES",StarTVE
-http://roedor.xyz/regiomx20x/tp.php?c=2375&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
@@ -305,7 +308,6 @@ http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3jMiCj.png" group-title="CHILE",Pintana TV
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
 https://u86715.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=bVLfOLhsftKObIA6OFZnnw&e=1597438386
@@ -747,6 +749,11 @@ http://okteve.com/candy-tv-live/
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/1280x720_2890800/index.m3u8
 https://edge250.stream.highwebmedia.com/live-hls/amlst:angela_5-sd-7a5d2ffb193ae134e08c74aaf0ef157dd82b6e0fdf73956b2e21a4986a904da6_trns_h264/chunklist_w1147716689_b1148000_t64RlBTOjMwLjA=.m3u8
+paginas de a mas
+
+https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/06e1dba2-9430-4d7f-9ae0-f19b5d270a6a:ATL/variant/dcf6488c5b6184c256e866c9f8fddce0/bandwidth/645920.m3u8
+https://dai.google.com/linear/hls/s/event/SJysMl45QMSwjo0TodSk1Q/stream/a2723e38-a8c3-43eb-a337-fe6306291e11:CHS-staging/variant/16e021076e8357cc4a384fdf9f3198f9/bandwidth/645920.m3u8
+
 I recently figured out how to get stream URLs for streams on Pluto TV, so we should be able to grab all of them; however, I do not have enough time, as there are far too many Pluto TV channels out there.
 When you guys get a chance, please grab URLs and put them here, and I will add them. The easiest way is to check the FeaturedImage.jpg image url, which has this URL scheme:
 
