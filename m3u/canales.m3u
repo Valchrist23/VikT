@@ -99,6 +99,8 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyEhvPBIoaA5-SoS7arpPnK1B1rlQomNcnrdA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Cooking",Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyEhvPBIoaA5-SoS7arpPnK1B1rlQomNcnrdA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Cooking",Tastemade
+https://tastemadefr16min-redbox.amagi.tv/amRdirect/p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/1280x720_3291200/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 
@@ -125,6 +127,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u
 
 #EXTINF:-1 tvg-logo="https://www.wnypapers.com/content/images/110-Ent/HK-logo-new.jpg" group-title="Cooking",Hells Kitchen
 https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.ngnRoPl62YZUh0EuThwIRQHaEK&pid=Api&P=0&w=327&h=185" group-title="Cooking",AD
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/1280x720_2500000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
 https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
