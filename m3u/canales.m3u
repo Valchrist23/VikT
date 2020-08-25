@@ -184,10 +184,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_C8Dpr9s51ug/TAlqb5Ha4aI/AAAAAAAABaU/Of3TKoGmEnQ/s1600/nickla.png" group-title="LAT",Nickelodeon Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ef3ebd75-05aa-4f7e-b1bf-250819c2c37e&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Buzzr" tvg-id="buzzr.com" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png",Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
-https://dai.google.com/linear/hls/pa/event/wFZ1ufQ8ToaSdPgGtbBbpw/stream/68873853-8dcd-4787-b4dc-9b7859313841:ATL/variant/b265be30fad3165ba2f9d822a5abc463/bandwidth/3000140.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="US",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
@@ -197,13 +193,13 @@ https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-2hyMnkH-3Ds/TlwC6t0eamI/AAAAAAAAATE/kjEpG65EsAc/s1600/tves.jpg" group-title="ES",TV ES 
 http://95.216.150.122:1935/tves/tves/chunklist_w767857638.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzmm19umK2NS-bMzC3AqgkAiJn32uGovSUd1g=s900-c-k-c0xffffffff-no-rj-mo" group-title="LAT", BH tv
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.QT2HF6XEgoXwMimRH-AlygAAAA&pid=Api&P=0&w=240&h=176" group-title="LAT", BH tv
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzmm19umK2NS-bMzC3AqgkAiJn32uGovSUd1g=s900-c-k-c0xffffffff-no-rj-mo" group-title="LAT", BH tv PERU
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.QT2HF6XEgoXwMimRH-AlygAAAA&pid=Api&P=0&w=240&h=176" group-title="LAT", BH tv PERU
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfG6TOAud_r5AZ8zRHuJNTk2sU0_PJXsf0RCMQ=s900-mo-c-c0xffffffff-rj-k-no",TeleUno TV
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/spelling-satellite-networks-inc/tele-uno-1-75975208.jpg",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-001.jpg",Dan TV
@@ -258,8 +254,6 @@ http://radio.7chan.org:8000/CH7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies", 13MAX | HD
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -726,6 +720,8 @@ http://live.redtraffic.xyz/threesome.m3u8
 
 ICONOS
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal4televisa.png" group-title="BC",TV 4 Mexicali
 
 #EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20140416005326/logopedia/images/2/26/Logotipo_TelevisaTijuana.png" group-title="BC",Televisa Tijuana
@@ -740,7 +736,6 @@ https://livestartover-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
 https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",RTVE
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
