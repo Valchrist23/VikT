@@ -732,15 +732,14 @@ ICONOS
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX",Canal 5 XHGC
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3
-https://ul.cdn946.net:8443/hls/le870ahdxekxml.m3u8?s=9MOZmbOADF58ILDj6z3sRA&e=1598497000
+https://ul.cdn946.net:8443/hls/le870ahdxekxml.m3u8?s=grIt4an5d41newdNPIn5kA&e=1598502077
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
-https://ul.cdn946.net:8443/hls/lds8j4.m3u8?s=Wl8WVJ3ALw5VAqMbyqC-QA&e=1598497317
+https://ul.cdn946.net:8443/hls/lds8j4.m3u8?s=y6aEMN09AA0-dhibKTpmNA&e=1598502188
 
 Antena 3v viejo
 https://livestartover-i.akamaized.net/antena3/master.m3u8
-
-
+https://ul.cdn946.net:8443/hls/lds8j4.m3u8?s=Wl8WVJ3ALw5VAqMbyqC-QA&e=1598497317
  TVE viejos
 https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
