@@ -737,8 +737,16 @@ https://livestartover-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
 https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",RTVE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
+
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
+
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ES",StarTVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
