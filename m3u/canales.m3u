@@ -734,6 +734,9 @@ ICONOS
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX",Canal 5 XHGC
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3
+https://directo.atresmedia.com/1598748679_8cb05a961ac9aa46790534a3dac02f17622cc08d/antena3/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="neox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="ES",NEOX 
+https://directo.atresmedia.com/1598749161_a210d618274f9348acae00e1ce377e717069be05/geoneox/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
 https://ul.cdn946.net:8443/hls/lds8j4.m3u8?s=eAojsEspOeLOw9Q0FwFVPg&e=1598502730
