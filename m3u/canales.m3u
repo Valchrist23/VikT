@@ -18,7 +18,6 @@ https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca Uno
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
-
 oldy
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 
@@ -26,7 +25,6 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="CO",TDI
-https://streamyes.alsolnet.com/tdicolombia/live/chunklist_w114107597.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX",Canal 22
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1014375797_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjAgNTozNzowNiBQTSZoYXNoX3ZhbHVlPVduMEt0NXZzdnNsREJQSStuUU8vT2c9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
@@ -777,9 +775,9 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
-#EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
-http://23.237.22.122:8577/live/IPTVDNS.0507828/HCvMMO5E9z7609/3206.m3u8?token=GENYUUEOGwkbCVdVBwQOClIMBAQNUlYDAgVXDAxWAARUVQVSUFQOAVsbGRZER0pWAlhqXVxDWwMDBlAZFxARVBE+WVQQXBsCDAoFDAMRFBEXXFhRGltRHBNGD1EXX0ADUFcDBhBKG1ZBTVBGWVJUbAdQQ11bBEMKX0MKWRlHDV88BVVdUwhdEQMbBRYbEVFAExcPWk0NDRwTVA9BRwQWVEFbEgUCVwwRFRtWW0JdTEEaFw8WdTlDHBNTHkFQCxFYDA8SChALCkYBGxkWXkBnQQZGQUZdAAxVQxRcFwRHThMOAEhvUQlXXVxaQV1YXUsRWRcABBpNQ11eWA9BWhc9QQoFEgoQVwkHAAsXSQ==
 
+#EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
+http://usuarios.club/stream/Luis.Ramirez/kPo/157.m3u8
 
 http://locomotiontv.com/envivo
 http://stirr.com
