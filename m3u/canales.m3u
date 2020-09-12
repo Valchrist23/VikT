@@ -89,7 +89,7 @@ https://tastemadefr16min-redbox.amagi.tv/amRdirect/p=Redbox&deviceid=&is_lat=&su
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/saveur-1/logo_20200204_134616.png" group-title="Cooking",Saveour
 https://a.jsrdn.com/broadcast/060753d37e/%2B0000/high/c.m3u8
@@ -236,8 +236,6 @@ https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png" group-title="Without category", Stirr City
 https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/prPDVF5dfF0/maxresdefault.jpg" group-title="US",Futurism
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
