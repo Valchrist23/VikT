@@ -92,7 +92,7 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/pl
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22703/saveur-1/logo_20200204_134616.png" group-title="Cooking",Saveour
-https://a.jsrdn.com/broadcast/060753d37e/+0000/low/c.m3u8
+https://a.jsrdn.com/broadcast/060753d37e/%2B0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22718/gusto-tv/logo_20191213_004422.png" group-title="Cooking",gusto
 https://a.jsrdn.com/broadcast/ebf95254ca/%2B0000/high/c.m3u8
