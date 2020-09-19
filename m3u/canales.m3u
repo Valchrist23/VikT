@@ -9,8 +9,10 @@ https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT",Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca Uno 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="MX",Unicable 
 https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=aMJKLybVuh9ZSlcW9z7rxA&e=1600563792
@@ -18,12 +20,9 @@ oldy
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://turistiktv.com/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="MX",Turistik TV
 https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="CO",TDI
 
