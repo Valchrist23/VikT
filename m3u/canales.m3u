@@ -531,7 +531,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN
-http://185.59.223.135/espn/index.m3u8
+https://ul.cdn946.net:8443/hls/gyxl4rt.m3u8?s=LipGKj8PG6xbAz_swahUWg&e=1600562127
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN
+https://ul.cdn946.net:8443/hls/410h13gh.m3u8?s=E_B8CcPb2O-9TM5AWt-iDg&e=1600562431
+
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a2/Fox-sports-news-hero.png/revision/latest?cb=20160621162353" group-title="Sports",FOX Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
