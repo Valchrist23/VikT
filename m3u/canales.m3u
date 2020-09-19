@@ -534,6 +534,8 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 https://ul.cdn946.net:8443/hls/gyxl4rt.m3u8?s=LipGKj8PG6xbAz_swahUWg&e=1600562127
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN3
 https://ul.cdn946.net:8443/hls/410h13gh.m3u8?s=E_B8CcPb2O-9TM5AWt-iDg&e=1600562431
+#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/5/200722_tv-gol-tv-logo-png-png-download.png" group-title="Sports",Gol TV
+https://e3.julinewr.xyz/ingest013/37387.m3u8?sf=SFRLSUxVSTZOag==&token=3bMItBsqBCV-d2tIZpF_LA&expires=1600555637&rnd=
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.grKTMtu5GT6tQKBrEuUQmgHaEo&pid=Api&P=0&w=252&h=158" group-title="Sports",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20200918_1600440048348/3000K/3000_slide.m3u8
 
