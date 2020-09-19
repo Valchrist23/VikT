@@ -785,6 +785,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
+https://unidfpclnlds155.akamaized.net/linear/hls/pa/event/pa2-p-dKTaCqDOi0eFyHXw/stream/02c94945-78b0-4c04-8b26-5e5908924c99:GRQ/variant/2c67b312940b383c270c54370b90c6b7/bandwidth/4500000.m3u8?hdntl=exp=1600631700~acl=*~id=04319e24-ccf6-499c-aa49-9e1078a5b897~data=hdntl~hmac=553860a4f448522f0f77c9d17c6d81b718814ad4f660e5e58cc937a04abe9684
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
 http://ul.cdn946.net:8080/hls/ebc3wsw.m3u8?s=EPoLQveLG-Ccsm6ZcHqXUw&e=1600566813
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
