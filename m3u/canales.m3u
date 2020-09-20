@@ -220,6 +220,9 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-001.jpg",Dan TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",Canal 26 Argentina
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600594398/ei/fs1mX7DoDs2IkgbG5KPAAQ/ip/187.250.120.217/id/3Q5IPa88woI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdHVwpw_rjcR0gxspo1tBCn3QOibODTXKA9e_2paylaACICEIk4kKtkFY7l7vXG1o1wq4ed43EDlVMRmEhmMKMTfK/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22829/unidentified/logo_20200408_024027.png" group-title="SYFY",Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
 
