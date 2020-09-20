@@ -535,7 +535,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN
-https://ul.cdn946.net:8443/hls/qf1qpeygz.m3u8?s=jqFbrHgqMblVmZK9E825Cw&e=1600563411
+https://ul.cdn946.net:8443/hls/56cpjd.m3u8?s=qCl1pfAbCgC5cnMRBdutRg&e=1600665739
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN2
 https://ul.cdn946.net:8443/hls/kzksjhw9uzc0.m3u8?s=s4JrwLj7Ri_uH5UADsbSyw&e=1600584633
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN3
