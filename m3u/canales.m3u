@@ -345,8 +345,6 @@ https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Documentary", History2
-https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=21j30XpFQ7Hdf_obJnMniA&e=1600583872
-
 https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=FexUzLg9Qd3Hmxha147Ttg&e=1600584042
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",COMEDY CENTRAL
@@ -354,9 +352,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36
 
 #EXTINF:-1 tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="US",ComedyDynamics
 https://a.jsrdn.com/broadcast/5Gt2c8lsw/CDYN.stream_360p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="Documentary",Titanic TV
-https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-country="Lat" tvg-url="" group-title="LAT",Telesur Costarica | 
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
@@ -793,7 +788,6 @@ http://ul.cdn946.net:8080/hls/ebc3wsw.m3u8?s=EPoLQveLG-Ccsm6ZcHqXUw&e=1600566813
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
-https://ul.cdn946.net:8443/hls/1a6cnv.m3u8?s=EisXKLiVBziTSeLPCA4Z-A&e=1600561429
 
 http://locomotiontv.com/envivo
 http://stirr.com
