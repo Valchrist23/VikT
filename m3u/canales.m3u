@@ -380,6 +380,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" group-title="MX", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 
 #EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.pe9R5K1j-uuFGRsHwWrtEgAAAA&pid=Api&P=0&w=300&h=300" group-title="Canales Miscelaneos", Holvoet
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
@@ -795,6 +796,9 @@ http://ul.cdn946.net:8080/hls/ebc3wsw.m3u8?s=EPoLQveLG-Ccsm6ZcHqXUw&e=1600566813
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 https://vd2xr5a6666jnguyvnehmhlmnh.gcdn.anvato.net/discovery/1036/19/08/29/4735995/FC53DDBA9F3E3C3872DBCF89F94A8F282A7BB3121FBBFC-55.ts?Expires=1600589326&KeyName=mcpkey1&Signature=bOa4Nyz5qaS9y0Ge8imUBZ3F8Kw
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3mY4cL1GTmU/hqdefault.jpg" group-title="ES",Pelis 
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
 
 http://locomotiontv.com/envivo
 http://stirr.com
