@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2018/05/NOTIVISA-LOGO.png" group-title="MX",Notivisa 12
-https://www.youtube.com/watch?v=uKXFjWsQ7uQ&t=39s
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600594698/ei/qs5mX4OFD4POD5iehogH/ip/187.250.120.217/id/Vrx8RXdUq3I.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK0fDdfYNnKUjR-0RDPmq_S65RFFjkuAEzqb65kn4-frAiEA0z0HdwbUfx3vXx-M8a1BPK9dj8lqHtAwW6-bMFU_9tc%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
