@@ -79,8 +79,6 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
 https://tastemadefr16min-redbox.amagi.tv/amRdirect/p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/1280x720_3291200/index.m3u8
