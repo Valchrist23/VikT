@@ -1,7 +1,10 @@
 #EXTM3U
  
+ #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CokFr9JS6n9RF2mV4mNrJ-fISyLOmjL0CE-HJ07CE9U8XhbLhHQUHPfDasOQA7A2ZTvxSIa6p_ThaTsST9gEw0RYXi1bCiSpkSmdGsQK7KwTMzm9gQfQa9wygtc1hMLLbJkH0uRyt8VdgfFtqxmKxBbXSqYTBf3nJ2ENtyqvJlAyTNt-CYsI6mwKYaUdSeMX61Q1AaCiICnwxmXt3Srb7uywiRgZHyWikwd6x4X3u2vnQKCHF-Ue0sDBilowk7tJIXRSHPqHdqNZ329s4xvuZkw4hCPYNknjJlehUJfwjvTHzaV6NRJjgzE32X6_rdhWG9eV3lNE69awY5I1jwbKmN1FsW8AC2yijUclnetK_JjCQHDmtTENheupLh-P95-wKMAPchEX6rLXreZk1lYZhJ5Rtm4hB5CwU48Cvkdls8gCK217UOYcsC8_lEzj6mY-6ESZzcfOH5rN_-Y76CSpnpS0UrTuFR4ENiVYvxmmc7m7FBDW_oqbYE8a3j2vIFHsgnHx05SDGXxh9Wvm-F4gbizUF59T0MUTIeiuNha1_Oo5RgBK6j7R1knjTA-zG_nhIZ-ZzZvRKbgGt0pm4StxqYPqslayJyhWBEt7HGz9hC5a2Fe_iefkQrqDOh1w-me-DLqykdOcpsZoULF7jBuAKySWA11CJTfBFyqE8hat6KUWA7urDzt4WQ_eI7pNTPtqfh9eEiVmkfjqTV0vqRht9mZds-DkVU6NjHK7CKod8jJYL4Pjq7xVHBcBLbu0G7_kxv_3-83WjTqChJeI-D8Y8ebgzbrJn8wIbaM0P8_1Mh053cZWwjOZFC_c_jW_4VYMJts5bJoJmyqrWgS29tWbtO0caqvLlPRYdVP4uhIQ4EbtmTOMZTHekyp6iKUtfBoMGoq2OjzVpVKXht6E.m3u8
+
 #EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2018/05/NOTIVISA-LOGO.png" group-title="MX",Notivisa 12
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600594698/ei/qs5mX4OFD4POD5iehogH/ip/187.250.120.217/id/Vrx8RXdUq3I.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK0fDdfYNnKUjR-0RDPmq_S65RFFjkuAEzqb65kn4-frAiEA0z0HdwbUfx3vXx-M8a1BPK9dj8lqHtAwW6-bMFU_9tc%3D/file/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
@@ -539,8 +542,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN
-https://ul.cdn946.net:8443/hls/56cpjd.m3u8?s=qCl1pfAbCgC5cnMRBdutRg&e=1600665739
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.dFJojHDbyq1MaS_4mGpIkgAAAA&pid=Api&P=0&w=300&h=300" group-title="Sports",Bein Sports Extra
+https://stitcher.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN2
 https://ul.cdn946.net:8443/hls/kzksjhw9uzc0.m3u8?s=s4JrwLj7Ri_uH5UADsbSyw&e=1600584633
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN3
@@ -764,7 +768,6 @@ ICONOS
 
 #EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20140416005326/logopedia/images/2/26/Logotipo_TelevisaTijuana.png" group-title="BC",Televisa Tijuana
 
-#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX",Canal 5 XHGC
 
