@@ -227,6 +227,9 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="US",Sci-fi 4U
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="AUSTRALIA",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-2hyMnkH-3Ds/TlwC6t0eamI/AAAAAAAAATE/kjEpG65EsAc/s1600/tves.jpg" group-title="ES",TV ES 
 http://95.216.150.122:1935/tves/tves/chunklist_w767857638.m3u8
 
@@ -363,7 +366,8 @@ http://cdnak8.cast4u.info/channels/3/10803.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GiMMorw.png" group-title="USA",Switch TV
+http://nrpus.bozztv.com/36bay2/gusa-switch/index.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/08/dustx-logo.jpg?w=1000&h=563&crop=1" group-title="Global", Dustx
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
