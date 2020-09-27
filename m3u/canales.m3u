@@ -1,10 +1,5 @@
 #EXTM3U
  
- #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CokFr9JS6n9RF2mV4mNrJ-fISyLOmjL0CE-HJ07CE9U8XhbLhHQUHPfDasOQA7A2ZTvxSIa6p_ThaTsST9gEw0RYXi1bCiSpkSmdGsQK7KwTMzm9gQfQa9wygtc1hMLLbJkH0uRyt8VdgfFtqxmKxBbXSqYTBf3nJ2ENtyqvJlAyTNt-CYsI6mwKYaUdSeMX61Q1AaCiICnwxmXt3Srb7uywiRgZHyWikwd6x4X3u2vnQKCHF-Ue0sDBilowk7tJIXRSHPqHdqNZ329s4xvuZkw4hCPYNknjJlehUJfwjvTHzaV6NRJjgzE32X6_rdhWG9eV3lNE69awY5I1jwbKmN1FsW8AC2yijUclnetK_JjCQHDmtTENheupLh-P95-wKMAPchEX6rLXreZk1lYZhJ5Rtm4hB5CwU48Cvkdls8gCK217UOYcsC8_lEzj6mY-6ESZzcfOH5rN_-Y76CSpnpS0UrTuFR4ENiVYvxmmc7m7FBDW_oqbYE8a3j2vIFHsgnHx05SDGXxh9Wvm-F4gbizUF59T0MUTIeiuNha1_Oo5RgBK6j7R1knjTA-zG_nhIZ-ZzZvRKbgGt0pm4StxqYPqslayJyhWBEt7HGz9hC5a2Fe_iefkQrqDOh1w-me-DLqykdOcpsZoULF7jBuAKySWA11CJTfBFyqE8hat6KUWA7urDzt4WQ_eI7pNTPtqfh9eEiVmkfjqTV0vqRht9mZds-DkVU6NjHK7CKod8jJYL4Pjq7xVHBcBLbu0G7_kxv_3-83WjTqChJeI-D8Y8ebgzbrJn8wIbaM0P8_1Mh053cZWwjOZFC_c_jW_4VYMJts5bJoJmyqrWgS29tWbtO0caqvLlPRYdVP4uhIQ4EbtmTOMZTHekyp6iKUtfBoMGoq2OjzVpVKXht6E.m3u8
-
-#EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2018/05/NOTIVISA-LOGO.png" group-title="MX",Notivisa 12
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
@@ -80,9 +75,6 @@ https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="ES", France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WxRpFPk.jpg" group-title="",Uno TV
-http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ozinKJC.png" group-title="CHILE",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
@@ -562,6 +554,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+
+-----------------------------------------Sports----------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.dFJojHDbyq1MaS_4mGpIkgAAAA&pid=Api&P=0&w=300&h=300" group-title="Sports",Bein Sports Extra
 https://stitcher.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports",CBS Sports HQ
@@ -609,11 +603,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3
 #EXTINF:-1 tvg-logo="http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.SWANuG4PSGc87SlDJtm3KgAAAA&pid=Api&P=0&w=448&h=162" group-title="24/7",Movies
-http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-1)
-https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8
-
+-----------------------------------------Dedicated 24/7---------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-country="US" tvg-url="" group-title="",American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="",Rick and Morty
@@ -639,6 +629,7 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="VIETNAM",24/7 Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
+-----------------------------------------Random---------------------------------------------
 #EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Random
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1,Random 1
@@ -663,6 +654,11 @@ https://stream.allsprk.tv/live/9/index.m3u8
 #EXTINF:-1,XD Tokyo
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
 
+-----------------------------------------Movies---------------------------------------------
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.SWANuG4PSGc87SlDJtm3KgAAAA&pid=Api&P=0&w=448&h=162" group-title="24/7",Movies
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-1)
+https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles The Movie (1990)
 http://www.deadlyblogger.com/NewRelease/tmnt1.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
@@ -736,6 +732,8 @@ https://www.deadlyblogger.com/NewRelease/origin.mp4
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES", Guardians of the galaxy dual audio
 https://goo.gl/sFaEVq
 
+
+-----------------------------------------Adult---------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 
@@ -806,20 +804,19 @@ ICONOS
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal4televisa.png" group-title="BC",TV 4 Mexicali
-
-#EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20140416005326/logopedia/images/2/26/Logotipo_TelevisaTijuana.png" group-title="BC",Televisa Tijuana
-
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX",Canal 5 XHGC
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3
-https://directo.atresmedia.com/1598748679_8cb05a961ac9aa46790534a3dac02f17622cc08d/antena3/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-name="neox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="ES",NEOX 
-https://directo.atresmedia.com/1598749161_a210d618274f9348acae00e1ce377e717069be05/geoneox/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
+
+#EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2018/05/NOTIVISA-LOGO.png" group-title="MX",Notivisa 12    
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
-https://ul.cdn946.net:8443/hls/lds8j4.m3u8?s=eAojsEspOeLOw9Q0FwFVPg&e=1598502730
+
+
 
 Antena 3v viejo
 https://livestartover-i.akamaized.net/antena3/master.m3u8
@@ -827,7 +824,6 @@ https://ul.cdn946.net:8443/hls/lds8j4.m3u8?s=Wl8WVJ3ALw5VAqMbyqC-QA&e=1598497317
  TVE viejos
 https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
@@ -848,6 +844,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
+http://localdblagent.club:8080/Carlos1/Carlos1/12081?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yu2IXMrIPYKwyeIpGo8qOQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Delicioso
+http://localdblagent.club:8080/Carlos1/Carlos1/12066?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3mY4cL1GTmU/hqdefault.jpg" group-title="ES",Pelis 
 
