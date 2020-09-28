@@ -857,8 +857,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 http://localdblagent.club:8080/Carlos1/Carlos1/12042?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
 http://localdblagent.club:8080/Carlos1/Carlos1/12043?checkedby:hlscat.com
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="MX",AMC
+http://localdblagent.club:8080/Carlos1/Carlos1/12039?checkedby:hlscat.com
 
 http://locomotiontv.com/envivo
 http://stirr.com
