@@ -145,7 +145,7 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="US",FX
-http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
+http://localdblagent.club:8080/Carlos1/Carlos1/12099?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B",Travle HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
