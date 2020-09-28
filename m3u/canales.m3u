@@ -129,7 +129,7 @@ http://localdblagent.club:8080/Carlos1/Carlos1/12081?checkedby:hlscat.com
 http://localdblagent.club:8080/Carlos1/Carlos1/12066?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
-http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
+http://mhiptv.com:8888/ka5/ka5/15220?checkedby:hlscat.com
  
 #EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -335,14 +335,14 @@ http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
-https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=lIj_AYzYIMDn8vwFDFHWKw&e=1600589128
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png", FXM
-
+http://localdblagent.club:8080/Carlos1/Carlos1/12100?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
-http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+http://localdblagent.club:8080/Carlos1/Carlos1/12169?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC 
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
@@ -357,7 +357,7 @@ https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="", TLC
-
+http://localdblagent.club:8080/Carlos1/Carlos1/12147?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
@@ -378,11 +378,11 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Documentary", History2
-http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QsLRpQtq42Q/hqdefault.jpg" group-title="Documentary", History
+http://localdblagent.club:8080/Carlos1/Carlos1/12106?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Documentary", History2
-https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=FexUzLg9Qd3Hmxha147Ttg&e=1600584042
+http://localdblagent.club:8080/Carlos1/Carlos1/12107?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",COMEDY CENTRAL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
