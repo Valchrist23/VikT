@@ -820,7 +820,6 @@ http://live.redtraffic.xyz/threesome.m3u8
 
 ----ChannelLogos----
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX",Canal 5 XHGC
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3
 #EXTINF:-1 tvg-name="neox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="ES",NEOX 
@@ -853,6 +852,12 @@ https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LnF1aWxtZXN2aXNpb25fc2NyZWVuXzBfMTUzNzcwNTgzNV8wMDA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="LAT",Canal 29
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332" group-title="ES",A3Series
+http://localdblagent.club:8080/Carlos1/Carlos1/12042?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
+http://localdblagent.club:8080/Carlos1/Carlos1/12043?checkedby:hlscat.com
+
 
 
 http://locomotiontv.com/envivo
