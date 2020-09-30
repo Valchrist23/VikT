@@ -601,6 +601,9 @@ https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NO7y3tt.png" group-title="USA",HBCU Game Day
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="USA",NFL Channel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/3063648/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=938eb643-02c2-11eb-9df2-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="USA",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
