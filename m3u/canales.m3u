@@ -637,6 +637,9 @@ https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-558
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Color-WWE-logo.jpg" group-title="Sports",WWE
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Sports",AAA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=71ff2fa4-02d9-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
