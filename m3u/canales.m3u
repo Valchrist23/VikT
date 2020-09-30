@@ -585,10 +585,6 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/736x/9c/04/90/9c04908b2e581d0ad8fa7db3685c93da.jpg" group-title="Sports",Sports Marathon
-https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/marathon.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/736x/9c/04/90/9c04908b2e581d0ad8fa7db3685c93da.jpg" group-title="Sports",Sports Marathon
-https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.vmastoryboard.com/wp-content/uploads/2014/09/Grid-logo.jpg" group-title="Sports",Sports Grid
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-yIXKQvnHUuc/Uie3suZD9II/AAAAAAAAAFA/xQ1sB9wmtJk/s1600/TMZ+Sports.png" group-title="Sports",TMZ Sports
