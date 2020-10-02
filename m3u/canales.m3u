@@ -192,8 +192,9 @@ https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/l/Locomotion.png" group-title="ANIME",LOCOMOTION
 http://www.toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/l/Locomotion.png" group-title="ANIME",LOCOMOTION
+
 
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/fe5e871f-faac-4bde-bf62-1165a6c808cf/5.m3u8
@@ -240,12 +241,6 @@ https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="AUSTRALIA",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-2hyMnkH-3Ds/TlwC6t0eamI/AAAAAAAAATE/kjEpG65EsAc/s1600/tves.jpg" group-title="ES",TV ES 
-http://95.216.150.122:1935/tves/tves/chunklist_w767857638.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.QT2HF6XEgoXwMimRH-AlygAAAA&pid=Api&P=0&w=240&h=176" group-title="LAT", BH tv
-https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.QT2HF6XEgoXwMimRH-AlygAAAA&pid=Api&P=0&w=240&h=176" group-title="LAT", BH tv PERU
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
