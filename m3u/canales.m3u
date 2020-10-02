@@ -95,9 +95,6 @@ https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
 https://tastemadefr16min-redbox.amagi.tv/amRdirect/p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/1280x720_3291200/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.outdoorcooking.com/skin/frontend/outdoorcooking/default/images/oc-logo-simp.png" group-title="Cooking", Out Door Cooking
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
@@ -392,6 +389,9 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QsLRpQtq42Q/hqdefault.jpg" group-title="Documentary", National Geographic
+http://103.24.98.246/NATGEOHD/video.m3u8?token=cQoCvJ7ne3
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QsLRpQtq42Q/hqdefault.jpg" group-title="Documentary", History
 http://localdblagent.club:8080/Carlos1/Carlos1/12106?checkedby:hlscat.com
@@ -792,6 +792,8 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV | SD 
 http://109.71.162.112/live/sd.jasminchannel.stream/master.m3u8
+
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Goolgirls" tvg-language="English" tvg-logo="https://yt3.ggpht.com/-vaS9AKJ-ujw/AAAAAAAAAAI/AAAAAAAAAAA/5YnMKNIu1mU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Goolgirls
 http://www.goolgirls.com/tv/adult-new.m3u
