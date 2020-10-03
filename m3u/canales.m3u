@@ -447,13 +447,13 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpVGoWy.png" group-title="USA",Funny Bone TV (New!)
 https://nrpus.bozztv.com/36bay2/gusa-funnybone/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",Filmrise Classics
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1d8fc09f997b70343411eadfef2c2cab73e5ea3a3be86c9033bf07b9b71fc134.png" group-title="USA",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",Filmrise Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",Filmrise Classics     
 https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/232640342ea0e0e6e965532a16e90947ba3ba136db96a2e499ff7aaa85dcffed.png" group-title="USA",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Movies
@@ -496,9 +496,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Music",Eye Candy
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/126.m3u8?Moods
 
@@ -525,8 +522,6 @@ https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play
 
 #EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest?cb=20100526164945" group-title="Music", Music Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
-
-#EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ai96wlrz5fNrUSV7sKL1YgHaFj&pid=Api&P=0&w=300&h=300" group-title="Music", RetroTV Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music", 1Mus
@@ -841,7 +836,7 @@ http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="Cartoon",Cartoon Network
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
 
 Antena 3v viejo
 https://livestartover-i.akamaized.net/antena3/master.m3u8
