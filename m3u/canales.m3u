@@ -457,7 +457,7 @@ https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Movies
-https://dai.google.com/linear/hls/pa/event/Va1QEor0SWO_x_SQNyaF0w/stream/5d3d6b66-3fa8-4d1f-b178-e5488c9d08fc:CHS/variant/c426bdac1bc16b1acc297dffd7bda5fc/bandwidth/2689125.m3u8
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png" group-title="USA", Investigation Discovery ID
 
