@@ -675,8 +675,7 @@ https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
 -----------------------------------------Movies---------------------------------------------
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.SWANuG4PSGc87SlDJtm3KgAAAA&pid=Api&P=0&w=448&h=162" group-title="24/7",Movies
 http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-1)
-https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles The Movie (1990)
 http://www.deadlyblogger.com/NewRelease/tmnt1.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
