@@ -291,6 +291,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7lxkwbzDHpx_LkAbjHWh0wHaE-&pid=Api&P=0&w=282&h=191" group-title="USA", Con TV
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.-E1Pytpswh_3BMFS6efEOQAAAA&pid=Api&P=0&w=200&h=53" group-title="USA", Charge
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.jSazXZxZ0Dr3o8w-06R_FgHaEL&pid=Api&P=0&w=327&h=185" tvg-country="US" tvg-url="Stirr Fit" group-title="Fitness",Stirr Fit
 https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
 
