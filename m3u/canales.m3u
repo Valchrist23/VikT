@@ -116,6 +116,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa309
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto Cocina Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=8091eae6-0407-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8156&deviceLon=-116.5761&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto Cocina Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="Cooking",Pluto Cocina España
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6fcb63aa-02de-11eb-a59f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=41.3984&deviceLon=2.1741&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
@@ -465,6 +468,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c87704
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Movies",Black Cinema
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="US" tvg-url="" group-title="Movies",Pluto Horror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="USA",Monarch Channel
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
