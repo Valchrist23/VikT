@@ -462,6 +462,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBr6UAw.png" group-title="USA",Local Now (New!)
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Movies",Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Movies",Action Movies
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=70c85d75-a17e-416c-8d9b-0e5e6a81d45d&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7741&deviceLon=-80.1817&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
