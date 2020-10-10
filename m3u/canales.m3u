@@ -314,12 +314,6 @@ http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="Movies", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png", ANTARES TV
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15509476631.png" group-title="CHILE", TV+ 
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="CHILE", Zee Mundo 
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
@@ -327,9 +321,6 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 https://v3.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6OtEHJ.png" group-title="Entertainment", Pick
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="DOMINICAN REPUBLIC", Telenovisa 43
-http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
