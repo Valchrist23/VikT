@@ -99,8 +99,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 -----------------------------------------Kitchen---------------------------------------------
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
-https://tastemadefr16min-redbox.amagi.tv/amRdirect/p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/1280x720_3291200/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
