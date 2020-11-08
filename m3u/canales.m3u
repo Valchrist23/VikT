@@ -860,6 +860,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.OJu0j-4aGYrHv86kC8Y5_QAAAA&pid=Api&P=0&w=300&h=300" group-title="ES",Distro
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LnF1aWxtZXN2aXNpb25fc2NyZWVuXzBfMTUzNzcwNTgzNV8wMDA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="LAT",Canal 29
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
