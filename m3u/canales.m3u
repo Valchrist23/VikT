@@ -143,10 +143,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939da
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
-http://localdblagent.club:8080/Carlos1/Carlos1/12081?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yu2IXMrIPYKwyeIpGo8qOQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Delicioso
-http://localdblagent.club:8080/Carlos1/Carlos1/12066?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 
@@ -155,8 +153,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UNQx9G_Q4gzHqoNiez9bTwHaCe&pid=Api&P=0&w=518&h=173" group-title="24/7 PLUTO TV",The Design Network
 https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/1280x720_2500000/index.m3u8
-
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/1280x720_2500000/index.m3u8
 
 -----------------------------------------Entertainment---------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
@@ -169,7 +165,7 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="US",FX
-http://localdblagent.club:8080/Carlos1/Carlos1/12099?checkedby:hlscat.com
+
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B",Travle HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
@@ -177,7 +173,7 @@ http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
-#EXTINF:18,PBS America
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS America
 http://51.52.156.22:8888/http/012
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0IXK_dusdg3l1aDY1gL2mAAAAA&pid=Api&P=0&w=300&h=300" group-title="US",The Asylum
