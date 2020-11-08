@@ -846,7 +846,7 @@ http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="CO",TDI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="Cartoon",Cartoon Network
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
 
@@ -857,7 +857,8 @@ https://ul.cdn946.net:8443/hls/lds8j4.m3u8?s=Wl8WVJ3ALw5VAqMbyqC-QA&e=1598497317
  TVE viejos
 https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
