@@ -2,14 +2,15 @@
   
 #EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2015/10/NOTIVISA-e1444356102181.png" group-title="MX", Notivisa
 
+#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvkEbXo--OoJAUiAUMwjyusCm2gpj4ier5cFa1eC9-LtFwoZN8yo24UOd8Z3RZJICI4p3UL4Upvz7oxAXkmWbRi4vtT_QVgpdr6uz5ND9EtMMyLwo3iJUbvyHLrEDOY_FkedFWTomCemHmoIjZCUix4q-cN920mQZnrfSDzjopdVTySD6kdZoISe-2HslOIIdGaBg66vXBG1y65Zc-fDGbIIFKWeTDZVLjjvAiE5IU02AHX2Ubiaa7F6tB3ahMsLUUJl3EJyUA7iKnL8idaLR1f-j25P49GrqeXY2SuyhoaxUkSsC4772a1S6oO0JRUFwe8ZCv06QDH9-ltBPtRK5xlk4gSO_Uf2mnJUFJLf96o1diphw-k9AQo_JjgeTvU4aArsHU3goSVbwf7BUNBhMeRUvML1IraSGeXtpVoLBYjgwuqp3h4EQDMCl4n_Ge1YysnREdB48w3aJzTdl-EDkQZWxqEo2_JbW9kYlPp9lo7ITnGyXRPX4wKJ52ysoos_zyJq9FpwXKzqio8-QYys_TWXDbtSYP3IiIHFg4l_LeiE7cE5oOs8xI82NlV2qU0M3J42zoZf5v-AMaLxXmMgU5ndl_IEa0-RQPdUzbZKsG4THWEbsz4aenGThlfODqFn_Y4TqiXY_zd2WSrscsxCHCWX0wzTwMGLWmGZVLd0O70RMBjvTadOQIzIVFsBbttPuze18a3_DNPJ3Xnilhe2UiLXpMn6mVoKurxWN1ej3B8W9IKgcDZHn70FOfJkoQGYJhYLpmHncH1Bvhz0ae9x-k_9mxX49HVlPOU8GMe5qwHehT1wozEnIKMBXFof8OfZuG6--fz_kO2tZ8w1EhB2WOZRdQRqZsmtCy_aBxaVGgy2uspUZCOqbHx3tKQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson Factory
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson Garage
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson Racing
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR.m3u8
@@ -886,7 +887,7 @@ http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Music Choice
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX",Canal 5 XHGC
 #EXTINF:-1 tvg-name="neox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="ES",NEOX 
-#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
+
 #EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2018/05/NOTIVISA-LOGO.png" group-title="MX",Notivisa 12    
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3mY4cL1GTmU/hqdefault.jpg" group-title="ES",Pelis 
