@@ -108,7 +108,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/67e92f4b31d435029826308733bcaa96.png" group-title="MX", Canal Nueve Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="MX", Canal 10 Microvision HD
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="MX", Canal 10 Microvision HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8WkMCW4Y8yxHH8_NwVCJgwHaHa&pid=Api&P=0&w=300&h=300" group-title="news",MVM Television
