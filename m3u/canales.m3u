@@ -61,13 +61,17 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="LAT",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
+#EXTINF:-1 tvg-name="mtmad 24h" tvg-id="" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="SPAIN",mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ES",Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 https://rtvelivestream-lvlt.rtve.es/24h_dvr_1000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
@@ -133,7 +137,8 @@ https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/1280x720_2890800/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="CANADA",Tastemade
+https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
 https://tastemade-latam-plutolive-vo.akamaized.net/l/hlslive/tastemade/3/tastemade.m3u8?profID=4&n=3&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6IjMyZmYyYWY4LTljNDMtNDQwOS1hOTIwLWEwODYxYzFkOGU2ZiIsImRldmljZVZlcnNpb24iOiI2OS4yLjAuMTcxMyIsImFwcFZlcnNpb24iOiI1LjE0LjAtMGY1Y2EwNGMyMTY0OWI4YzhhYWQ0ZTU2MjY2YTIzYjk2ZDczYjgzYSIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMyLjQyNDgiLCJkZXZpY2VMb24iOiItMTE2Ljg5ODMiLCJkZXZpY2VNb2RlbCI6IndlYiIsInVzZXJJZCI6IiIsImFwcE5hbWUiOiJ3ZWIiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi41MS4wIiwic3RpdGNoZXJSZXFJZCI6ImIyMWY3NGJhLWQ4YmMtNGMwOC1hYTE0LThiOGI5ZWMxNjE1MiIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTg3LjE4OS4yMTcuMjM4IiwiZGV2aWNlRE5UIjowLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzY5LjIuMC4xNzEzIFNhZmFyaS81MzcuMzYiLCJ0cmFuc2FjdGlvbl9pZCI6Ijk0ZjNjMmQ4LWE2YzgtNGJkNi05NGI2LTY2MGFjY2Y1NTQzZCIsImRldmljZVVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdPVzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjkuMi4wLjE3MTMgU2FmYXJpLzUzNy4zNiIsImlwQWRkcmVzcyI6IjE4Ny4xODkuMjE3LjIzOCIsImNoSWQiOiI1Zjk5OGMxZmM1NDg1MzAwMDc5N2JhY2QiLCJ0aW1lbGluZUlkIjoiNjAyNWY0ZWQ2YzYwOWMwMDA3ZTNjYjFiIiwiY2xpcElkIjoiNWZjYWQ0MTIzYjRmNGIwMDA3NzM3ZTU3Iiwic2Vzc2lvbklkIjoiMmNlMDI2MDAtNmY1ZS0xMWViLTljMDItMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWZkM2RmYjE3OTg2YjgwMDA3YWI4N2Y3IiwicGFydG5lckNvZGUiOiJUYXN0ZW1hZGUiLCJwYXJ0bmVyX2lkIjoiNTg4NjRmOTVkZGM3MDcwYzM4MzhhNGI4Iiwib3JpZ2luIjoiYWRTcGFyeCIsImZyb21fc3RpdGNoZXIiOnRydWV9&adsid=AXekj892uv7svgtmRgVe&chname=tastemade&pub=4233f0e7-76be-4539-b82b-762305c6f34d&acsurl=pluto-latam-tass-elb.adsparx.net&mcdn=tastemade-latam-plutolive-vo.akamaized.net%2Fl
 
@@ -193,7 +198,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb00009
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UNQx9G_Q4gzHqoNiez9bTwHaCe&pid=Api&P=0&w=518&h=173" group-title="24/7 PLUTO TV",The Design Network
 https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UNQx9G_Q4gzHqoNiez9bTwHaCe&pid=Api&P=0&w=518&h=173" group-title="24/7 PLUTO TV",The Design Network
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UNQx9G_Q4gzHqoNiez9bTwHaCe&pid=Api&P=0&w=518&h=173" group-title="24/7 PLUTO TV",The Design Network
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 -----------------------------------------Entertainment---------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
@@ -411,6 +419,8 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u
 http://nrpus.bozztv.com/36bay2/gusa-switch/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.T1dFrNhPcOzK2IHz_68uFgAAAA&pid=Api&P=0&w=332&h=187" group-title="Global", Dustx
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.T1dFrNhPcOzK2IHz_68uFgAAAA&pid=Api&P=0&w=332&h=187" group-title="Global", Dustx
+https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="DOGS",AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
@@ -431,7 +441,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appVersion=0&deviceDNT=false&sid=channel&deviceId=0&deviceMake=0&deviceModel=0&deviceType=web&deviceVersion=0
 
 #EXTINF:-1 tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="US",ComedyDynamics
-https://a.jsrdn.com/broadcast/5Gt2c8lsw/CDYN.stream_360p.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="US",Funny AF
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4df5582d-02cb-11eb-aeab-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
