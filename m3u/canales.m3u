@@ -32,8 +32,6 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://turistiktv.com/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="MX",Turistik TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.oLLKQ84DwZU3R6-GoKXqmQAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",Turistik TV
@@ -227,8 +225,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="ES",Boing 
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="ES",Boing 
-https://live.mitele.es/hls/live/2005334/boing/master.m3u8?hdnts=st=1609384896~exp=1609399295~acl=/*~hmac=f6ebb704f8e9061ea99d43b7363cb7c2f735ff3f862b33ccab8402798319023e
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="Art",Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
@@ -370,21 +366,11 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="CHILE", Zee Mundo 
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9BswJZk.png" group-title="CHILE", Atacama TV
-https://v3.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6OtEHJ.png" group-title="Entertainment", Pick
-
-
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png", FXM
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC 
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
@@ -899,6 +885,9 @@ http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="MX",AMC
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Documentary", National Geographic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9BswJZk.png" group-title="CHILE", Atacama TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6OtEHJ.png" group-title="Entertainment", Pick
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
 
 #EXTINF:-1 channel-id="324" channel-name="channel Reality Mashup" tvg-logo="http://mashupnorway.com/wp-content/uploads/2015/04/MashUp_Logo_Black_Blue_ml3.png"group-title="US",Reality Mashup
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS11/chunks.m3u8
