@@ -18,7 +18,7 @@ https://livestartover-i.akamaized.net/antena3/master.m3u8
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 old
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8ca
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
@@ -48,7 +48,9 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxgotraveler/C
 #EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX",Canal 22
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w1097042788_b978000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX",Canal 22
-https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w639937236_b978000_sleng.m3u8
+https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1014375797_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjAgNTozNzowNiBQTSZoYXNoX3ZhbHVlPVduMEt0NXZzdnNsREJQSStuUU8vT2c9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
+
+https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1544022218_b978000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIxIDU6NDI6MDIgQU0maGFzaF92YWx1ZT1aWmxLb242K0NDRzdmenB3ekRHQnFBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MX",DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
