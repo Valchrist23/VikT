@@ -193,6 +193,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb00009
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UNQx9G_Q4gzHqoNiez9bTwHaCe&pid=Api&P=0&w=518&h=173" group-title="24/7 PLUTO TV",The Design Network
 https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/1280x720_2500000/index.m3u8
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 
 -----------------------------------------Entertainment---------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
@@ -340,6 +341,9 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://tibs2.threeifbyspace.net/wp-content/uploads/2017/05/SYFY-Horizontal-Logo_Color.jpg" group-title="USA",Sci-Fi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="SciFi" tvg-logo="https://i.imgur.com/aUVVsSq.png" group-title="UDU TV USA", SciFi
+https://7f6c646754a74e90b9afad0ed13b1e32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af5a39cfef1f2542d365/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA",Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yZIbt-rM-nqf4H_d-9fsgwHaHa&pid=Api&P=0&w=300&h=300" group-title="Movies",Electric Now
@@ -422,6 +426,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff30370450
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",COMEDY CENTRAL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Comedy Central Animation" tvg-logo="http://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="PLUTO USA",Comedy Central Animation
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appVersion=0&deviceDNT=false&sid=channel&deviceId=0&deviceMake=0&deviceModel=0&deviceType=web&deviceVersion=0
 
 #EXTINF:-1 tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="US",ComedyDynamics
 https://a.jsrdn.com/broadcast/5Gt2c8lsw/CDYN.stream_360p.m3u8
