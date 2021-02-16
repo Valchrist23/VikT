@@ -25,15 +25,19 @@ old
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8ca
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1
+http://167.114.113.176:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/3801?checkedby:hlscat.com&token=Q0FYAkZRGwoVU1BbUAMEVgBaBwUHAgBXUVcDVwMBCwcOUAMFBFhYCAMTGBsVR0ZVAw48W1EXXwYKBVBPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAAFUC08SE1xdGwoVAwYPUQsWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAUXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QHDQdUQU8QVloQW0ZHGEFYE386Gk8SBk1NXF5EWFtXRAkWRBFBTxBcRjpHV0YVEQdQXwdKQQpBBBsVElpQTGYFXFpeBwAXW1pbFhcIF1RTUhMeQFUMXgpBVktvR1hQG1wRBQJVUEFP
+old 1
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1
+old 1
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1
+old 1
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
+http://149.56.47.213:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/3709?checkedby:hlscat.com&token=Q0FYAkZRGwoVVwULUQYHCFVaAVcBAVMAAAVWBQMCAlNcVAUCAglcCFUTGBsVR0ZVAw48W1EXXwYFBVhPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAABXDU8SE1xdGwoVBg0AVhEYEgcbF1dHWwRZbVEEFQtSV0ACDUUPWRUbX1luUFwLUlpUQFlBAhcZR1xBRUNZDEReDhRBUgpBS1hEUhMOG1MDBQNAT0FRWkALQUBMQ1lAfGpAFEFVG0FcV0NeXlobXBFAQ0BPQVtGahdQQUETBgNcVxAaWRJSFxUbXVZJa1oJXVpVARcKXVtGRw8QAFFTQB0QD1cNWRdaS2ZAXlUWA0QEAwFSQR4=
+old azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
+Azteca 7 old
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://turistiktv.com/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="MX",Turistik TV
@@ -83,19 +87,20 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
-http://149.56.47.213:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/3766?checkedby:hlscat.com&token=Q0FYAkZRGwoVVQIIBQZQA1EAAVMHB1NTVwNSBgECCgZaVwZSVgsICQQTGBsVR0ZVAw48W1EXXwYFA1dPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAQRUAU8SE1xdGwoVAw0AUgsWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAUXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QGBAJbQU8QVloQW0ZHGEFYE386Gk8SBk1NXF5EWFtXRAkWRBFBTxBcRjpHV0YVEQdQXwdKQQpBBBsVElpQTGYFXFpeBwAXW1pbFhcIF1RTUhMeQFUMXgpBVktvR1hQG1wRBQJVW1UQSA==
+http://149.56.47.213:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/3766?checkedby:hlscat.com&token=Q0FYAkZRGwoVBgUJVAcEAARWAQIMAlBUVlNVW1FXBlZZVQUFBAsPVlYTGBsVR0ZVAw48W1EXXwYFA1dPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAANQCE8SE1xdGwoVAwANVxEYEgcbF1dHWwRZbVEEFQtSV0ACDUUPWRUbX1luUFwLUlpUQFlBAhcZR1xBRUNZDEReDhRBUgpBS1hEUhMOG1MDBghAT0FRWkALQUBMQ1lAfGpAFEFVG0FcV0NeXlobXBFAQ0BPQVtGahdQQUETBgNcVxAaWRJSFxUbXVZJa1oJXVpVARcKXVtGRw8QAFFTQB0QD1cNWRdaS2ZAXlUWA0QCBgdaVUFP
+old hola
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
+http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3748?checkedby:hlscat.com
+old foro
 https://adinsertprimeforotv.akamaized.net/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Old Foro TV
+old foro
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Old Foro TV
+old foro
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
-https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/5699e6a1-1bac-436a-bc99-f2df852f53b9:DLS/variant/7984b26d271dc33ebf8052bca213ae51/bandwidth/1214049.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MX",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
