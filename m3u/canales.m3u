@@ -14,9 +14,7 @@ https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR.m3u8
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3 Viejo
-http://195.154.182.232:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/2070?checkedby:hlscat.com&token=Q0FYAkZRGwoVUg0IXlcEUgNXUwIBAVMCCgBWVlcDUVEKWlZUB19bVlQTGBsVR0ZVAw48W1EXXwcCAlFPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldWCQdaDU8SE1xdGwoVBQ0OVgoWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAQXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QCBgZTQU8QVloQW0ZHGEFYE386Gk8SBk1NXF5EWFtXRAkWRBFBTxBcRjpHV0YVEQdQXwdKQQpBBBsVElpQTGYFXFpeBwAXW1pbFhcIF1RTUhMeQFUMXgpBVktvR1hQG1wRAAlUV1oQSA==
 https://livestartover-i.akamaized.net/antena3/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
@@ -34,16 +32,15 @@ old 1
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
-http://149.56.47.213:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/3709?checkedby:hlscat.com&token=Q0FYAkZRGwoVVwULUQYHCFVaAVcBAVMAAAVWBQMCAlNcVAUCAglcCFUTGBsVR0ZVAw48W1EXXwYFBVhPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAABXDU8SE1xdGwoVBg0AVhEYEgcbF1dHWwRZbVEEFQtSV0ACDUUPWRUbX1luUFwLUlpUQFlBAhcZR1xBRUNZDEReDhRBUgpBS1hEUhMOG1MDBQNAT0FRWkALQUBMQ1lAfGpAFEFVG0FcV0NeXlobXBFAQ0BPQVtGahdQQUETBgNcVxAaWRJSFxUbXVZJa1oJXVpVARcKXVtGRw8QAFFTQB0QD1cNWRdaS2ZAXlUWA0QEAwFSQR4=
-old azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
 Azteca 7 old
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://turistiktv.com/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="MX",Turistik TV
-https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.oLLKQ84DwZU3R6-GoKXqmQAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",Turistik TV
 https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
+Old
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -88,9 +85,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
 http://149.56.47.213:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/3766?checkedby:hlscat.com&token=Q0FYAkZRGwoVBwJfXgMECVZQBQINUFxWVA1YVFUCBQEABwAHBwoKBA4TGBsVR0ZVAw48W1EXXwYFA1dPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAApRCU8SE1xdGwoVAAwJVQoWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAUXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QHDQlVQU8QVloQW0ZHGEFYE386Gk8SBk1NXF5EWFtXRAkWRBFBTxBcRjpHV0YVEQdQXwdKQQpBBBsVElpQTGYFXFpeBwAXW1pbFhcIF1RTUhMeQFUMXgpBVktvR1hQG1wRBQJVW1UQSA==
-
-old hola
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3748?checkedby:hlscat.com
