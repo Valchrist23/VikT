@@ -12,7 +12,9 @@ https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR.m3u8
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3 Viejo
+http://195.154.182.232:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/2070?checkedby:hlscat.com&token=Q0FYAkZRGwoVUg0IXlcEUgNXUwIBAVMCCgBWVlcDUVEKWlZUB19bVlQTGBsVR0ZVAw48W1EXXwcCAlFPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldWCQdaDU8SE1xdGwoVBQ0OVgoWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAQXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QCBgZTQU8QVloQW0ZHGEFYE386Gk8SBk1NXF5EWFtXRAkWRBFBTxBcRjpHV0YVEQdQXwdKQQpBBBsVElpQTGYFXFpeBwAXW1pbFhcIF1RTUhMeQFUMXgpBVktvR1hQG1wRAAlUV1oQSA==
 https://livestartover-i.akamaized.net/antena3/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
@@ -185,11 +187,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939da
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yu2IXMrIPYKwyeIpGo8qOQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Delicioso
-https://unidfpclnlds139.akamaized.net/linear/hls/pa/event/Fiw4iaQ6RXu4iWOVh8eTZg/stream/5b6444ab-30ac-4570-b828-bcfb5a711a1f:CHS/variant/08d0a2d5fe098216c3952bd6be692f71/bandwidth/4500000.m3u8?hdntl=exp=1613063864~acl=*~id=27024930-1655-4003-a335-e233063ab839~data=hdntl~hmac=d860b9493db3fa65df2eb35fb3487349aae98e5d9832a1a2d3c48541f3635191
-
+http://62.210.78.123:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/2014?checkedby:hlscat.com&token=Q0FYAkZRGwoVAgRfUAQCVVQHWlQMBVUMAwJQUQNVAFcABQgCV1xbCA4TGBsVR0ZVAw48W1EXXwcCBFVPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldWCAZXDU8SE1xdGwoVBwYOUwYWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAUXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QHDQdTQU8QVloQW0ZHGEFYE386Gk8SBk1NXF5EWFtXRAkWRBFBTxBcRjpHV0YVEQdQXwdKQQpBBBsVElpQTGYFXFpeBwAXW1pbFhcIF1RTUhMeQFUMXgpBVktvR1hQG1wRAgJXUFYQSA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
+http://195.154.182.232:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/2048?checkedby:hlscat.com&token=Q0FYAkZRGwoVVwYKUFEDAlRWAgBQB1ECU1FUBQFXUVYJVgRUBw8KVQYTGBsVR0ZVAw48W1EXXwcCAVlPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldWCAFRC08SE1xdGwoVAw0AXgQWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAQXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QCBgRaQU8QVloQW0ZHGEFYE386Gk8SBk1NXF5EWFtXRAkWRBFBTxBcRjpHV0YVEQdQXwdKQQpBBBsVElpQTGYFXFpeBwAXW1pbFhcIF1RTUhMeQFUMXgpBVktvR1hQG1wRAQlXUFsQSA==
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yu2IXMrIPYKwyeIpGo8qOQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Delicioso
+old
+https://unidfpclnlds139.akamaized.net/linear/hls/pa/event/Fiw4iaQ6RXu4iWOVh8eTZg/stream/5b6444ab-30ac-4570-b828-bcfb5a711a1f:CHS/variant/08d0a2d5fe098216c3952bd6be692f71/bandwidth/4500000.m3u8?hdntl=exp=1613063864~acl=*~id=27024930-1655-4003-a335-e233063ab839~data=hdntl~hmac=d860b9493db3fa65df2eb35fb3487349aae98e5d9832a1a2d3c48541f3635191
 
 #EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -924,6 +927,7 @@ https://ul.cdn946.net:8443/hls/lds8j4.m3u8?s=Wl8WVJ3ALw5VAqMbyqC-QA&e=1598497317
 https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
+http://142.44.211.145:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/3220?checkedby:hlscat.com&token=Q0FYAkZRGwoVAQcAA1YAAFNbVAIDBV0AUAwAW1VUUQQPB1ECVw0ABlETGBsVR0ZVAw48W1EXXwYAB1FPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldWCQZTCk8SE1xdGwoVCQcLVBEYEgcbF1dHWwRZbVEEFQtSV0ACDUUPWRUbX1luUFwLUlpUQFlBAhcZR1xBRUNZDEReDhRBUgpBS1hEUhMOG1UAAwNAT0FRWkALQUBMQ1lAfGpAFEFVG0FcV0NeXlobXBFAQ0BPQVtGahdQQUETBgNcVxAaWRJSFxUbXVZJa1oJXVpVARcKXVtGRw8QAFFTQB0QD1cNWRdaS2ZAXlUWA0QLBQdXQR4=
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT",Ticavision
