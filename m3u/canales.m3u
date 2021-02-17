@@ -370,6 +370,7 @@ https://7f6c646754a74e90b9afad0ed13b1e32.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA",Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yZIbt-rM-nqf4H_d-9fsgwHaHa&pid=Api&P=0&w=300&h=300" group-title="Movies",Electric Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 
