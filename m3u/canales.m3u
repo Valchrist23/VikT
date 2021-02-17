@@ -53,7 +53,7 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto Viajes
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto TV Viajes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2d3ac21b-21d3-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8156&deviceLon=-116.5761&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://www.geloon.com/wp-content/uploads/2014/08/GO-TRAVEL-logo.jpg" group-title="Cooking",Go Traveler
@@ -293,10 +293,10 @@ https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d2/4b/b0/d24bb0b8b62cd58ad6d1d99b720d5e54.jpg" group-title="ANIME",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9e/9eade70e9e2ce547623cb2ed29170b1d.jpeg" group-title="ANIME",Anime Latino
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9e/9eade70e9e2ce547623cb2ed29170b1d.jpeg" group-title="ANIME",Pluto TV Anime
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5e9beaf8-7fad-4454-9cc6-676b48311488&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Pluto-TV-anime-accion-800x360.jpg" group-title="ANIME",Anime Accion
+#EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Pluto-TV-anime-accion-800x360.jpg" group-title="ANIME",Pluto TV Animé Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e382aac4-0de8-4051-b8b1-ff7d32c3709a&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="ANIME",Anime All Ages
@@ -308,7 +308,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead73
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Font-of-the-Nickelodeon-Logo.jpg" group-title="USA",Nickelodeon
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Font-of-the-Nickelodeon-Logo.jpg" group-title="USA",Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_C8Dpr9s51ug/TAlqb5Ha4aI/AAAAAAAABaU/Of3TKoGmEnQ/s1600/nickla.png" group-title="LAT",Nickelodeon Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ef3ebd75-05aa-4f7e-b1bf-250819c2c37e&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -316,7 +316,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Nowthis_logo16.png" group-title="USA",Now This 
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.38NoyZBRu8vlrFDCyFUSKAAAAA&pid=Api&P=0&w=215&h=158" group-title="USA",Shout Factory TV 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.38NoyZBRu8vlrFDCyFUSKAAAAA&pid=Api&P=0&w=215&h=158" group-title="USA",Shout! Factory TV
 https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 
@@ -334,8 +334,6 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-001.jpg",Dan TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22829/unidentified/logo_20200408_024027.png" group-title="SYFY",Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
@@ -449,7 +447,7 @@ https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QsLRpQtq42Q/hqdefault.jpg" group-title="Documentary", History
 http://localdblagent.club:8080/Carlos1/Carlos1/12106?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Documentary", Animals
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Documentary", Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5c6faadd-21fe-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",COMEDY CENTRAL
@@ -533,7 +531,7 @@ https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/l
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Movies",Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Movies",Action Movies
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Movies",Pluto TV Action
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=70c85d75-a17e-416c-8d9b-0e5e6a81d45d&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7741&deviceLon=-80.1817&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
@@ -543,7 +541,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="US" tvg-url="" group-title="Movies",Pluto Horror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="US" tvg-url="" group-title="Movies",Pluto Terror Latino
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="US" tvg-url="" group-title="Movies",Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="US" tvg-url="" group-title="Movies",Pluto Cine Accion
@@ -563,7 +561,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="Gaming",IGN
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/1280x720_2855600/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" group-title="Music",MTV
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" group-title="Music",MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png" group-title="Music",MTV LATINO
@@ -667,7 +665,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="USA",BEIN Sports Extra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png?w=117" group-title="USA",Majour League Soccer
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png?w=117" group-title="USA",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=71ff2fa4-02d9-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="USA",NFL Channel
@@ -695,7 +693,7 @@ https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-558
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Color-WWE-logo.jpg" group-title="Sports",WWE
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Sports",AAA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Sports",Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=71ff2fa4-02d9-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://image.redbull.com/rbx00264/0100/0/406/related-content/global/rtv_logo_single_pix_hor_rgb_black_bg-2.png" group-title="Sports",RedBull TV
