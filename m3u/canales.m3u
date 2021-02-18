@@ -254,20 +254,17 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdqnqGxUudF8aHYlABgTH4dnMqRQjO65v_KANaxAW_FOy6w0BMXGeATM" group-title="US",PBS Kids
 https://live-cdn.pbskids.org/out/u/aim/wtvs_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdqnqGxUudF8aHYlABgTH4dnMqRQjO65v_KANaxAW_FOy6w0BMXGeATM" group-title="MX",PHistorias de Ultratumba
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6ea69ff8-7224-11eb-9c02-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceDNT=0&userId=&advertisingId=&deviceLat=deviceLat=32.4248&deviceLon=-116.8983&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0IXK_dusdg3l1aDY1gL2mAAAAA&pid=Api&P=0&w=300&h=300" group-title="US",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="MX",Historias de Ultratumba
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6ea69ff8-7224-11eb-9c02-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceDNT=0&userId=&advertisingId=&deviceLat=deviceLat=32.4248&deviceLon=-116.8983&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JtCafjCMDPtdLBGgaLYxmwAAAA&pid=Api&P=0&w=178&h=162" group-title="US",z linving
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="MX", Mundo Mas 
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="ES",Boing 
-https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="Art",Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
@@ -482,9 +479,6 @@ https://dai.google.com/linear/hls/event/YQrqEzS-QkeI4UECvYoWDA/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/super-tv-55-300x169.jpg", Super TV55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/piweDaK.jpg" tvg-country="US" tvg-url="" group-title="Sports",Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART", Fasion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
@@ -938,6 +932,8 @@ http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BswJZk.png" group-title="CHILE", Atacama TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6OtEHJ.png" group-title="Entertainment", Pick
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="ES",Boing 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/piweDaK.jpg" tvg-country="US" tvg-url="" group-title="Sports",Xcorps TV
 
 #EXTINF:-1 channel-id="324" channel-name="channel Reality Mashup" tvg-logo="http://mashupnorway.com/wp-content/uploads/2015/04/MashUp_Logo_Black_Blue_ml3.png"group-title="US",Reality Mashup
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS11/chunks.m3u8
