@@ -99,15 +99,14 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
-http://150p2086.securepoint.io:25461/live/jav/jav123/67193.ts?checkedby:hlscat.com&token=TREMWUEJGlxBUVUHAAQMBQ4ACAVWBgQGUVNcWwFXUwdVAAANU1YNXwdDShFEQUtSVw5vDwcXDwMEBwFQSURFQVNBO1FWQwJEUlNWBAYNARUaQUQPDlAXDwIACVBRXwEKAARIGkIIXERZQ1EKAgEPFRpBVR4XUEdbUlpnBwAQWVFTEV5WRw1USkEOCGxTUFRWWAcSXEEFFxkRX0sTR1xeR1pfSBpQCEwUAhUDEQ0XCAUCWxJKQVZaQF1CShpHXBJ/bhFIGlcZTAMNEg9cWRcDFUIQEkpBXEZqQVNLFxcDUV9TQUYCEFEaSkEMB0toVlZZWAZTEgpaW0YRDBpRR0oSX1ldDUxdE2cWCgVECRUHDA4BUhIb
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
-old
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3748?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1024px-TeleMadrid.svg.png" group-title="ES",TeleMadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
 https://adinsertprimeforotv.akamaized.net/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
-
+old
+http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3748?checkedby:hlscat.com
 old foro
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 old foro
@@ -472,6 +471,8 @@ http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
 #EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART", Fasion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/209/603/681/paris-fashion-week-london-fashion-week-fashion-show-fashion.jpg" group-title="ART", Fasion TV
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" group-title="MX", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
