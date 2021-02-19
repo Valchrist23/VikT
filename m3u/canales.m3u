@@ -33,13 +33,8 @@ https://livestartover-i.akamaized.net/antena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
-
 old
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8ca
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1
-http://167.114.113.176:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/3801?checkedby:hlscat.com&token=Q0FYAkZRGwoVU1BbUAMEVgBaBwUHAgBXUVcDVwMBCwcOUAMFBFhYCAMTGBsVR0ZVAw48W1EXXwYKBVBPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAAFUC08SE1xdGwoVAwYPUQsWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAUXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QHDQdUQU8QVloQW0ZHGEFYE386Gk8SBk1NXF5EWFtXRAkWRBFBTxBcRjpHV0YVEQdQXwdKQQpBBBsVElpQTGYFXFpeBwAXW1pbFhcIF1RTUhMeQFUMXgpBVktvR1hQG1wRBQJVUEFP
-
 old 1
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 old 1
@@ -59,6 +54,7 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto TV Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto TV Viajes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2d3ac21b-21d3-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8156&deviceLon=-116.5761&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
