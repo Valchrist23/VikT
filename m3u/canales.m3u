@@ -139,6 +139,9 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 #EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/o/Once_TV_Mexico.png" group-title="MX",  OnceTV 
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/o/Once_TV_Mexico.png" group-title="MX",  OnceTV 
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1382837405_b1300000_slesp.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png/186px-Antiguo_logo_de_Canal_Once_%28once_TV%29.png" group-title="MX", Canal Once IPN | HD 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
