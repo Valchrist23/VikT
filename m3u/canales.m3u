@@ -91,10 +91,13 @@ old
 http://195.154.182.232:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/2055?checkedby:hlscat.com&token=Q0FYAkZRGwoVBldYVwAEVVFaUFMCDAADAlNSB1dQVwQIVQgCAA0NUgQTGBsVR0ZVAw48W1EXXwcCAFRPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAQVaCE8SE1xdGwoVAgQAVAQWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAQXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QKBwFAT0FRWkALQUBMQ1lAfGpAFEFVG0FcV0NeXlobXBFAQ0BPQVtGahdQQUETBgNcVxAaWRJSFxUbXVZJa1oJXVpVARcKXVtGRw8QAFFTQB0QD1cNWRdaS2ZAXlUWA0QABAhbV0FP
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
-https://rtvelivestream-lvlt.rtve.es/24h_dvr_1000.m3u8
+https://rtvelivestream.akamaized.net/24h_main_dvr_720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+
+https://rtvelivestream-lvlt.rtve.es/24h_dvr_1000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
