@@ -49,11 +49,15 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 Azteca 7 old
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca America
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="MX",a+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="MX",Estrella TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.oLLKQ84DwZU3R6-GoKXqmQAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",Turistik TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/chunklist_w1526457808.m3u8
@@ -111,6 +115,8 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="MX",Unimas
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
 https://adinsertprimeforotv.akamaized.net/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
@@ -190,6 +196,8 @@ https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
 https://tastemade-latam-plutolive-vo.akamaized.net/l/hlslive/tastemade/3/tastemade.m3u8?profID=4&n=3&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6IjMyZmYyYWY4LTljNDMtNDQwOS1hOTIwLWEwODYxYzFkOGU2ZiIsImRldmljZVZlcnNpb24iOiI2OS4yLjAuMTcxMyIsImFwcFZlcnNpb24iOiI1LjE0LjAtMGY1Y2EwNGMyMTY0OWI4YzhhYWQ0ZTU2MjY2YTIzYjk2ZDczYjgzYSIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMyLjQyNDgiLCJkZXZpY2VMb24iOiItMTE2Ljg5ODMiLCJkZXZpY2VNb2RlbCI6IndlYiIsInVzZXJJZCI6IiIsImFwcE5hbWUiOiJ3ZWIiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi41MS4wIiwic3RpdGNoZXJSZXFJZCI6ImIyMWY3NGJhLWQ4YmMtNGMwOC1hYTE0LThiOGI5ZWMxNjE1MiIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTg3LjE4OS4yMTcuMjM4IiwiZGV2aWNlRE5UIjowLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzY5LjIuMC4xNzEzIFNhZmFyaS81MzcuMzYiLCJ0cmFuc2FjdGlvbl9pZCI6Ijk0ZjNjMmQ4LWE2YzgtNGJkNi05NGI2LTY2MGFjY2Y1NTQzZCIsImRldmljZVVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdPVzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjkuMi4wLjE3MTMgU2FmYXJpLzUzNy4zNiIsImlwQWRkcmVzcyI6IjE4Ny4xODkuMjE3LjIzOCIsImNoSWQiOiI1Zjk5OGMxZmM1NDg1MzAwMDc5N2JhY2QiLCJ0aW1lbGluZUlkIjoiNjAyNWY0ZWQ2YzYwOWMwMDA3ZTNjYjFiIiwiY2xpcElkIjoiNWZjYWQ0MTIzYjRmNGIwMDA3NzM3ZTU3Iiwic2Vzc2lvbklkIjoiMmNlMDI2MDAtNmY1ZS0xMWViLTljMDItMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWZkM2RmYjE3OTg2YjgwMDA3YWI4N2Y3IiwicGFydG5lckNvZGUiOiJUYXN0ZW1hZGUiLCJwYXJ0bmVyX2lkIjoiNTg4NjRmOTVkZGM3MDcwYzM4MzhhNGI4Iiwib3JpZ2luIjoiYWRTcGFyeCIsImZyb21fc3RpdGNoZXIiOnRydWV9&adsid=AXekj892uv7svgtmRgVe&chname=tastemade&pub=4233f0e7-76be-4539-b82b-762305c6f34d&acsurl=pluto-latam-tass-elb.adsparx.net&mcdn=tastemade-latam-plutolive-vo.akamaized.net%2Fl
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="MX",Tastemade
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hungry" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="USA",Hungry
 https://food.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
@@ -319,6 +327,8 @@ https://cdn.jpth10.jpnettv.live/jptv/janimax_720/index.m3u8
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
 https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d2/4b/b0/d24bb0b8b62cd58ad6d1d99b720d5e54.jpg" group-title="ANIME",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -796,8 +806,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/12
 -----------------------------------------Random---------------------------------------------
 #EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Random
 https://stream.allsprk.tv/live/0/index.m3u8
-#EXTINF:-1,Random 1
-https://stream.allsprk.tv/live/1/index.m3u8
+#EXTINF:-1,Rakuten TV shows 1
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Random 2
 https://stream.allsprk.tv/live/2/index.m3u8
 #EXTINF:-1,Random 3
