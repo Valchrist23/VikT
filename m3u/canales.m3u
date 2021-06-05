@@ -581,7 +581,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png" group-title="USA", Investigation Discovery ID
+#EXTINF:-1 tvg-logo="https://thesavvyscreener.com/wp-content/uploads/2020/02/AE-Crime-Central-1.png" group-title="USA", A&E Crime
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="Documentary",Forensic Files
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2238fca9-04d9-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753bc&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
