@@ -286,7 +286,7 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdqnqGxUudF8aHYlABgTH4dnMqRQjO65v_KANaxAW_FOy6w0BMXGeATM" group-title="US",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0IXK_dusdg3l1aDY1gL2mAAAAA&pid=Api&P=0&w=300&h=300" group-title="US",The Asylum
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/The_Asylum_Logo.jpg/revision/latest?cb=20160827170704" group-title="US",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="MX",Historias de Ultratumba
@@ -439,7 +439,7 @@ https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvwise.co.uk/wp-content/uploads/2016/05/Channel-5-New-Logo-300x300.jpg" group-title="UK",Channel 5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="UK",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="UK",Channel 7
 http://radio.7chan.org:8000/CH7
@@ -581,7 +581,7 @@ https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2238fca9-04d9-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753bc&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBr6UAw.png" group-title="USA",Local Now (New!)
-https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Movies",Pluto TV Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -653,12 +653,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ZrI38xiYMEAmCbQhQX2qZgHaEI&pid=Api&P=0&w=328&h=184" group-title="Music", FoxMixClub
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.dawn.com/large/2018/12/5c139eb053ffd.jpg" group-title="Music", Dijin A
-https://www.djing.com/tv/animation.m3u8
-
-#EXTINF:-1 tvg-logo="https://pop-verse.com/wp-content/uploads/2017/02/THE-DJINN-FALLS-IN-LOVE-HI-RES-COVER-e1487079640675.jpg" group-title="Music", Dijin B
-http://www.djing.com/tv/ibiza.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/1024px-One_HD_Logo.svg.png" group-title="MUSICA", 1HD 
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
@@ -674,9 +668,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.f6CRu0wyDg2h-LZtdvZ2PgHaEK&pid=Api&P=0&w=328&h=185" group-title="Music", CHAU Music Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.Dac83-cpClxiAR2XX3i0TQHaHa&pid=Api&P=0&w=300&h=300" group-title="Music",Kool LND Music
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LOGOTIP_de_molaTV.png/140px-LOGOTIP_de_molaTV.png" group-title="Lat", Mola TV 
 
