@@ -572,6 +572,9 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1280px-AXN_logo_(2015).svg.png" group-title="US",AXN
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
@@ -629,9 +632,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="USA",Monarch Channel
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22914/homme/logo_20210412_194703_69.png" group-title="Gaming",fw.tv
-
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="Gaming",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -1011,7 +1011,7 @@ http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="ES",Boing 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/piweDaK.jpg" tvg-country="US" tvg-url="" group-title="Sports",Xcorps TV
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a2/Fox-sports-news-hero.png/revision/latest?cb=20160621162353" group-title="Sports",FOX Sports News
+
 #EXTINF:-1 tvg-logo="https://www.animenewsnetwork.com/thumbnails/max300x600/cms/news/103442/aniplus_logo.png.jpg" group-title="ANIME",Aniplus
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QsLRpQtq42Q/hqdefault.jpg" group-title="Documentary", History
 
