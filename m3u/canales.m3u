@@ -1,12 +1,10 @@
 #EXTM3U
   
 #EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2015/10/NOTIVISA-e1444356102181.png" group-title="MX", Notivisa
-not working
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 
-#EXTINF:-1 channel-id="02" channel-name="channel Harley Davidson Garage" tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg"group-title="US",Harley Davidson Garage
-Not working
-https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
+#EXTINF:-1 channel-id="02" channel-name="channel Harley Davidson Garage" tvg-logo="http://orbittv.net/images/orbit_logo4.png"group-title="LAT",Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 
 #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvsE-CaYbZmP92hmL_m4tPDD1CTQBCI55204xKiZJ1hsBNJKRj2YQbZCjnl9PMTaXQGhpj5EMwGZSw7j2j0a3GiVwIfvGq6NI0kVVFqKQwS50wQgWpXp3-3xiwIwgaKB_taBZsD8mY9_6FEIfiR3wXT9UI5h43xPEAAg7IWrbld7qgoHm7qN2nxU17AOTdRpUO-oI-38SbBnPMJsxrQeAv8PiQ_JeFFgteouaDN3xEOsyO3EgCCOpa6AdphPS-8lfBkr6Z3-U7if6z-sA1yCiPvTrWOr0Z5ktLAvtmCey_qsB_JHJHYCeolwd7eunV6J3GwwaNVqSOyHrzB20pOKXjHU5eJEuergdFrfam5zuaXCaNY42FNO1zrCEJKphXyrMLdhakAo9DjzAfVxGyCAN1wEQthsZ6Riq2nFYyEspr4LkbGWGmIYTdfIkkPT39D8dph7OSrWF8Dfouc-XGfo2ofS5TkFci_TYZUfCOoHL7mvUxilj27Kkt5cLaIMrSpAIBglow1lT1vwhKikez_AKgBAfdixRLE6JA7MGZi0NiWmwU2KfpcKskp0D-0-0o3Y8_BwWkr78JN8p0V1NKposdvdZI0bf7BgBOU_-7SHy7S0jRMwvON0B59pIHVdy1nCyWEC5DFuu10xrEG9z5itA-yYll8YUU8r2fcgYMfixHjAryq27YwrxrJfktfyPMwRglY94ngUV6jaLXudUb52_XNPZKwlQo6-idxU9b99fIHQbvr1ysvSCFb9ymuH-5ooBllKaLtis6iZJk--8VwZ589TPsXUScjrXCvZNJj7I8vnPerigKgoFb63NV0rI3IsrKdcGy_vzgbdz1pJeWoSEEw5MAdMxqvvMwOeiyXGSyQaDDk-eQ7myimCfLViGA.m3u8
@@ -106,13 +104,12 @@ https://rtvelivestream.akamaized.net/24h_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
-
 https://rtvelivestream-lvlt.rtve.es/24h_dvr_1000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE 24
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
 
@@ -123,10 +120,8 @@ https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 https://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/index_2500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-4mUCJfoxz4w/UH8BvG3v29I/AAAAAAAAOVw/q6l1GaFcs9g/s1600/Univision+logo+2012.jpg" group-title="LAT",Univision
-notwork
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="MX",Unimas
-not working
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
@@ -463,17 +458,22 @@ notwork
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
 http://203.154.243.89:11205/
-#EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US", ABC 
-
+#EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US", ABC KGO
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kgo-dt1.m3u8
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US", ABC LA
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS Family
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS Español
+https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC 
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_61e7x33e/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC Sandiego
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC WGBA
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.new.livestream.com/accounts/00000000017eb8f0/39405900-788a-4ff6-bad9-755051187000.png" tvg-country="US" tvg-url="" group-title="Local",KUSI
 https://dai.google.com/linear/hls/event/YQrqEzS-QkeI4UECvYoWDA/master.m3u8
@@ -691,6 +691,9 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg" tvg-country="US" tvg-url="" group-title="",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ONv_xZwlJCAu6ixrjiQktgHaHa&pid=Api&P=0&w=300&h=300" tvg-country="US" tvg-url="" group-title="",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="US",Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 
