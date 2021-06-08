@@ -124,6 +124,7 @@ https://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/index_2500_av-p.m3u8?sd=10&reba
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-4mUCJfoxz4w/UH8BvG3v29I/AAAAAAAAOVw/q6l1GaFcs9g/s1600/Univision+logo+2012.jpg" group-title="LAT",Univision
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="MX",Unimas
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 
