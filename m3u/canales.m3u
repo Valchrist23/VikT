@@ -59,6 +59,8 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="MX",Estrella TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="MX",Estrella TV
+https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.oLLKQ84DwZU3R6-GoKXqmQAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",Turistik TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/chunklist_w1526457808.m3u8
@@ -114,9 +116,10 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
-no
-https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
+old
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 https://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/index_2500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-4mUCJfoxz4w/UH8BvG3v29I/AAAAAAAAOVw/q6l1GaFcs9g/s1600/Univision+logo+2012.jpg" group-title="LAT",Univision
@@ -809,14 +812,12 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/12
 https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1,Rakuten TV shows 1
 https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Random 2
-https://stream.allsprk.tv/live/2/index.m3u8
-#EXTINF:-1,Random 3
-https://stream.allsprk.tv/live/3/index.m3u8
-#EXTINF:-1,Random 4
-https://stream.allsprk.tv/live/4/index.m3u8
-#EXTINF:-1,Random 5
-https://stream.allsprk.tv/live/5/index.m3u8
+#EXTINF:-1,Rakuten TV Movies EN
+https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten TV Movies ES
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten TV Movies UK
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Random 6
 https://stream.allsprk.tv/live/6/index.m3u8
 #EXTINF:-1,Random 7
