@@ -117,9 +117,10 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
-https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+https://knbclive-f.akamaihd.net/i/knbcc2_1@69052/index_1286_av-p.m3u8?sd=10&rebase=on
 old
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-4mUCJfoxz4w/UH8BvG3v29I/AAAAAAAAOVw/q6l1GaFcs9g/s1600/Univision+logo+2012.jpg" group-title="LAT",Univision
 notwork
