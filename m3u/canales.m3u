@@ -71,6 +71,9 @@ Old
 https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.7txDz5GWVGobAyCargklrwHaKX&pid=Api&P=0&w=300&h=300" group-title="MX",CANAL 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto TV Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
