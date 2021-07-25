@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2015/10/NOTIVISA-e1444356102181.png" group-title="MX", Notivisa
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/XETV-TDT__44dc0c/Logotipo-Canal-5-M%25C3%25A9xico.png__85722.png" group-title="MX",XETV TDT Canal 5
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
+
 #EXTINF:-1 channel-id="02" channel-name="channel Harley Davidson Garage" tvg-logo="http://orbittv.net/images/orbit_logo4.png"group-title="LAT",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 
@@ -179,8 +182,8 @@ https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="ES", France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ozinKJC.png" group-title="CHILE",El Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.02LDb2uPUAUICGlCQgjVlgAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",XHBJ DTD Canal 45
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_(Chile)_logo.svg/1200px-Canal_13_(Chile)_logo.svg.png" group-title="Mx",Canal 13
 http://186.101.216.211:8000/play/ca13
 
