@@ -20,8 +20,8 @@ old
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvkEbXo--OoJAUiAUMwjyusCm2gpj4ier5cFa1eC9-LtFwoZN8yo24UOd8Z3RZJICI4p3UL4Upvz7oxAXkmWbRi4vtT_QVgpdr6uz5ND9EtMMyLwo3iJUbvyHLrEDOY_FkedFWTomCemHmoIjZCUix4q-cN920mQZnrfSDzjopdVTySD6kdZoISe-2HslOIIdGaBg66vXBG1y65Zc-fDGbIIFKWeTDZVLjjvAiE5IU02AHX2Ubiaa7F6tB3ahMsLUUJl3EJyUA7iKnL8idaLR1f-j25P49GrqeXY2SuyhoaxUkSsC4772a1S6oO0JRUFwe8ZCv06QDH9-ltBPtRK5xlk4gSO_Uf2mnJUFJLf96o1diphw-k9AQo_JjgeTvU4aArsHU3goSVbwf7BUNBhMeRUvML1IraSGeXtpVoLBYjgwuqp3h4EQDMCl4n_Ge1YysnREdB48w3aJzTdl-EDkQZWxqEo2_JbW9kYlPp9lo7ITnGyXRPX4wKJ52ysoos_zyJq9FpwXKzqio8-QYys_TWXDbtSYP3IiIHFg4l_LeiE7cE5oOs8xI82NlV2qU0M3J42zoZf5v-AMaLxXmMgU5ndl_IEa0-RQPdUzbZKsG4THWEbsz4aenGThlfODqFn_Y4TqiXY_zd2WSrscsxCHCWX0wzTwMGLWmGZVLd0O70RMBjvTadOQIzIVFsBbttPuze18a3_DNPJ3Xnilhe2UiLXpMn6mVoKurxWN1ej3B8W9IKgcDZHn70FOfJkoQGYJhYLpmHncH1Bvhz0ae9x-k_9mxX49HVlPOU8GMe5qwHehT1wozEnIKMBXFof8OfZuG6--fz_kO2tZ8w1EhB2WOZRdQRqZsmtCy_aBxaVGgy2uspUZCOqbHx3tKQ.m3u8
 
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvwE0YbbwmYhcjOxwug1EOzdgiDrf4EDBMhh3dRyxZ4v2whNKHAL9q51qcgazkVbMDEryHcYXX7rf7sAuzURQnQFqF7pSl40a_A38Mc-HvTlEbPGBUpgDNYhgdkIx3a4xlwF-GgzIRYtjwlmhB8gtL5v15b2Ef4C1xsnTUjkIIuJphRltgOdB9pW1re1_xZXOIY0YmRKk4EIOFvNLW9Jq7EUstfd_AvjSIjOfwSIjyZdflHY61wdyKSN8cmtIsXDrisbCAAbaPquW1aq3IPsG6km2fSz8NvrOsUAPNJhKCGn0L4LepLjVgt6hiGE6W3ssqpUGZ2KK4Uz11MFv7AzYteGMiImsWRrRiivOjnvY5byvqBXPmd3M3dk2RnOBWEEIDup19LB5Ne1XdwV0mCvFXikqnwDqSihx2_YieQ4QbZMV6ZYn_Uc5QAtAXfXA6l0C9LLHbQIr50o3EZagxVkdCOAp_cLQKlLP9bvkmedU0iLISTgUyxu0tJtgrYRq5gWHmAi7qsflnxv_VdaEBf5fhGJHjW4iqpw_RooRYfK30P3nQwyPdqB_rHs8Y9FHW4MCliagN8JBxN883FDF0Q3ZtGEP63muoFCTtby6rOZOt0ptJRtxCMNrdWzVe3txIqDSOzo2Ej7AZPO2DMKRz3CPDAr1WKtVXDvuoFEHhNv33M19OuqyBPTcR4fzvnR56qKo1vmn1vmfHXsblJesdN-rvVSWX9VYiT1qvyuePlmv5GpTIHQQNGek3P4iBiwOiq1RVA6JI0KlIxXm0XIzpdoRXrBJIHlF6RyEx59IKzcz2sVn0TkQcy5YWZwhzomTF9eFEVllPoY8aMTeXJ63RrIEhD0wHc22-xQVE8V2uP8JZCaGgxjACEDgQhJbLtg1j0.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Info",Canal 11
+https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w2119553498_DVR.m3u8
 
@@ -181,6 +181,8 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ozinKJC.png" group-title="CHILE",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_(Chile)_logo.svg/1200px-Canal_13_(Chile)_logo.svg.png" group-title="Mx",Canal 13
+http://186.101.216.211:8000/play/ca13
 
 -----------------------------------------Kitchen---------------------------------------------
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
@@ -573,7 +575,11 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1280px-AXN_logo_(2015).svg.png" group-title="US",AXN
 http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1280px-AXN_logo_(2015).svg.png" group-title="US",AXN
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UeOVgf9g6j8/AAAAAAAAAAI/AAAAAAAAAAA/OC5yCVLgJH8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US",Bextreme No 24/7
+https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
