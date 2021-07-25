@@ -111,7 +111,6 @@ http://195.154.182.232:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/2055?checkedby:hl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 https://rtvelivestream.akamaized.net/24h_main_dvr_720.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
 
@@ -187,6 +186,8 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_(Chile)_logo.svg/1200px-Canal_13_(Chile)_logo.svg.png" group-title="Mx",Canal 13
 http://186.101.216.211:8000/play/ca13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 
 -----------------------------------------Kitchen---------------------------------------------
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
