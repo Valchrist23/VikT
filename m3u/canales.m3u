@@ -39,8 +39,8 @@ https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w77957862
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3 Viejo
 old
 https://livestartover-i.akamaized.net/antena3/master.m3u8
-#EXTINF:-1 tvg-name="Loupe" tvg-id="" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0?e=2159024400&v=beta&t=4V6JE-fiOkJwr4lP_FyMsJnyIa0Rg202rUpMcoGEdCs" group-title="ES",Loupe
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Estacion TV" tvg-id="" tvg-logo="http://www.estaciontv.cl/site/images/banners/logo2.fw.png?60da90bd" group-title="ES",Estacion TV
+https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream3/chunks.m3u8?nimblesessionid=161319039
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
@@ -1047,7 +1047,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 http://locomotiontv.com/envivo
 http://stirr.com
 https://www.distro.tv/
- 
+http://www.estaciontv.cl 
 http://okteve.com/candy-tv-live/
 epg
 https://helmerluzo.github.io/PlutoTV_HL/enlaces.html
