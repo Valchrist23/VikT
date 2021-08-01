@@ -46,7 +46,10 @@ https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w77957862
 old
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 tvg-name="Estacion TV" tvg-id="" tvg-logo="http://www.estaciontv.cl/site/images/banners/logo2.fw.png?60da90bd" group-title="ES",Estacion TV
+https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8?nimblesessionid=161489413
 https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream3/chunks.m3u8?nimblesessionid=161319039
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
