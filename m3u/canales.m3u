@@ -46,10 +46,6 @@ https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w77957862
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3 Viejo
 old
 https://livestartover-i.akamaized.net/antena3/master.m3u8
-#EXTINF:-1 tvg-name="Estacion TV" tvg-id="" tvg-logo="http://www.estaciontv.cl/site/images/banners/logo2.fw.png?60da90bd" group-title="ES",Estacion TV
-https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8?nimblesessionid=161489413
-https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream3/chunks.m3u8?nimblesessionid=161319039
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
@@ -111,6 +107,9 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name="mtmad 24h" tvg-id="" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="SPAIN",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 
+#EXTINF:-1 tvg-id="beteve.es" tvg-name="betevé" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",betevé (1080p)
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ES",Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
@@ -119,18 +118,26 @@ old
 http://195.154.182.232:25461/IptvtoolsRestrictUltra/wEvvD4Rdpe/2055?checkedby:hlscat.com&token=Q0FYAkZRGwoVBldYVwAEVVFaUFMCDAADAlNSB1dQVwQIVQgCAA0NUgQTGBsVR0ZVAw48W1EXXwcCAFRPQERBB0o8WQcXAxsBAQQDD18EFhxAFwpfUBdfBAQEUldXAQVaCE8SE1xdGwoVAgQAVAQWHEAGG0ZQRwtUXmoFBhRYUQcaWV4WWVUVElhfa10DXlVeBkFZEAQXSRdbRhFBWF9HDlRPEgFcTUtRQ1QWA0QKBwFAT0FRWkALQUBMQ1lAfGpAFEFVG0FcV0NeXlobXBFAQ0BPQVtGahdQQUETBgNcVxAaWRJSFxUbXVZJa1oJXVpVARcKXVtGRw8QAFFTQB0QD1cNWRdaS2ZAXlUWA0QABAhbV0FP
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/24h_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24+ Horas 
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
 https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE 24
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/ETB2_2017_Spain.svg/revision/latest/scale-to-width-down/250?cb=20171004034001" group-title="LAT",2 ETB HD
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="LAT",Factoria TV
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
 https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktaz-dt1.m3u8
@@ -839,10 +846,11 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten TV Movies ES
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten TV Movies ES 2
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten TV Movies UK
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Random 6
-https://stream.allsprk.tv/live/6/index.m3u8
+
 #EXTINF:-1,Random 7
 https://stream.allsprk.tv/live/7/index.m3u8
 #EXTINF:-1,Random 8
