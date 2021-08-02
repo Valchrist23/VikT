@@ -225,8 +225,6 @@ https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxsoyummy/CD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/1024px-Gusto_logo.svg.png" group-title="Cooking",gusto
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/1024px-Gusto_logo.svg.png" group-title="Cooking",gusto
-https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Gusto_TV_logo.jpg" group-title="Cooking",Stirr gusto
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
