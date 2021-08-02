@@ -546,8 +546,8 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u
 #EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global", Dustx
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="DOGS",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Jap" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/280.png" group-title="Jap",Star1
+http://redlabmcdn.s.llnwi.net/jp04/bs09hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
