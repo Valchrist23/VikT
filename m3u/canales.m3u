@@ -346,7 +346,10 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/dreamlogos/images/0/01/Animax_Cheyenne.png/revision/latest?cb=20170207030639" group-title="ANIME",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy2Z-c1eezn0kcIpP0XuY7smLxuzlsC7EXPWw=s900-c-k-c0xffffffff-no-rj-mo" group-title="ANIME",Animestation
-https://stmv.video.expressolider.com.br/animestation1/animestation
+
+#EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Animation",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.e-pwFaeFT5TYZFc5cEB4FQFNC7&pid=Api&P=0&w=300&h=300" group-title="ANIME",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
