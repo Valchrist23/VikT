@@ -14,7 +14,6 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1777819243.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
 old<
 
@@ -246,8 +245,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.ngnRoPl62YZUh0EuThwIRQHaEK&pid=Api&P=0&w=327&h=185" group-title="Cooking",AD
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/1280x720_2500000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.wnypapers.com/content/images/110-Ent/HK-logo-new.jpg" group-title="Cooking",Hell's Kitchen
-https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.wnypapers.com/content/images/110-Ent/HK-logo-new.jpg" group-title="Cooking",Hell's Kitchen Lat
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=24152684-aed7-4c8a-9a34-afc8c6973db7&deviceVersion=91.0.4472&appVersion=5.102.0-fb1fedbd64193f9db000f97c44ce29de6b0bb9d5&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",America's Test Kitchen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4df5582d-02cb-11eb-aeab-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
