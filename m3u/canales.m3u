@@ -552,6 +552,8 @@ https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Jap" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/280.png" group-title="Jap",Star1
 http://redlabmcdn.s.llnwi.net/jp04/bs09hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Jap" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/280.png" group-title="Jap",Starz
+https://h1.ustvgo.la/StarZ/myStream/chunks.m3u8?nimblesessionid=73505889&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0NzozMyBBTSZoYXNoX3ZhbHVlPTVZT25hQWpwZXJYYW5YeGhmR2Fkemc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
@@ -761,11 +763,12 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/04/combat-go.png?w=1000&h=563&crop=1" group-title="Sports",Combat Go
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="USA",ESPN U
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="USA",ESPN 2
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN News
+https://h2.ustvgo.la/ESPNU/myStream/chunks.m3u8?nimblesessionid=46168727&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0Mjo1NCBBTSZoYXNoX3ZhbHVlPWc0bDJhczQ1WVJKM2FNZGUxRHJibXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN 
 https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="USA",ESPN 2
+https://h4.ustvgo.la/ESPN2/myStream/chunks.m3u8?nimblesessionid=40450881&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0Mzo0OCBBTSZoYXNoX3ZhbHVlPXl6clJGaTMzWU83dHplRUdBNDZMZlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NO7y3tt.png" group-title="USA",HBCU Game Day
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
 
