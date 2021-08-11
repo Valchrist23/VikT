@@ -562,9 +562,6 @@ http://redlabmcdn.s.llnwi.net/jp04/bs09hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Jap" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/280.png" group-title="Jap",Starz
 https://h1.ustvgo.la/StarZ/myStream/chunks.m3u8?nimblesessionid=73505889&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0NzozMyBBTSZoYXNoX3ZhbHVlPTVZT25hQWpwZXJYYW5YeGhmR2Fkemc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
-https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Documentary", Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5c6faadd-21fe-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
