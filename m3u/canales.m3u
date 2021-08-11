@@ -633,7 +633,7 @@ old
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/232640342ea0e0e6e965532a16e90947ba3ba136db96a2e499ff7aaa85dcffed.png" group-title="USA",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
