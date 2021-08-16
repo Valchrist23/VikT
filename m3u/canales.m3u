@@ -870,6 +870,8 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fXkFbKWvv1d4EwEwBe3hyQHaC3&pid=Api&P=0&w=504&h=196" group-title="Movies",Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
 https://stream.allsprk.tv/live/9/index.m3u8
 
