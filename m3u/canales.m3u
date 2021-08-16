@@ -780,8 +780,14 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="USA",ESPN U
 https://h2.ustvgo.la/ESPNU/myStream/chunks.m3u8?nimblesessionid=46168727&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0Mjo1NCBBTSZoYXNoX3ZhbHVlPWc0bDJhczQ1WVJKM2FNZGUxRHJibXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN 
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+780
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+no
 https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="USA",ESPN 2
+http://stream2.grandma.fit/espn2.m3u8
+no
 https://h4.ustvgo.la/ESPN2/myStream/chunks.m3u8?nimblesessionid=40450881&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0Mzo0OCBBTSZoYXNoX3ZhbHVlPXl6clJGaTMzWU83dHplRUdBNDZMZlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NO7y3tt.png" group-title="USA",HBCU Game Day
