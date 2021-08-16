@@ -15,7 +15,7 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1777819243.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
-old<
+
 
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvsE-CaYbZmP92hmL_m4tPDD1CTQBCI55204xKiZJ1hsBNJKRj2YQbZCjnl9PMTaXQGhpj5EMwGZSw7j2j0a3GiVwIfvGq6NI0kVVFqKQwS50wQgWpXp3-3xiwIwgaKB_taBZsD8mY9_6FEIfiR3wXT9UI5h43xPEAAg7IWrbld7qgoHm7qN2nxU17AOTdRpUO-oI-38SbBnPMJsxrQeAv8PiQ_JeFFgteouaDN3xEOsyO3EgCCOpa6AdphPS-8lfBkr6Z3-U7if6z-sA1yCiPvTrWOr0Z5ktLAvtmCey_qsB_JHJHYCeolwd7eunV6J3GwwaNVqSOyHrzB20pOKXjHU5eJEuergdFrfam5zuaXCaNY42FNO1zrCEJKphXyrMLdhakAo9DjzAfVxGyCAN1wEQthsZ6Riq2nFYyEspr4LkbGWGmIYTdfIkkPT39D8dph7OSrWF8Dfouc-XGfo2ofS5TkFci_TYZUfCOoHL7mvUxilj27Kkt5cLaIMrSpAIBglow1lT1vwhKikez_AKgBAfdixRLE6JA7MGZi0NiWmwU2KfpcKskp0D-0-0o3Y8_BwWkr78JN8p0V1NKposdvdZI0bf7BgBOU_-7SHy7S0jRMwvON0B59pIHVdy1nCyWEC5DFuu10xrEG9z5itA-yYll8YUU8r2fcgYMfixHjAryq27YwrxrJfktfyPMwRglY94ngUV6jaLXudUb52_XNPZKwlQo6-idxU9b99fIHQbvr1ysvSCFb9ymuH-5ooBllKaLtis6iZJk--8VwZ589TPsXUScjrXCvZNJj7I8vnPerigKgoFb63NV0rI3IsrKdcGy_vzgbdz1pJeWoSEEw5MAdMxqvvMwOeiyXGSyQaDDk-eQ7myimCfLViGA.m3u8
 
@@ -103,8 +103,8 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="LAT",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="mtmad 24h" tvg-id="" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="SPAIN",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-name="Telemilenio" tvg-id="" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="SPAIN",Telemilenio
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ES",Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
@@ -800,6 +800,9 @@ https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 old
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
+
+#EXTINF:-1 tvg-logo="https://repuestoslineablanca.com/img/m/5979.jpg" group-title="UK",TVMATIC
+http://cdn.tvmatic.net/sport.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/b8/eb/ccb8eb3f8769444b78f1425e557b3aa4.png" group-title="Sports",EDGE Extreme
 https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea71d45252710041e0ccb9/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/1280x720_2890800/index.m3u8
