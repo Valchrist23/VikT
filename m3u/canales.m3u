@@ -15,6 +15,8 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1777819243.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
+
+notworking
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1629117181/ei/nQYaYZ3RLYSZkwaL0I2oCw/ip/187.190.242.179/id/HS79paDxx40.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr6---sn-uvu5a2a5t-upwl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/14670/mh/Dc/mm/44/mn/sn-uvu5a2a5t-upwl/ms/lva/mv/m/mvi/6/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20210811.06.00/ptk/youtube_single/oid/uSdCxS5T_LlBGnq4JFF3qw/ptchn/-r13SLLdZtZNmuC2bMnlmw/pltype/contentlive/mt/1629095301/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgc1Yl5QrtoAcZLEcU659yirgc2Pe_EcnJZqxghfSzXFICIQDh63OswAZsOayNU0lgXdO38hfBWM6svSNCst81sIMfPg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAJmN4U8vp4r132cZAKeaCmeFIQksinH6SuD1CcPI9wRJAiEArhaCu-6BRaXdBwO7tKMVFOw6HwTIYt1FugmnC2z0jXU%3D/playlist/index.m3u8?cpn=eq7Iq5FfMblCEaRj
 
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvsE-CaYbZmP92hmL_m4tPDD1CTQBCI55204xKiZJ1hsBNJKRj2YQbZCjnl9PMTaXQGhpj5EMwGZSw7j2j0a3GiVwIfvGq6NI0kVVFqKQwS50wQgWpXp3-3xiwIwgaKB_taBZsD8mY9_6FEIfiR3wXT9UI5h43xPEAAg7IWrbld7qgoHm7qN2nxU17AOTdRpUO-oI-38SbBnPMJsxrQeAv8PiQ_JeFFgteouaDN3xEOsyO3EgCCOpa6AdphPS-8lfBkr6Z3-U7if6z-sA1yCiPvTrWOr0Z5ktLAvtmCey_qsB_JHJHYCeolwd7eunV6J3GwwaNVqSOyHrzB20pOKXjHU5eJEuergdFrfam5zuaXCaNY42FNO1zrCEJKphXyrMLdhakAo9DjzAfVxGyCAN1wEQthsZ6Riq2nFYyEspr4LkbGWGmIYTdfIkkPT39D8dph7OSrWF8Dfouc-XGfo2ofS5TkFci_TYZUfCOoHL7mvUxilj27Kkt5cLaIMrSpAIBglow1lT1vwhKikez_AKgBAfdixRLE6JA7MGZi0NiWmwU2KfpcKskp0D-0-0o3Y8_BwWkr78JN8p0V1NKposdvdZI0bf7BgBOU_-7SHy7S0jRMwvON0B59pIHVdy1nCyWEC5DFuu10xrEG9z5itA-yYll8YUU8r2fcgYMfixHjAryq27YwrxrJfktfyPMwRglY94ngUV6jaLXudUb52_XNPZKwlQo6-idxU9b99fIHQbvr1ysvSCFb9ymuH-5ooBllKaLtis6iZJk--8VwZ589TPsXUScjrXCvZNJj7I8vnPerigKgoFb63NV0rI3IsrKdcGy_vzgbdz1pJeWoSEEw5MAdMxqvvMwOeiyXGSyQaDDk-eQ7myimCfLViGA.m3u8
@@ -124,8 +126,8 @@ https://rtvelivestream.akamaized.net/24h_main_dvr_720.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
 https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE 24
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://static.goldenline.pl/group_logo/000/group_26768_b509cd_huge.jpg" group-title="ES",El Patio
+https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
