@@ -1,9 +1,11 @@
 #EXTM3U
   
 #EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2015/10/NOTIVISA-e1444356102181.png" group-title="MX", Notivisa
+Not working
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/XETV-TDT__44dc0c/Logotipo-Canal-5-M%25C3%25A9xico.png__85722.png" group-title="MX",XETV TDT Canal 5
+no
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 
 #EXTINF:-1 channel-id="02" channel-name="channel Harley Davidson Garage" tvg-logo="http://orbittv.net/images/orbit_logo4.png"group-title="LAT",Orbit TV
