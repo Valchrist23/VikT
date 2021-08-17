@@ -1031,18 +1031,13 @@ http://www.goolgirls.com/tv/adult-new.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tse1.explicit.bing.net/th?id=OIP.UQdrZfJHtoK0zLDR0P2DrwHaCO&pid=Api&P=0&w=610&h=184" tvg-country="INT" tvg-url="" group-title="XXX",Chatturbate
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://nonprofitquarterly.org/wp-content/uploads/2016/04/Private-771x484.jpgg" tvg-country="INT" tvg-url="" group-title="XXX",Private TV
-http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=74a532b175d48db70c14651689719096-1596924604-17i821i222i981
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" tvg-country="INT" tvg-url="" group-title="XXX",Hustler TV
 http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=15733cceccb00e232437c7bb2a2e6ddb-1596924108-17i821i222i981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ebayimg.com/images/g/J4wAAOSwAwRZpmeo/s-l1600.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Playboy TV
-http://50.7.220.130/playboy/index.m3u8?wmsAuthSign=8549eacd4cc6aa5a9738de6b9da92f87-1596923687-17i821i222i981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ebayimg.com/images/g/J4wAAOSwAwRZpmeo/s-l1600.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Playboy TV
-http://187.188.147.165:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=https://image.freepik.com/free-vector/candy-logo_1438-537.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Candy TV
-http://50.7.220.130:8081/candy/index.m3u8?wmsAuthSign=7ca525009ed29b2411ee0d9b215de2f0-1596923423-17i821i222i981
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=https://image.freepik.com/free-vector/candy-logo_1438-537.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Candy TV
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/de/Private_TV_(2014-.n.v.).png/revision/latest?cb=20180313074313"", Private TV
