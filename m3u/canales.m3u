@@ -150,6 +150,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
+https://live-content.xumo.com/2561/content/XM0CP3Q5RQQ464/23227100/master.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktaz-dt1.m3u8
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 old
