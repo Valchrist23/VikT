@@ -208,7 +208,12 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_(Chile)_logo.svg/1200px-Canal_13_(Chile)_logo.svg.png" group-title="Mx",Canal 13
 http://186.101.216.211:8000/play/ca13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord 8
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord 10
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord 12
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 
 -----------------------------------------Kitchen---------------------------------------------
