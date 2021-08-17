@@ -5,6 +5,7 @@ Not working
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/XETV-TDT__44dc0c/Logotipo-Canal-5-M%25C3%25A9xico.png__85722.png" group-title="MX",XETV TDT Canal 5
+https://r9uxprta46.azcdn107.net:8443/hls/da0s08.m3u8?s=rF8_NyvLMbZJ3RI4Oo1isQ&e=1629240806
 no
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 
@@ -1038,7 +1039,7 @@ http://www.goolgirls.com/tv/adult-new.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" tvg-country="INT" tvg-url="" group-title="XXX",Hustler TV
 http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=15733cceccb00e232437c7bb2a2e6ddb-1596924108-17i821i222i981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ebayimg.com/images/g/J4wAAOSwAwRZpmeo/s-l1600.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Playboy TV
-
+https://r9uxprta46.azcdn107.net:8443/hls/0jnlo35uk82y.m3u8?s=e412A4-oa5ixxNPzAMh_Wg&e=1629240611
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=https://image.freepik.com/free-vector/candy-logo_1438-537.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Candy TV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
