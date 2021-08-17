@@ -33,6 +33,7 @@ old
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvkEbXo--OoJAUiAUMwjyusCm2gpj4ier5cFa1eC9-LtFwoZN8yo24UOd8Z3RZJICI4p3UL4Upvz7oxAXkmWbRi4vtT_QVgpdr6uz5ND9EtMMyLwo3iJUbvyHLrEDOY_FkedFWTomCemHmoIjZCUix4q-cN920mQZnrfSDzjopdVTySD6kdZoISe-2HslOIIdGaBg66vXBG1y65Zc-fDGbIIFKWeTDZVLjjvAiE5IU02AHX2Ubiaa7F6tB3ahMsLUUJl3EJyUA7iKnL8idaLR1f-j25P49GrqeXY2SuyhoaxUkSsC4772a1S6oO0JRUFwe8ZCv06QDH9-ltBPtRK5xlk4gSO_Uf2mnJUFJLf96o1diphw-k9AQo_JjgeTvU4aArsHU3goSVbwf7BUNBhMeRUvML1IraSGeXtpVoLBYjgwuqp3h4EQDMCl4n_Ge1YysnREdB48w3aJzTdl-EDkQZWxqEo2_JbW9kYlPp9lo7ITnGyXRPX4wKJ52ysoos_zyJq9FpwXKzqio8-QYys_TWXDbtSYP3IiIHFg4l_LeiE7cE5oOs8xI82NlV2qU0M3J42zoZf5v-AMaLxXmMgU5ndl_IEa0-RQPdUzbZKsG4THWEbsz4aenGThlfODqFn_Y4TqiXY_zd2WSrscsxCHCWX0wzTwMGLWmGZVLd0O70RMBjvTadOQIzIVFsBbttPuze18a3_DNPJ3Xnilhe2UiLXpMn6mVoKurxWN1ej3B8W9IKgcDZHn70FOfJkoQGYJhYLpmHncH1Bvhz0ae9x-k_9mxX49HVlPOU8GMe5qwHehT1wozEnIKMBXFof8OfZuG6--fz_kO2tZ8w1EhB2WOZRdQRqZsmtCy_aBxaVGgy2uspUZCOqbHx3tKQ.m3u8
 
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvwE0YbbwmYhcjOxwug1EOzdgiDrf4EDBMhh3dRyxZ4v2whNKHAL9q51qcgazkVbMDEryHcYXX7rf7sAuzURQnQFqF7pSl40a_A38Mc-HvTlEbPGBUpgDNYhgdkIx3a4xlwF-GgzIRYtjwlmhB8gtL5v15b2Ef4C1xsnTUjkIIuJphRltgOdB9pW1re1_xZXOIY0YmRKk4EIOFvNLW9Jq7EUstfd_AvjSIjOfwSIjyZdflHY61wdyKSN8cmtIsXDrisbCAAbaPquW1aq3IPsG6km2fSz8NvrOsUAPNJhKCGn0L4LepLjVgt6hiGE6W3ssqpUGZ2KK4Uz11MFv7AzYteGMiImsWRrRiivOjnvY5byvqBXPmd3M3dk2RnOBWEEIDup19LB5Ne1XdwV0mCvFXikqnwDqSihx2_YieQ4QbZMV6ZYn_Uc5QAtAXfXA6l0C9LLHbQIr50o3EZagxVkdCOAp_cLQKlLP9bvkmedU0iLISTgUyxu0tJtgrYRq5gWHmAi7qsflnxv_VdaEBf5fhGJHjW4iqpw_RooRYfK30P3nQwyPdqB_rHs8Y9FHW4MCliagN8JBxN883FDF0Q3ZtGEP63muoFCTtby6rOZOt0ptJRtxCMNrdWzVe3txIqDSOzo2Ej7AZPO2DMKRz3CPDAr1WKtVXDvuoFEHhNv33M19OuqyBPTcR4fzvnR56qKo1vmn1vmfHXsblJesdN-rvVSWX9VYiT1qvyuePlmv5GpTIHQQNGek3P4iBiwOiq1RVA6JI0KlIxXm0XIzpdoRXrBJIHlF6RyEx59IKzcz2sVn0TkQcy5YWZwhzomTF9eFEVllPoY8aMTeXJ63RrIEhD0wHc22-xQVE8V2uP8JZCaGgxjACEDgQhJbLtg1j0.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Info",Canal 11
 https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/XHSPR-TDT_%28Canal_14_MX%29.png/revision/latest/scale-to-width-down/900?cb=20200410213940" group-title="Info",Canal 14
@@ -116,6 +117,9 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="Telemilenio" tvg-id="" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="SPAIN",Telemilenio
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.OJu0j-4aGYrHv86kC8Y5_QAAAA&pid=Api&P=0&w=300&h=300" group-title="ES",Distro
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ES",Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
@@ -300,6 +304,8 @@ https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 -----------------------------------------Entertainment---------------------------------------------
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LnF1aWxtZXN2aXNpb25fc2NyZWVuXzBfMTUzNzcwNTgzNV8wMDA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="LAT",Canal 29
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -581,11 +587,6 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u
 #EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global", Dustx
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Jap" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/280.png" group-title="Jap",Star1
-http://redlabmcdn.s.llnwi.net/jp04/bs09hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Jap" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch854/280.png" group-title="Jap",Starz
-https://h1.ustvgo.la/StarZ/myStream/chunks.m3u8?nimblesessionid=73505889&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0NzozMyBBTSZoYXNoX3ZhbHVlPTVZT25hQWpwZXJYYW5YeGhmR2Fkemc9PSZ2YWxpZG1pbnV0ZXM9MjQw
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Documentary", Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5c6faadd-21fe-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
@@ -650,9 +651,6 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png" group-title="USA",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="PH" tvg-url="" group-title="Cartoon",Pop Kids
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="PH" tvg-url="" group-title="",Pop Life TV
 old
@@ -875,9 +873,27 @@ old
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_2500000/index.m3u8
 
 -----------------------------------------Random---------------------------------------------
-#EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Random
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 0
 https://stream.allsprk.tv/live/0/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 1
+https://stream.allsprk.tv/live/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 2
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 3
+https://stream.allsprk.tv/live/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 4
+https://stream.allsprk.tv/live/4/index.m3u8
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 5
+https://stream.allsprk.tv/live/5/index.m3u8
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 6
+https://stream.allsprk.tv/live/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 7
+https://stream.allsprk.tv/live/7/index.m3u8
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 8
+https://stream.allsprk.tv/live/8/index.m3u8
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/3096767/681086/681086_17136101_3096767_2dbcc4ed_image.png" group-title="24/7",Random 9
+https://stream.allsprk.tv/live/9/index.m3u8
+-----------------------------------------Movie Channels---------------------------------------------
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV shows 1
 https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV Movies EN
@@ -893,7 +909,7 @@ https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
-https://stream.allsprk.tv/live/9/index.m3u8
+
 
 #EXTINF:-1,XD Tokyo
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
@@ -985,7 +1001,7 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV 
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg" group-title="Adult",A3 Bikini
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg" group-title="Music",A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Music",Eye Candy
@@ -1087,22 +1103,16 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.OJu0j-4aGYrHv86kC8Y5_QAAAA&pid=Api&P=0&w=300&h=300" group-title="ES",Distro
-https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LnF1aWxtZXN2aXNpb25fc2NyZWVuXzBfMTUzNzcwNTgzNV8wMDA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="LAT",Canal 29
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
-
 
 http://locomotiontv.com/envivo
 http://stirr.com
 https://www.distro.tv/
 http://www.estaciontv.cl 
 http://okteve.com/candy-tv-live/
+http://13maxtv.com/new/
 epg
 https://helmerluzo.github.io/PlutoTV_HL/enlaces.html
 
-https://edge250.stream.highwebmedia.com/live-hls/amlst:angela_5-sd-7a5d2ffb193ae134e08c74aaf0ef157dd82b6e0fdf73956b2e21a4986a904da6_trns_h264/chunklist_w1147716689_b1148000_t64RlBTOjMwLjA=.m3u8
 paginas de a mas
 
 https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/06e1dba2-9430-4d7f-9ae0-f19b5d270a6a:ATL/variant/dcf6488c5b6184c256e866c9f8fddce0/bandwidth/645920.m3u8
