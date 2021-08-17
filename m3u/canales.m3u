@@ -193,7 +193,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="MX", Cosmo TV | HD 
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="MX", Cosmo TV | HD 
+other
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/67e92f4b31d435029826308733bcaa96.png" group-title="MX", Canal Nueve Multivision
@@ -236,7 +236,7 @@ https://food.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_89yoa1mu/def_height/272/def_width/731/version/100011/type/1" group-title="Cooking", So Yummy 
+#EXTINF:-1 tvg-logo="https://soyummy.com/wp-content/themes/soyummy/partials/header/assets/soyummy-logo.png" group-title="Cooking", So Yummy 
 https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/1920x1080_5055600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/1024px-Gusto_logo.svg.png" group-title="Cooking",gusto
@@ -274,13 +274,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939da
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
-https://h2.ustvgo.la/FoodNetwork/myStream/chunks.m3u8?nimblesessionid=46168075&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzozODo1MiBBTSZoYXNoX3ZhbHVlPUtWdElBQityUTB6YVFGbEhFSVhaakE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+not working
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yu2IXMrIPYKwyeIpGo8qOQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Delicioso
 old
 https://unidfpclnlds139.akamaized.net/linear/hls/pa/event/Fiw4iaQ6RXu4iWOVh8eTZg/stream/5b6444ab-30ac-4570-b828-bcfb5a711a1f:CHS/variant/08d0a2d5fe098216c3952bd6be692f71/bandwidth/4500000.m3u8?hdntl=exp=1613063864~acl=*~id=27024930-1655-4003-a335-e233063ab839~data=hdntl~hmac=d860b9493db3fa65df2eb35fb3487349aae98e5d9832a1a2d3c48541f3635191
 
 #EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
+notworking
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="24/7 PLUTO TV",Pluto TV Hogar
@@ -321,8 +322,6 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="USA",History Channel (Best of)
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="",Discover.Film (720p)
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -408,9 +407,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ef3ebd75-05aa-4f7e-b1bf-250819c2c37e&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="Cartoon",Cartoon Network
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1629115322/ei/Wv8ZYZiwDpHDkgbdiIJQ/ip/187.190.242.179/id/2qB6M0FvaY4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-uvu5a2a5t-upwl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13850/mh/0S/mm/44/mn/sn-uvu5a2a5t-upwl/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20210811.06.00/ptk/youtube_single/oid/8QEwoNWfiwUx3pS6OC0ArQ/ptchn/QySZQ6rrgJXRuonMwIIGMA/pltype/contentlive/mt/1629093383/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgXsly14pH8hJ8-g8b9KpxVq13NU3fhoOv59CzEGCYvHMCIQDx7By1oZnUKz4MjNOQRICj7SSVBM8o750R_XpYCdeuBA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgM8qC4LZelGHR-bJ_eHa2cfI2gxq9mh4i8NXFRAljlFUCIQCJvuIvey2cAPp3sd9TeI-TkYZxny-hHqMksOv5KfSZFA%3D%3D/playlist/index.m3u8?cpn=MnJ3ItJFeApxoZEs
-
-https://h1.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=73503140&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzozMjoxMCBBTSZoYXNoX3ZhbHVlPW1wM2dDRVFLMmZybEE1WnI5OTBtaFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+ 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Nowthis_logo16.png" group-title="USA",Now This 
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
@@ -506,6 +503,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://radio.7chan.org:8000/CH7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies", 13MAX | HD
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w1794747202.m3u8
+old
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="Movies", Canal 26 Argentina
