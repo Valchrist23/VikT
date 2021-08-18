@@ -382,6 +382,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 http://www.toonxtv.net/hls/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e0/35/f1/e035f1b9fd4042457f76e18c40799069.jpg" group-title="ANIME",Anime Loving
 http://azxtv.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/dreamlogos/images/0/01/Animax_Cheyenne.png/revision/latest?cb=20170207030639" group-title="ANIME",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy2Z-c1eezn0kcIpP0XuY7smLxuzlsC7EXPWw=s900-c-k-c0xffffffff-no-rj-mo" group-title="ANIME",Animestation
@@ -463,6 +464,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w1794747202.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-001.jpg",Dan TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180403/ape/kisspng-logo-tv-television-channel-this-tv-tv-shows-5ac33215b01621.9339820715227417817213.jpg",Puruwa TV
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="SYFY",Comet TV
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
@@ -668,6 +672,7 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="PH" tvg-url="" group-title="",Pop Life TV
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 old
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
 
