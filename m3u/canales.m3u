@@ -89,6 +89,9 @@ Old
 https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s900-c-k-no/photo.jpg" group-title="MX", Multimedios 6
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.7txDz5GWVGobAyCargklrwHaKX&pid=Api&P=0&w=300&h=300" group-title="MX",CANAL 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
@@ -210,9 +213,6 @@ http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/67e92f4b31d435029826308733bcaa96.png" group-title="MX", Canal Nueve Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s900-c-k-no/photo.jpg" group-title="MX", Multimedios 6
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="MX", Canal 10 Microvision HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
