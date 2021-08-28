@@ -610,6 +610,8 @@ http://cdnak8.cast4u.info/channels/3/10803.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://www.ghafla.com/ke/wp-content/uploads/sites/4/2020/07/BeFunky-collage-2020-07-07T135249.941-scaled.jpg" group-title="USA",Switch TV
+https://simultv.s.llnwi.net/o062/Switch/interlink.m3u8
 
 #EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global", Dustx
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
