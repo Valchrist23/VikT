@@ -106,7 +106,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a417
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto TV Viajes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2d3ac21b-21d3-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8156&deviceLon=-116.5761&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
+ 
 #EXTINF:-1 tvg-logo="http://www.geloon.com/wp-content/uploads/2014/08/GO-TRAVEL-logo.jpg" group-title="Cooking",Go Traveler
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/1280x720_5000000/index.m3u8
 
@@ -139,13 +139,6 @@ https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8?PlaylistM3
 https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/24h_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24+ Horas 
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
-https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.goldenline.pl/group_logo/000/group_26768_b509cd_huge.jpg" group-title="ES",El Patio
-https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
@@ -168,6 +161,7 @@ https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 https://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/index_2500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo 44
+Notworking
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
@@ -219,9 +213,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="MX", Canal 10 Microvision HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 3 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="ES", France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -305,10 +296,6 @@ not working
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yu2IXMrIPYKwyeIpGo8qOQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Delicioso
 old
 https://unidfpclnlds139.akamaized.net/linear/hls/pa/event/Fiw4iaQ6RXu4iWOVh8eTZg/stream/5b6444ab-30ac-4570-b828-bcfb5a711a1f:CHS/variant/08d0a2d5fe098216c3952bd6be692f71/bandwidth/4500000.m3u8?hdntl=exp=1613063864~acl=*~id=27024930-1655-4003-a335-e233063ab839~data=hdntl~hmac=d860b9493db3fa65df2eb35fb3487349aae98e5d9832a1a2d3c48541f3635191
-
-#EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
-notworking
-https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="24/7 PLUTO TV",Pluto TV Hogar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2d3ac21b-21d3-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8156&deviceLon=-116.5761&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
