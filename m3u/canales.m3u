@@ -186,7 +186,14 @@ https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
+https://dai.google.com/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
+old
 https://adinsertprimeforotv.akamaized.net/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
+oold
+https://dai.google.com/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/9337875d-7101-43d0-8c64-b4258b92faa7:DLS/variant/e124ed293b0987f61454d6033bfe9c35/bandwidth/313248.m3u8
+old
+https://dai.google.com/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/9337875d-7101-43d0-8c64-b4258b92faa7:DLS/variant/902c758c9088a3f3b768da50c5906076/bandwidth/1087111.m3u8
+
 old
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3748?checkedby:hlscat.com
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
@@ -199,8 +206,9 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" group-title="MX", Teleformula
+https://stream-02.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqlbuB2QrrqBCmXePJswrljQ)/dm/3/x7u0spq/s/live-2.m3u8
+old
 https://wms60.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
-
 working
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 
