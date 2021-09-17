@@ -10,11 +10,12 @@ https://r9uxprta46.azcdn107.net:8443/hls/da0s08.m3u8?s=rF8_NyvLMbZJ3RI4Oo1isQ&e=
 no
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 
-#EXTINF:-1 channel-id="02" channel-name="channel Harley Davidson Garage" tvg-logo="http://orbittv.net/images/orbit_logo4.png"group-title="LAT",Orbit TV
+#EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png"group-title="LAT",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="MX",Dreiko TV
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/chunklist_w1455920191.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyzTX252yvQu74qYLo8eHIbwyTfQOwa967-zFEN=s900-c-k-c0xffffffff-no-rj-mo" group-title="MX",TVPop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 olv
