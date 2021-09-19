@@ -350,6 +350,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="US",Crackle TV
 http://crackle-xumo.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="US",My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -385,7 +386,7 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdqnqGxUudF8aHYlABgTH4dnMqRQjO65v_KANaxAW_FOy6w0BMXGeATM" group-title="US",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS New
-
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/The_Asylum_Logo.jpg/revision/latest?cb=20160827170704" group-title="US",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 
@@ -463,8 +464,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_C8Dpr9s51ug/TAlqb5Ha4aI/AAAAAAAABaU/Of3TKoGmEnQ/s1600/nickla.png" group-title="LAT",Nick Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ef3ebd75-05aa-4f7e-b1bf-250819c2c37e&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="Cartoon",Cartoon Network
- 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/lego/images/2/2d/LEGO_logo.jpg/revision/latest?cb=20130601154044" group-title="Cartoon",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Nowthis_logo16.png" group-title="USA",Now This 
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
 
