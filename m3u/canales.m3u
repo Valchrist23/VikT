@@ -190,7 +190,7 @@ https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 https://dai.google.com/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
 old
 https://adinsertprimeforotv.akamaized.net/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
-oold
+old
 https://dai.google.com/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/9337875d-7101-43d0-8c64-b4258b92faa7:DLS/variant/e124ed293b0987f61454d6033bfe9c35/bandwidth/313248.m3u8
 old
 https://dai.google.com/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/9337875d-7101-43d0-8c64-b4258b92faa7:DLS/variant/902c758c9088a3f3b768da50c5906076/bandwidth/1087111.m3u8
@@ -215,7 +215,10 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MX",adn 40
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+old
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?PlaylistM3UCL
+working res
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://cronicadexalapa.com/wp-content/uploads/2017/02/tv-mas.jpg" group-title="MX", TV Mas
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
@@ -410,6 +413,8 @@ http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/dreamlogos/images/0/01/Animax_Cheyenne.png/revision/latest?cb=20170207030639" group-title="ANIME",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/dreamlogos/images/0/01/Animax_Cheyenne.png/revision/latest?cb=20170207030639" group-title="ANIME",Animax EN
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy2Z-c1eezn0kcIpP0XuY7smLxuzlsC7EXPWw=s900-c-k-c0xffffffff-no-rj-mo" group-title="ANIME",Animestation
 
 #EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Animation",AT-X
