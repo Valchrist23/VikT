@@ -28,8 +28,8 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1777819243.m3u8?P
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Lat",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
-not working
+#EXTINF:-1 tvg-id="sintesistv.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV (1080p) [Not 24/7]
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cv4EiJqLOBfshpSLv3Ps2zcPm5MfbMBI2DOevADv-QFG0vogOFBsbkrMqlfyAcyEovINibAFQaxUCMhqHbE1M_mrHwtV1zreptZXV5_TiSuOQyMyA7Yo46uNSiUpojg24DsuwRWsacjT7S1UP2ijnWNmE3EZyDB05ApaQYAULXu3e8ooNg4VB2hM_7iQfOQWhkUZbx8gPp47ri0EQGUkW9Zy68BU7nkr7ZIFFKEcu4krArXGeAMvbVf4CA1123hpgG-PJ4kDoxvjmlOxVWwCc2ULhmxfHZ6IgxQlzcoUt579RodF-vrCMqo8rVZRC_7BNka8k81mVFCUmR-HY0DEgdXYzfk32ERIlfNJQi_irQ51_HXWkC6hMNCIeM6-beYGVKUfWulhLWLN6WYYeuopUZ8pUtPkMClgHKe9PZA9m6pBgRbP_R4YHyA1IhrfAzgiygfCHkd6iQptOZAByHsH32inFt4TGAn1ZcZOrFN1dm8nyacvOIn0n_nsxAS0-8Yn2WZXnZw5h13PzsJm417bjpH44ADWVZWXj5RmSBT7KTF4eaw4UPAmSf-ND2ES6gO83M4dDZOYf0fl88ONmcNM01xGU3FmqmA8PUVfDOFGnCKVt1S1xtxAmlZBBkLu6RKq_IuM6C2WEioklBRexdZQm5BpSYNFOkYiDbt2z5-IptGsZrBo-fv2QIuJsGp8IpeCqi_9fPJGvlNQYDo_F2O0hdaMrNbHn04AL-gJaA9aKGxjFvvlxsdY6W8lR9CFWRjph3nrkrHKXl-Pgf9Esc3GrkdS_8jHZy7IeBwkfYbxYOz4t1JYdtuhQc5Ir9-HF_jrBBgh39BXXn2GxT6Nq0VDv9ESEFuTg8zZ7uCKseIwpQws8tEaDFZg7x9P7KRQGAGzXg.m3u8
 new
 https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Cv8EhEV-mdyko5y_aNOus6ssu4MI0xY6wMy6G3tyKnZjziFMbgVNxCo6eDoxbO-p1hzHnmE8QQhhMrX6cVK_ScRYa7KB_KoSWlcEOde0Z6FnG-45DtQjS8y__tpTQr7kffMRP2sa9lHxnLRKYcvGZhXNRxMjZ-3b6FsNnpoAxGd-TD9hVD6RG5d5Q61KWNA8MJF_Wu-8e5DiVYkpuHZhihWa8bmxoUd_QvXfN4_QA_0e-NJpkJDWICPMoJT-Dp8w4XBe67ddJ0XmTNloT-NltdAc_wbTgIgWH-2f13Gol9wpgDwx35XeZHS2AkF0m799f2IZq3tXmPqdANYzr8EDJj3Q3EQxMsVYPqlKs2-RHfteShmR3F64XtRm0ACgbjAel9-suUXiB43jZLRn_30pkiC2AzWjQm-Lh0qMY7tJvHYXgnJnJix_85dkMkDyFiufR8T5hn88aWAYRcZFFcT3y-XIkcpTpIu4NdtF2IMMMBcGSqdjyfRcPFaEyCZW_ki6Lz_yf5bH0N4LebmvZhmz_eojQSGVRcWT18TnKUsP2jvnpgFVIQ6_6FmDnx2x071NfYuvBRF7z6lUC0-fxZKdIB-t1kHeTxR8mDprKAlk1MAauYUY48jrKsz4XQdLf_HOW1rEd8Lbx4L1FMOdSzdXQlvZGzzHr7NA9L3pyww1oZeQmMCucdCDJUu93VWA875GzWPEFYMRO_KNMa2RI5YRwrGWtx1Vdms1GXFX4htswBVQdRmW8vys8MJH73ks0kfgXefGGOvVjp0MYXQjd6_nRaU6PPkFyN1S032aVtrb3sy8s264AgZOv8OgnvL5hAUkH6N5T7gTwKqMVGTeTh11qF2QEhCUPJSAvcKkw_cAMvusRF76GgyaYAilmW27_GXbMus.m3u8
@@ -63,6 +63,8 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR.m3u8
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1456781176.m3u8
 https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w779578621_b3428000_sleng.m3u8
+#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
+https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3 Viejo
 old
@@ -1086,14 +1088,10 @@ https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F
 
 -----------------------------------------Adult---------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV | HD  | Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
- 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV 
-https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w214662580_b2592000.m3u8
+#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Jenny Live (720p)
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg" group-title="Music",A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
