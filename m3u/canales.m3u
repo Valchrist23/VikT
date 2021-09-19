@@ -101,6 +101,8 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/chunklist_w1526457808.m3u
 Old
 https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/Mexico-Travel-Internacional-Logo.jpg" group-title="MX",Mexico Travel TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s900-c-k-no/photo.jpg" group-title="MX", Canal 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
