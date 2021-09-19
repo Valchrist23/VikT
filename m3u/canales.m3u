@@ -182,6 +182,8 @@ https://rpn1.bozztv.com/36bay2/gusa-ptd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-cHMxr4nKdrM/WEmE9yD_vmI/AAAAAAAAT2U/-X1C6o6-XqEnmhuy0cd59G-jbr2yMK6ugCLcB/s1600/Televen_1988.png" group-title="LAT",TV Venezuela
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="MX",Unimas
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
@@ -588,6 +590,7 @@ notwork
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
 http://203.154.243.89:11205/
+
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US", ABC KGO
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kgo-dt1.m3u8
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US", ABC LA
