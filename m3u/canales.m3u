@@ -977,6 +977,8 @@ https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 old
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41Qit-0uIQL.jpg" group-title="US",Xumo Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ONv_xZwlJCAu6ixrjiQktgHaHa&pid=Api&P=0&w=300&h=300" tvg-country="US" tvg-url="" group-title="",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
