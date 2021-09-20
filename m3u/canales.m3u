@@ -210,8 +210,8 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MX",Milenio TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1629113695/ei/__gZYayGAZaLsfIP__ygyA8/ip/187.190.242.179/id/0ncNOsphntk.1/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/rr1---sn-uvu5a2a5t-upwl.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/mx/vprv/1/playlist_type/DVR/initcwndbps/13750/mh/Jd/mm/44/mn/sn-uvu5a2a5t-upwl/ms/lva/mv/m/mvi/1/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20210811.06.00/ptk/youtube_single/oid/TQeQ-imXOYqiOs9A1cCnIw/ptchn/FxHplbcoJK9m70c4VyTIxg/pltype/contentlive/mt/1629091946/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgLaJk3mDCq2LKwQ56Q2cM-vcGu6HfIst-Ki05AW-eddUCIQCyj2y4zfRAIm8bSGFE342GdFPy3YsZ4r5aSgfDk3jXSw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgKKHEh8NlcxNywxmiRDJp0RZQyye8-lHj59Nz88r7JOwCIEFXmAT_fvAQMhwUXj2meflCXcTff6FVPFOEJJUs2WEI/playlist/index.m3u8?cpn=dmilka4wNB3OYOmP
-
+https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
+notworking
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 
 
