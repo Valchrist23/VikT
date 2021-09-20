@@ -1,14 +1,13 @@
 #EXTM3U
   
-#EXTINF:-1 tvg-logo="http://xewt12.com/wp-content/uploads/2015/10/NOTIVISA-e1444356102181.png" group-title="MX", Notivisa
-https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balboaparkconservancy.org/wp-content/uploads/2016/06/Chanell-12_XEWT-logo_new2018.jpg" group-title="MX", XEWT 12
+https://cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8
 Not working
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Local",Canal 5 (XETV-TDT) (1080p)
+https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/XETV-TDT__44dc0c/Logotipo-Canal-5-M%25C3%25A9xico.png__85722.png" group-title="MX",XETV TDT Canal 5
-https://r9uxprta46.azcdn107.net:8443/hls/da0s08.m3u8?s=rF8_NyvLMbZJ3RI4Oo1isQ&e=1629240806
-no
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
+https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png"group-title="LAT",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
