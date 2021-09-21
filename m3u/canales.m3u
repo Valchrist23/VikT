@@ -910,9 +910,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 old
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
-#EXTINF:-1 tvg-logo="https://repuestoslineablanca.com/img/m/5979.jpg" group-title="UK",TVMATIC
-http://cdn.tvmatic.net/sport.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/b8/eb/ccb8eb3f8769444b78f1425e557b3aa4.png" group-title="Sports",EDGE Extreme
 https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea71d45252710041e0ccb9/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/1280x720_2890800/index.m3u8
 
