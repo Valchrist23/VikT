@@ -850,22 +850,26 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.vmastoryboard.com/wp-content/uploads/2014/09/Grid-logo.jpg" group-title="Sports",Sports Grid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
+#EXTINF:-1 tvg-id="EDGESport.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjhf/EdgeSport_400x400.png" group-title="Sports",EDGESport (1080p)
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-yIXKQvnHUuc/Uie3suZD9II/AAAAAAAAAFA/xQ1sB9wmtJk/s1600/TMZ+Sports.png" group-title="Sports",TMZ Sports
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/04/combat-go.png?w=1000&h=563&crop=1" group-title="Sports",Combat Go
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="USA",ESPN U
-https://h2.ustvgo.la/ESPNU/myStream/chunks.m3u8?nimblesessionid=46168727&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0Mjo1NCBBTSZoYXNoX3ZhbHVlPWc0bDJhczQ1WVJKM2FNZGUxRHJibXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjRf/HardKnocks_490x490.png" group-title="Sports",Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN 
 https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
-780
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-no
-https://gma2.blab.email/espnews.m3u8
+
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="Sports",ACC Network (720p)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="USA",ESPN 2
 http://stream2.grandma.fit/espn2.m3u8
-no
-https://h4.ustvgo.la/ESPN2/myStream/chunks.m3u8?nimblesessionid=40450881&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo0Mzo0OCBBTSZoYXNoX3ZhbHVlPXl6clJGaTMzWU83dHplRUdBNDZMZlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Sports",LSN Sports 
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NO7y3tt.png" group-title="USA",HBCU Game Day
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
