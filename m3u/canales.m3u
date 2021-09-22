@@ -7,6 +7,7 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitc
 https://cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8
 Not working
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="Local",Canal 5 (XETV-TDT) (1080p)
 https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
 
@@ -18,14 +19,14 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="MX",Dreiko TV
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/chunklist_w1455920191.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyzTX252yvQu74qYLo8eHIbwyTfQOwa967-zFEN=s900-c-k-c0xffffffff-no-rj-mo" group-title="MX",TVPop
-https://v4.tustreaming.cl/poptv/playlist.m3u8
-olv
-https://stmv2.voxtvhd.com.br/reikotv/reikotv/chunklist_w1650343097.m3u8
 old
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1777819243.m3u8?PlaylistM3UCL
+olv
+https://stmv2.voxtvhd.com.br/reikotv/reikotv/chunklist_w1650343097.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyzTX252yvQu74qYLo8eHIbwyTfQOwa967-zFEN=s900-c-k-c0xffffffff-no-rj-mo" group-title="MX",TVPop
+https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Lat",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -35,7 +36,6 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w2119553498_DVR.m3u8
-
 old
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1456781176_DVR.m3u8
@@ -43,6 +43,7 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR.m3u8
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1456781176.m3u8
 https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w779578621_b3428000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
 https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 
