@@ -793,7 +793,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music", 1Mus
-http://rtmp.one.by:2300
+http://rtmp.one.by:2300 
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.f6CRu0wyDg2h-LZtdvZ2PgHaEK&pid=Api&P=0&w=328&h=185" group-title="Music", CHAU Music Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
