@@ -714,7 +714,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://thesavvyscreener.com/wp-content/uploads/2020/02/AE-Crime-Central-1.png" group-title="USA", A&E Crime
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.8xs5lny6s2nh5z4Po5Il4wHaE0&pid=Api&P=0&w=260&h=170" group-title="USA", A&E Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="Documentary",Forensic Files
