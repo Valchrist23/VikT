@@ -403,7 +403,8 @@ http://184.173.181.2:1935/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/l/Locomotion.png" group-title="ANIME",LOCOMOTION
-http://www.toonxtv.net/hls/loco_ch/stream.m3u8
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/isojxe/video/1153855460
+ 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e0/35/f1/e035f1b9fd4042457f76e18c40799069.jpg" group-title="ANIME",Anime Loving
 http://azxtv.com/hls/stream.m3u8
 
