@@ -443,10 +443,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latecnologiaatualcance.com/wp-content/uploads/CONtv-Anime.png" group-title="ANIME",ConTV Anime 
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Entertainment",Asiancrush (720p)
-https://ac-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Animelive delux" tvg-name="Twitch Anime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Entertainment",Anime Live Delux
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=www.twitch.tv/animelivedeluxe
 #EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Entertainment",Asiancrush (720p)
 https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Twishch
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpEFIjY5oy7ZB4TIrlUlOfB3Gy2kxNVTEqFrRnLJg_lyUAo5KcoAdoqHJdelRkzicMRg_8ooRS_E7BWeAwFHAUxgyuVArO4fckrssJCnqeKZSyblYKQFwTXYmTFZNjqKzfyZNiC0M_VMftI6UssCgLWLOEZb6Qfn7Q0vLKY8SdrfMCY0mYl15qsH_Ae04jOyLaP-tnbWmis4LxtQ75gRWiQd-WmuFd9bpr4KC0nYDcV32NDcgXVS2Sd3V-lyqf8d2EURVzx9de8s8UAL1OWeZnFlUcRBI9xPpAhxLAzpJMFhDIhRySmzKRbc_poQoZ0cIkw8s_9k59pYC_ff4szSrC3tO6DwOtRMVeP6VEdVGqAdO6ZSSwfPSjcAk4fkWKXlxegQl45D5wv7aG6oZPlkb2wWlhvCiu_J5-bnZO-xnjEZBVtLXPvzLLgZlVU8gbjoZJX5JWwsc2pIxsG4efyN5ffh3HImauAQehub7EEdxrnhrDE-hnOmz2nWkPQgaRKh_ebzpJla8-d4hlPjeVIDYTcGwrr1756hWDB2MEvHaeYnJFXkKoaolSbGERZEz50zqoRfyrdeXwcVVoqdI5oIFJoV2gzLbrqDWcRqZAmztByssl-DBuFJg1vbQTuxv5NLobbwHWVPl76g6qGE6_lhTGkQwtxMFpXmSSPQZc7IrkVrnmAdcrz8khPCQaYbnTS2wZWgsyS1HS2IkKtdFOSc23-aqKdhaETp8YHE6RSC1mAhdMXKEzsEdae5FyvtzOEckP5ZFMylpy0JvsxzKpcjtHvnK86Aj6EJ2dfZ_MvCN2i3aL3RejFccZvGHd4uVP_yhihRd8BQMilB_6953NaV_OzvN5J993dqR4rwsFcW8ikqLBoDEhBh8Kq5mnXRXAC1az4ah5eDGgwUEcGeJtxP5h7c2iE.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.oXKcWpXr-Ff4Z_BkUiMIowHaDa&pid=Api&P=0&w=360&h=167" group-title="Cartoon",Totally Turtles
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
