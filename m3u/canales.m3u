@@ -52,8 +52,8 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3 Viejo
 old
 https://livestartover-i.akamaized.net/antena3/master.m3u8
-
-
+#EXTINF:-1 tvg-name="Galavision" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="MX",Galavision
+https://rapid1.gcdn.co/E75/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 old
