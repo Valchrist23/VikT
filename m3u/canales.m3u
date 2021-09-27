@@ -248,7 +248,7 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="ES", France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_(Chile)_logo.svg/1200px-Canal_13_(Chile)_logo.svg.png" group-title="Mx",Canal 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_(Chile)_logo.svg/1200px-Canal_13_(Chile)_logo.svg.png" group-title="CHILE",Canal 13
 http://186.101.216.211:8000/play/ca13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord 8
@@ -449,7 +449,7 @@ https://contvanime-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latecnologiaatualcance.com/wp-content/uploads/CONtv-Anime.png" group-title="ANIME",ConTV Anime
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Animelive delux" tvg-name="Twitch Anime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Anime",Anime Live Delux
+#EXTINF:-1 tvg-id="Animelive delux" tvg-name="Twitch Anime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="ANIME",Anime Live Delux
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=www.twitch.tv/animelivedeluxe
 
 #EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Asian",Asiancrush (720p)
@@ -653,13 +653,13 @@ https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Documentary", Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5c6faadd-21fe-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="MX PLUTO",Pluto TV Animales
+#EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Documentary",Pluto TV Animales
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",Comedy Central en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Comedy Central Animation" tvg-logo="http://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="PLUTO USA",CC Animation
+#EXTINF:-1 tvg-name="Comedy Central Animation" tvg-logo="http://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="USA",CC Animation
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appVersion=0&deviceDNT=false&sid=channel&deviceId=0&deviceMake=0&deviceModel=0&deviceType=web&deviceVersion=0
 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -801,7 +801,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ZrI38xiYMEAmCbQhQX2qZgHaEI&pid=Api&P=0&w=328&h=184" group-title="Music", FoxMixClub
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/1024px-One_HD_Logo.svg.png" group-title="MUSICA", 1HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/1024px-One_HD_Logo.svg.png" group-title="Music", 1HD 
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8 
 
 #EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest?cb=20100526164945" group-title="Music", Music Retro
