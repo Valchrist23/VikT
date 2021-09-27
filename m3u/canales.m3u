@@ -1015,6 +1015,11 @@ https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
 https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/ff/Epix-hits-logo.jpg/revision/latest?cb=20150930093838" group-title="Movies",Epix HITS
+https://rapid1.gcdn.co/E62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/epix2019_drive.png" group-title="Movies",Epix Drive In
+https://rapid1.gcdn.co/E61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
