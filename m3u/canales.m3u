@@ -664,7 +664,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a
 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="US",ComedyDynamics
+#EXTINF:-1 tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="US",ComedyDynamics 
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.soda.com/wp-content/uploads/2017/04/TVLand_live_stream.jpg" group-title="US",TV Land Sitcoms
