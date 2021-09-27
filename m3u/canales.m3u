@@ -379,7 +379,7 @@ https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 same
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
