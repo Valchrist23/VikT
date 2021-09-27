@@ -1009,8 +1009,10 @@ https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
 https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now Mr Box Office
 https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Local Now PG Flix
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now PG Flix
 https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
