@@ -116,15 +116,11 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8
 old
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Canal9Nicaragua.png/revision/latest?cb=20190324223137" group-title="MX",CANAL 9
-https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto TV Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto TV Viajes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2d3ac21b-21d3-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8156&deviceLon=-116.5761&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
- 
 
 #EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w2120558587.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MzY6NDkgUE0maGFzaF92YWx1ZT1EUWw0UTJ3SzR1QlRKSDFYM0JlUE5nPT0mdmFsaWRtaW51dGVzPTUmaWQ9
@@ -277,9 +273,10 @@ https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
 NO sirve https://tastemade-latam-plutolive-vo.akamaized.net/l/hlslive/tastemade/3/tastemade.m3u8?profID=4&n=3&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6IjMyZmYyYWY4LTljNDMtNDQwOS1hOTIwLWEwODYxYzFkOGU2ZiIsImRldmljZVZlcnNpb24iOiI2OS4yLjAuMTcxMyIsImFwcFZlcnNpb24iOiI1LjE0LjAtMGY1Y2EwNGMyMTY0OWI4YzhhYWQ0ZTU2MjY2YTIzYjk2ZDczYjgzYSIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMyLjQyNDgiLCJkZXZpY2VMb24iOiItMTE2Ljg5ODMiLCJkZXZpY2VNb2RlbCI6IndlYiIsInVzZXJJZCI6IiIsImFwcE5hbWUiOiJ3ZWIiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi41MS4wIiwic3RpdGNoZXJSZXFJZCI6ImIyMWY3NGJhLWQ4YmMtNGMwOC1hYTE0LThiOGI5ZWMxNjE1MiIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTg3LjE4OS4yMTcuMjM4IiwiZGV2aWNlRE5UIjowLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzY5LjIuMC4xNzEzIFNhZmFyaS81MzcuMzYiLCJ0cmFuc2FjdGlvbl9pZCI6Ijk0ZjNjMmQ4LWE2YzgtNGJkNi05NGI2LTY2MGFjY2Y1NTQzZCIsImRldmljZVVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdPVzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjkuMi4wLjE3MTMgU2FmYXJpLzUzNy4zNiIsImlwQWRkcmVzcyI6IjE4Ny4xODkuMjE3LjIzOCIsImNoSWQiOiI1Zjk5OGMxZmM1NDg1MzAwMDc5N2JhY2QiLCJ0aW1lbGluZUlkIjoiNjAyNWY0ZWQ2YzYwOWMwMDA3ZTNjYjFiIiwiY2xpcElkIjoiNWZjYWQ0MTIzYjRmNGIwMDA3NzM3ZTU3Iiwic2Vzc2lvbklkIjoiMmNlMDI2MDAtNmY1ZS0xMWViLTljMDItMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWZkM2RmYjE3OTg2YjgwMDA3YWI4N2Y3IiwicGFydG5lckNvZGUiOiJUYXN0ZW1hZGUiLCJwYXJ0bmVyX2lkIjoiNTg4NjRmOTVkZGM3MDcwYzM4MzhhNGI4Iiwib3JpZ2luIjoiYWRTcGFyeCIsImZyb21fc3RpdGNoZXIiOnRydWV9&adsid=AXekj892uv7svgtmRgVe&chname=tastemade&pub=4233f0e7-76be-4539-b82b-762305c6f34d&acsurl=pluto-latam-tass-elb.adsparx.net&mcdn=tastemade-latam-plutolive-vo.akamaized.net%2Fl
-
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="MX",Tastemade
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="USA",Tastemade
+https://rapid1.gcdn.co/E151/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hungry" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="USA",Hungry
 https://food.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
@@ -379,6 +376,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 https://rapid1.gcdn.co/E94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="USA",H2
 https://rapid1.gcdn.co/E87/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="USA",ID
+https://rapid1.gcdn.co/E100/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="",Discover.Film (720p)
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -520,6 +519,17 @@ https://rapid1.gcdn.co/E105/tracks-v1a1/mono.m3u8
 https://rapid1.gcdn.co/E100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.OAPa95c__18UxnP-el_FBgHaC5&pid=Api&P=0&w=515&h=202" group-title="USA",TV ONE
 https://rapid1.gcdn.co/E163/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Paramount-Pictures-Logo.png" group-title="USA",Paramount 
+https://rapid1.gcdn.co/E131/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/682-6822589_much-tv-channel-logo-much-logo-white-png.png" group-title="USA",Much 
+https://rapid1.gcdn.co/E120/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/682-6822589_much-tv-channel-logo-much-logo-white-png.png" group-title="USA",WGM
+https://www.kindpng.com/picc/m/682-6822589_much-tv-channel-logo-much-logo-white-png.png
+#EXTINF:-1 tvg-logo="https://www.tvweek.com/wp-content/uploads/2014/08/vice-logo.png" group-title="USA",VICE
+https://rapid1.gcdn.co/E170/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TruTV_UK_logo.svg/1200px-TruTV_UK_logo.svg.png" group-title="USA",TRU TV
+https://rapid1.gcdn.co/E160/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="US",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
@@ -540,6 +550,8 @@ https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="SYFY",Comet TV
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-logo="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/Syfy-new-logo.jpg" group-title="SYFY",SYFY
+https://rapid1.gcdn.co/E150/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_em7nrwbm/def_height/838/def_width/1600/version/100012/type/2/q/100" group-title="Documentary",Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
@@ -748,10 +760,13 @@ http://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/c3/c3286c34dbeed56f5708c4b935fcfa58.jpeg" group-title="US",Pop
 https://rapid1.gcdn.co/E134/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="PH" tvg-url="" group-title="",Pop Life TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="USA" tvg-url="" group-title="USA",Pop Life TV
 https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 old
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_logotype.png" group-title="USA",TLC
+https://rapid1.gcdn.co/E156/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/232640342ea0e0e6e965532a16e90947ba3ba136db96a2e499ff7aaa85dcffed.png" group-title="USA",Filmrise Crime
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
@@ -793,6 +808,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="USA",Monarch Channel
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/12/TBS-logo-blue.png" group-title="USA",tbs
+https://rapid1.gcdn.co/E152/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7e/Ginx_eSports_TV_logo.png/revision/latest?cb=20160624154932" group-title="Gaming",GINX Esports TV
 https://rapid1.gcdn.co/E79/tracks-v1a1/mono.m3u8
