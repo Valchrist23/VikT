@@ -473,11 +473,7 @@ https://contvanime-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latecnologiaatualcance.com/wp-content/uploads/CONtv-Anime.png" group-title="ANIME",ConTV Anime
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Animelive delux" tvg-name="Twitch Anime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="ANIME",Anime Live Delux
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=www.twitch.tv/animelivedeluxe
-
 #EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Asian",Asiancrush (720p)
-
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.oXKcWpXr-Ff4Z_BkUiMIowHaDa&pid=Api&P=0&w=360&h=167" group-title="Cartoon",Totally Turtles
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -852,11 +848,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="Gaming",IGN
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/1280x720_2855600/index.m3u8
 
-#EXTINF:-1 tvg-id="ArcadeCloudBrazil.us" tvg-name="Arcade Cloud (Brazil)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mXOuzsx.png" group-title="",Arcade Cloud (Brazil) (720p)
-https://arcade-cloud-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ArcadeCloudMexico.us" tvg-name="Arcade Cloud (Mexico)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mXOuzsx.png" group-title="",Arcade Cloud (Mexico) (720p)
-https://arcade-cloud-mx.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" group-title="Music",MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
@@ -1152,13 +1143,11 @@ http://www.goolgirls.com/tv/adult-new.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" tvg-country="INT" tvg-url="" group-title="XXX",Hustler TV
 http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=15733cceccb00e232437c7bb2a2e6ddb-1596924108-17i821i222i981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ebayimg.com/images/g/J4wAAOSwAwRZpmeo/s-l1600.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Playboy TV
-https://r9uxprta46.azcdn107.net:8443/hls/0jnlo35uk82y.m3u8?s=e412A4-oa5ixxNPzAMh_Wg&e=1629240611
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=https://image.freepik.com/free-vector/candy-logo_1438-537.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Candy TV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/de/Private_TV_(2014-.n.v.).png/revision/latest?cb=20180313074313"", Private TV
-http://87.207.71.147:4000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
