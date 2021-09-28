@@ -691,6 +691,8 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u
 
 #EXTINF:-1 tvg-logo="http://www.ghafla.com/ke/wp-content/uploads/sites/4/2020/07/BeFunky-collage-2020-07-07T135249.941-scaled.jpg" group-title="USA",Switch TV
 https://simultv.s.llnwi.net/o062/Switch/interlink.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-secHjR1P4cg/TjhIVp78h_I/AAAAAAAAB2g/G6P1UrL44fs/s500/OLN+logo+2011.png" group-title="Global",OLN
+https://rapid1.gcdn.co/E126/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global", Dustx
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
