@@ -717,6 +717,10 @@ https://rapid1.gcdn.co/E126/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global", Dustx
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global",Dust SCI-FI
+https://rapid1.gcdn.co/E57/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global", Dustx
+https://rapid1.gcdn.co/E56/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Documentary", Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5c6faadd-21fe-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
