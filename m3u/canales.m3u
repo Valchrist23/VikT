@@ -416,8 +416,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
       
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/202-2027181_green-question-mark-and-speech-bubble-icon-question.png" group-title="?",Unknown
 http://184.173.181.2:1935/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwhojPQBLGVxizDJkj7Kb1tClyQ2Z7rj74uzwLh=s900-c-k-c0xffffffff-no-rj-mo" group-title="?",Unidentified
-https://rapid1.gcdn.co/E164/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/10/Disney-International-HD-logo_3.jpg" group-title="US",Disney International
+https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Cartoon",Cartoon Network
 https://rapid1.gcdn.co/E3/tracks-v1a1/mono.m3u8
