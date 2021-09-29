@@ -292,9 +292,6 @@ https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Gusto_TV_logo.jpg" group-title="Cooking",Stirr gusto
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thebrandusa.com/sites/default/files/news/images/gousa-tv-hero-gradient_0.png" group-title="Cooking",Go USA
-https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appétit" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
@@ -351,11 +348,10 @@ https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 -----------------------------------------Entertainment---------------------------------------------
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LnF1aWxtZXN2aXNpb25fc2NyZWVuXzBfMTUzNzcwNTgzNV8wMDA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="LAT",Canal 29
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="LAT", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -365,6 +361,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="US",Crackle TV
 http://crackle-xumo.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/238-2388865_cmt-logo-png-transparent-png.png" group-title="US",CMT
 https://rapid1.gcdn.co/E33/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="US",Cozi TV
@@ -375,8 +372,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV Now" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General",AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV Now" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General",AXS TV Now (1080p)
-https://rapid1.gcdn.co/E19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="US",Discovery Channel
 https://rapid1.gcdn.co/E47/tracks-v1a1/mono.m3u8
