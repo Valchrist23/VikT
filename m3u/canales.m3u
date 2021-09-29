@@ -11,10 +11,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es" group-title="MX", Canal 5
 https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es" group-title="Local",Canal 5 (XETV-TDT)
-
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/bb/Super_tv.png/revision/latest?cb=20140502214826" group-title="IT", Cartoons
-https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png"group-title="LAT",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
