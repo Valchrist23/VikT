@@ -54,6 +54,7 @@ old
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 tvg-name="Galavision" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="MX",Galavision
 https://rapid1.gcdn.co/E75/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 old
@@ -673,13 +674,9 @@ https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="US",AMC Rush
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="US",AMC Rush
-https://rapid1.gcdn.co/E9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_(platinum).jpg/1200px-AWE_Logo_(platinum).jpg" group-title="USA",AWE
 http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_(platinum).jpg/1200px-AWE_Logo_(platinum).jpg" group-title="USA",AWE
-https://rapid1.gcdn.co/E18/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="US", CNN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d2feb4d8-21b7-11eb-9bad-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -698,8 +695,6 @@ http://cdnak8.cast4u.info/channels/3/10803.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/560352.png" group-title="USA",E!
 https://rapid1.gcdn.co/E58/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
-https://rapid1.gcdn.co/E63/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
@@ -788,8 +783,8 @@ https://rapid1.gcdn.co/E134/tracks-v1a1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XD2DLYaFtzIf-dWxbcecgAHaCW&pid=Api&P=0&w=526&h=168" group-title="USA",BET
 https://rapid1.gcdn.co/E21/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XD2DLYaFtzIf-dWxbcecgAHaCW&pid=Api&P=0&w=526&h=168" group-title="USA",BET Jams
-https://rapid1.gcdn.co/E23/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/232640342ea0e0e6e965532a16e90947ba3ba136db96a2e499ff7aaa85dcffed.png" group-title="USA",Filmrise Crime
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 
@@ -834,7 +829,6 @@ https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
 https://rapid1.gcdn.co/E152/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7e/Ginx_eSports_TV_logo.png/revision/latest?cb=20160624154932" group-title="Gaming",GINX Esports TV
-https://rapid1.gcdn.co/E79/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="Gaming",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -863,7 +857,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c
 
 #EXTINF:-1, tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="Music", MTV | HD 
 
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_9QOWhWoCY-Q/S5dyyu3yyNI/AAAAAAAAAC0/bGmAkQCBCTY/s320/Ep+logo.bmp" group-title="Music", EP
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
@@ -873,7 +866,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/1024px-One_HD_Logo.svg.png" group-title="Music", 1HD 
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8 
 
-#EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest?cb=20100526164945" group-title="Music", Music Retro
+#EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-retro-music-tv.jpg" group-title="Music", Music Retro
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 
