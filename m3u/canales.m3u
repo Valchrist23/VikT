@@ -744,6 +744,9 @@ https://rapid1.gcdn.co/E134/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_logotype.png" group-title="USA",TLC
 https://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_logotype.png" group-title="USA",TLC
+https://feed.play.mv/live/10005200/HE8qFtMl9Q/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XD2DLYaFtzIf-dWxbcecgAHaCW&pid=Api&P=0&w=526&h=168" group-title="USA",BET
 https://rapid1.gcdn.co/E21/tracks-v1a1/mono.m3u8
 
