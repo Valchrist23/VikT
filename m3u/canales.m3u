@@ -857,7 +857,7 @@ https://www.youtube.com/watch?v=5F_kbM2DSpY
 #EXTINF:-1, Movies8 24/7
 https://www.youtube.com/watch?v=UbmXX4djv2M
 
-#EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="LAT", Wow TV
+#EXTINF:-1 tvg-logo="https://www.hometheaterforum.com/wp-content/uploads/2020/02/WOW_Logo-1024x266.jpg" group-title="LAT", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
