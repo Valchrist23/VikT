@@ -455,8 +455,7 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="ANIME",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="ANIME",Anime All Day
-https://rapid1.gcdn.co/E14/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="5c363ac9e41be30cb6054c7c" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="PLUTO UK",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -506,33 +505,6 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/640x360_700000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/75/8e/1a/758e1a7ae656c3ddb4ac6b677c5fdb16.png" group-title="USA",Freeform
-https://rapid1.gcdn.co/E68/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logonoid.com/images/fuse-logo.png" group-title="USA",Fuse
-https://rapid1.gcdn.co/E69/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.complex.com/image/upload/w_650/complex_nbiphu.jpg" group-title="USA",Complex
-https://rapid1.gcdn.co/E39/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/1200px-ION_Television_2016.svg.png" group-title="USA",ION 
-https://rapid1.gcdn.co/E101/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="USA",ION Plus
-https://rapid1.gcdn.co/E102/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.laff.com/wp-content/uploads/2015/04/laff-logo3.jpg" group-title="USA",Laff
-https://rapid1.gcdn.co/E105/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.OAPa95c__18UxnP-el_FBgHaC5&pid=Api&P=0&w=515&h=202" group-title="USA",TV ONE
-https://rapid1.gcdn.co/E163/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Paramount-Pictures-Logo.png" group-title="USA",Paramount 
-https://rapid1.gcdn.co/E131/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/682-6822589_much-tv-channel-logo-much-logo-white-png.png" group-title="USA",Much 
-https://rapid1.gcdn.co/E120/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/81/9d/43/819d43ebe81fafb07a7b254be6e85be1.jpg" group-title="USA",WGM
-https://rapid1.gcdn.co/E175/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvweek.com/wp-content/uploads/2014/08/vice-logo.png" group-title="USA",VICE
-https://rapid1.gcdn.co/E170/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TruTV_UK_logo.svg/1200px-TruTV_UK_logo.svg.png" group-title="USA",TRU TV
-https://rapid1.gcdn.co/E160/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2018/03/12/152558/OWN_logo.png" group-title="USA",OWN
-https://rapid1.gcdn.co/E129/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="US",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
@@ -627,9 +599,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX LA
 https://rapid1.gcdn.co/E66/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
-notwork
-http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png",Sony PIX
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
 http://203.154.243.89:11205/
 
