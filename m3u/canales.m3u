@@ -1041,6 +1041,8 @@ https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
 https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/adrenalinerush.png" group-title="Movies",Local Now Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnowscifi.png" group-title="Movies",Local Now SCI-FI
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist_1280x720.m3u8     
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="USA",Local Now 00 Movies
 https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now 00s Movies
