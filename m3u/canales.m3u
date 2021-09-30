@@ -886,6 +886,12 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN 
 https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzMlL2N-kabGSYCA0Iukl_MFnaUp_IAmzlwVw=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA",SONY TEN 1 
+https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20170818190243" group-title="USA",SONY TEN 3 
+https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
 
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="Sports",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
