@@ -377,8 +377,11 @@ https://rapid1.gcdn.co/E47/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/2dPCepc9DA/1.m3u8
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="US",History Channel (Best of)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="US",History Channel
-https://rapid1.gcdn.co/E94/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="US",History Channel 
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
+ES
+http://185.41.244.69/historia/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="US",H2
 https://rapid1.gcdn.co/E87/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="USA",ID
@@ -423,6 +426,8 @@ http://184.173.181.2:1935/8072/8072/playlist.m3u8
 https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Cartoon",Cartoon Network
+http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+old
 https://rapid1.gcdn.co/E3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Cartoon",Cartoon 
 https://linear-239.frequency.stream/dist/localnow/239/hls/master/playlist.m3u8
@@ -439,6 +444,7 @@ http://azxtv.com/hls/stream.m3u8
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/dreamlogos/images/0/01/Animax_Cheyenne.png/revision/latest?cb=20170207030639" group-title="ANIME",Animax EN
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy2Z-c1eezn0kcIpP0XuY7smLxuzlsC7EXPWw=s900-c-k-c0xffffffff-no-rj-mo" group-title="ANIME",Animestation
 
 #EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="ANIME",AT-X
@@ -685,6 +691,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",Comedy Central en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="US",Comedy Central
+http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
+old
 https://tvstream.space/jtv/mhdliveexXx.php?c=Comedy_Central_HD&=800&e=.m3u8
 https://rapid1.gcdn.co/E35/tracks-v1a1/mono.m3u8
 
@@ -863,7 +871,7 @@ https://www.youtube.com/watch?v=UbmXX4djv2M
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
-
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 -----------------------------------------Sports----------------------------------------------------------
 
