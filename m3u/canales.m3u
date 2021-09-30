@@ -740,6 +740,8 @@ https://d3s1xaoyhrialn.cloudfront.net/CAS/index_720p30.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/c3/c3286c34dbeed56f5708c4b935fcfa58.jpeg" group-title="US",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+old
 http://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/c3/c3286c34dbeed56f5708c4b935fcfa58.jpeg" group-title="US",Pop
 https://rapid1.gcdn.co/E134/tracks-v1a1/mono.m3u8
