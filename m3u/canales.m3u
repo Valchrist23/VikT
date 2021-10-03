@@ -423,8 +423,10 @@ https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 old
 https://rapid1.gcdn.co/E3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Cartoon",Cartoon 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dan-vs-logo-AAF91DA33E-seeklogo.com.png" group-title="Cartoon",Dan VS.
 https://linear-239.frequency.stream/dist/localnow/239/hls/master/playlist.m3u8
+
+https://seeklogo.com/images/D/dan-vs-logo-AAF91DA33E-seeklogo.com.png
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
