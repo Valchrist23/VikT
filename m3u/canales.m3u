@@ -423,10 +423,6 @@ https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 old
 https://rapid1.gcdn.co/E3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dan-vs-logo-AAF91DA33E-seeklogo.com.png" group-title="Cartoon",Dan VS.
-https://linear-239.frequency.stream/dist/localnow/239/hls/master/playlist.m3u8
-
-https://seeklogo.com/images/D/dan-vs-logo-AAF91DA33E-seeklogo.com.png
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -645,6 +641,7 @@ http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d2feb4d8-21b7-11eb-9bad-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png" group-title="", TMC
+no
 https://rapid1.gcdn.co/E153/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33
@@ -717,8 +714,7 @@ http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
 #EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART", Fasion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART", Fasion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/209/603/681/paris-fashion-week-london-fashion-week-fashion-show-fashion.jpg" group-title="ART", Fasion TV
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 
@@ -987,7 +983,8 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-name="Bloody Disgusting" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting (1080p)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dan-vs-logo-AAF91DA33E-seeklogo.com.png" group-title="Cartoon",Dan VS. 24/7
+https://linear-239.frequency.stream/dist/localnow/239/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:0 tvg-logo="https://static.next-episode.net/tv-shows-images/huge/mr.-pickles.jpg" group-title="",Mr. Pickles
@@ -1096,6 +1093,9 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
 
 -----------------------------------------Adult---------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART", Fasion TV Midnight Haute
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV (720p)
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w214662580_b2592000.m3u8
