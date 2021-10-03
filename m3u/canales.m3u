@@ -10,6 +10,8 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es" group-title="MX", Canal 5
 https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/334-3346615_logo-las-estrellas-logo-de-canal-de-las.png" group-title="MX", Canal de las Estrellas
+http://38.131.11.9:1080/play/a032
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/bb/Super_tv.png/revision/latest?cb=20140502214826" group-title="IT", Cartoons
 
@@ -35,6 +37,8 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1783535162_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
 
 old
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w2119553498_DVR.m3u8
@@ -174,8 +178,9 @@ https://rpn1.bozztv.com/36bay2/gusa-ptd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
-https://rapid1.gcdn.co/E166/tracks-v1a1/mono.m3u8
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="MX",Unimas
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
@@ -198,6 +203,8 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MX",Milenio TV
 https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
 notworking
+
+https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 
 
@@ -392,6 +399,8 @@ https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 same
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS Sandiego
+https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdqnqGxUudF8aHYlABgTH4dnMqRQjO65v_KANaxAW_FOy6w0BMXGeATM" group-title="US",PBS Kids
@@ -606,8 +615,11 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBSN
 https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC 
-https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_61e7x33e/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC LA
+https://cdn87.theus6tv.tk/locals/SoCal/knbc-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC Sandiego
+https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC News NOW
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
