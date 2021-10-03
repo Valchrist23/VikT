@@ -358,11 +358,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="US",Crackle TV
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/238-2388865_cmt-logo-png-transparent-png.png" group-title="US",CMT
-https://rapid1.gcdn.co/E33/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="US",Cozi TV
-https://rapid1.gcdn.co/E44/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="US",My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -403,9 +398,6 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS New
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cunninghamtelephoneandcable.com/wp-content/uploads/2017/02/bbc-america-logo.jpg" group-title="US",BBC America
-https://rapid1.gcdn.co/E20/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/The_Asylum_Logo.jpg/revision/latest?cb=20160827170704" group-title="US",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
@@ -505,8 +497,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w12KdgA.png" group-title="USA",Hallmark Channel
-https://rapid1.gcdn.co/E88/tracks-v1a1/mono.m3u8
-old
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies & More
@@ -533,7 +523,6 @@ https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="SYFY",Comet TV
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 tvg-logo="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/Syfy-new-logo.jpg" group-title="SYFY",SYFY
-https://rapid1.gcdn.co/E150/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_em7nrwbm/def_height/838/def_width/1600/version/100012/type/2/q/100" group-title="Documentary",Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
@@ -797,9 +786,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Movies",Black Cinema
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" tvg-country="US" tvg-url="" group-title="Movies",Pelís y Popcorn
+#EXTINF:-1 tvg-id="60fb2f47c133270007327375" tvg-name="Pelis y Popcorn" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" tvg-country="MX" tvg-url="https://i.mjh.nz/PlutoTV/us.xml" group-title="Movies",Pelis y Popcorn
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=376ab1a0-1f46-11ec-b907-0242ac110003&deviceId=e06a8d5f-8c14-47c6-9cbd-8fef4b8d4fe0&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
+                                                                
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="US" tvg-url="" group-title="Movies",Pluto TV Horror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f9ad5bd3-0b12-11eb-a751-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0544&deviceLon=-118.2440&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
