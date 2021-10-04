@@ -595,7 +595,7 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX LA
 https://rapid1.gcdn.co/E66/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX 2 ST. Louise
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX 2 ST Louise
 https://iptv-all.lanesh4d0w.codes/united-states/ktvi-tv
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX Tulsa
 https://d1qauyesiiplpj.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a6c3588e35957ea840bb02_koki-live-1/e13a6437-9c85-428e-a079-a88f84dbbd7a/0.m3u8
@@ -603,12 +603,8 @@ https://d1qauyesiiplpj.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b
 https://iptv-all.lanesh4d0w.codes/united-states/fox-minneapolis
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX 
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX 15
-https://iptv-org.github.io/iptv/index.m3u
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX 28 Savannah GA
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png", FOX 32 Chicago
-https://iptv-org.github.io/iptv/index.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png",Sony PIX
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
