@@ -172,6 +172,8 @@ old
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 https://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Phoenix
+https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.joxfm.com/wp-content/uploads/sites/623/2016/07/Primetime-Logo-Word.png" group-title="US",Prime Time Drama
 https://rpn1.bozztv.com/36bay2/gusa-ptd/playlist.m3u8
@@ -245,7 +247,8 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_(Chile)_logo.svg/1200px-Canal_13_(Chile)_logo.svg.png" group-title="CHILE",Canal 13
 http://186.101.216.211:8000/play/ca13
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord
+https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord 10
@@ -490,8 +493,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.38NoyZBRu8vlrFDCyFUSKAAAAA&pid=Api&P=0&w=215&h=158" group-title="USA",Shout! Factory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w12KdgA.png" group-title="USA",Hallmark Channel
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w12KdgA.png" group-title="USA",Spike Adventura
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/640x360_700000/index.m3u8
@@ -610,6 +613,8 @@ https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 https://cdn87.theus6tv.tk/locals/SoCal/knbc-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC Sandiego
 https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC Chicago
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC News NOW
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
@@ -745,6 +750,7 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/c3/c3286c34dbeed56f5708c4b935fcfa58.jpeg" group-title="US",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
 old
 http://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/c3/c3286c34dbeed56f5708c4b935fcfa58.jpeg" group-title="US",Pop
@@ -830,8 +836,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c
 
 #EXTINF:-1 tvg-id="VH1 - Eastern Feed-US" tvg-name="VH1 - Eastern Feed-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-country="US" tvg-url="" group-title="Music",VH1
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_9QOWhWoCY-Q/S5dyyu3yyNI/AAAAAAAAAC0/bGmAkQCBCTY/s320/Ep+logo.bmp" group-title="Music", EP
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_9QOWhWoCY-Q/S5dyyu3yyNI/AAAAAAAAAC0/bGmAkQCBCTY/s320/Ep+logo.bmp" group-title="Music",Sexy KPop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ZrI38xiYMEAmCbQhQX2qZgHaEI&pid=Api&P=0&w=328&h=184" group-title="Music", FoxMixClub
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
