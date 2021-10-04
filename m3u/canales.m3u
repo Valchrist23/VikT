@@ -234,16 +234,6 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1382837405
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png/186px-Antiguo_logo_de_Canal_Once_%28once_TV%29.png" group-title="MX",Canal Once IPN | HD 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="MX",Cosmo TV | HD 
-no
-http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
-
-other
-http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA6NAaaJM9k0gcBTmpG8qASqfkrXwRb0NQ0Zw=s900-mo-c-c0xffffffff-rj-k-no" group-title="MX", Quiero TV 
-no
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOolyxCP-pBnkAOLyZOT3OUU)/dm/3/x8452uw/s/live-2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Rq4tjGFeh0v0i4iM053e7AAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
@@ -264,9 +254,6 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" group-title="LAT",Tele Sur Costarica
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
-
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
 
 -----------------------------------------Kitchen---------------------------------------------
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
