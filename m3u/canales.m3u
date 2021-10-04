@@ -7,6 +7,8 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitc
 https://cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8
 Not working
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_(2018_logo).png/175px-Nueve_(2018_logo).png" group-title="MX",Televisa Zacatecas
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es" group-title="MX", Canal 5
 https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
@@ -17,6 +19,8 @@ http://38.131.11.9:1080/play/a032
 
 #EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png"group-title="LAT",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
+old worki
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="MX",Dreiko TV
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/chunklist_w1455920191.m3u8
@@ -100,6 +104,8 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZX1yZOdQprAYgd5IBsO7lT4)/dm/3/x7v76vf/s/live-1.m3u8
 old
 https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdsoaWkLwZ0xH14a6M3TSYk)/dm/3/x7v76vf/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20111017105347/logopedia/images/2/23/Travel_xp_hd.png" group-title="MX",Mexico Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.b7PIHQfP5vKexG6sbfZigQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Go Traveler
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/1280x720_5000000/index.m3u8
@@ -205,6 +211,7 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MX",Milenio TV
 https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
 notworking
+
 
 https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
@@ -357,6 +364,12 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="US",My Time Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="US",My TV
+https://cdn87.theus6tv.tk/locals/Fresno/kmsg-53.1.m3u8
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="US",My TV4
+https://cdn87.theus6tv.tk/locals/BayArea/kron-dt1.m3u8
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="US",My TV LA
+https://cdn87.theus6tv.tk/locals/SoCal/kcop-dt1.m3u8
 
 #EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV Now" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General",AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
@@ -655,9 +668,8 @@ https://rapid1.gcdn.co/E153/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT 
-olf
-http://cdnak8.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1081016/FYSA_Logo.jpg?p=publish" group-title="USA",Funny you should ask
+https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/560352.png" group-title="USA",E!
 old
@@ -668,15 +680,11 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u
 
 #EXTINF:-1 tvg-logo="http://www.ghafla.com/ke/wp-content/uploads/sites/4/2020/07/BeFunky-collage-2020-07-07T135249.941-scaled.jpg" group-title="USA",Switch TV
 https://simultv.s.llnwi.net/o062/Switch/interlink.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-secHjR1P4cg/TjhIVp78h_I/AAAAAAAAB2g/G6P1UrL44fs/s500/OLN+logo+2011.png" group-title="Global",OLN
-https://rapid1.gcdn.co/E126/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global", Dustx
+#EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global",Dustx
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global",Dust SCI-FI
-https://rapid1.gcdn.co/E57/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global", Dustx
-https://rapid1.gcdn.co/E56/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Global",Ion Plus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Documentary", Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5c6faadd-21fe-11eb-aa17-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -852,8 +860,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1, tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music", 1Mus
 http://rtmp.one.by:2300 
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.f6CRu0wyDg2h-LZtdvZ2PgHaEK&pid=Api&P=0&w=328&h=185" group-title="Music", CHAU Music Tv
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.radiohuesca.com/files/article_main/uploads/2018/03/14/5aa9399b36d5f.jpeg" group-title="Music",Maxima Tv FM
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="US",Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
@@ -1083,17 +1091,25 @@ https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist_1280x7
 https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now 00s Movies
 https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now 2010
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now 2020
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localmovie200.png" group-title="Movies",Local Now Discover
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/1280px-Epix_Logo_2009.svg.png" group-title="Movies",epix
-https://rapid1.gcdn.co/E59/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/Epix_2.svg/revision/latest?cb=20170922185058" group-title="Movies",epix2
 
 https://rapid1.gcdn.co/E60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/ff/Epix-hits-logo.jpg/revision/latest?cb=20150930093838" group-title="Movies",epix HITS
 
 https://rapid1.gcdn.co/E62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/epix2019_drive.png" group-title="Movies",epix Drive In
 
-https://rapid1.gcdn.co/E61/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ZQml7eWKin0/Uc7udCx8vRI/AAAAAAABwsY/mE4_N4Rkizg/s1600/TOP-CINE-NOVO-LOGOTIPO.jpg" group-title="Global",TV Cine Top
+http://185.236.229.21:9981/play/a04w
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ZQml7eWKin0/Uc7udCx8vRI/AAAAAAABwsY/mE4_N4Rkizg/s1600/TOP-CINE-NOVO-LOGOTIPO.jpg" group-title="Global",TV Cine Action
+http://185.236.229.21:9981/play/a04n
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
@@ -1201,7 +1217,7 @@ http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QsLRpQtq42Q/hqdefault.jpg" group-title="Documentary", History
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT",Ticavision
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Info",Canal 11
-
+   https://tse1.mm.bing.net/th?id=OIP.f6CRu0wyDg2h-LZtdvZ2PgHaEK&pid=Api&P=0&w=328&h=185
 
 #EXTINF:-1 channel-id="324" channel-name="channel Reality Mashup" tvg-logo="http://mashupnorway.com/wp-content/uploads/2015/04/MashUp_Logo_Black_Blue_ml3.png"group-title="US",Reality Mashup
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS11/chunks.m3u8
