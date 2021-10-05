@@ -7,6 +7,8 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitc
 https://cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8
 Not working
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_(2018_logo).png/175px-Nueve_(2018_logo).png" group-title="MX",Televisa Zacatecas
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es" group-title="MX", Canal 5
 https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
@@ -215,10 +217,9 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" group-title="MX", Teleformula 1
-https://stream-02.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJquZUY6bwyUDJYKqQwqfyMCY)/dm/3/x7u0spq/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" group-title="MX", Teleformula
+https://stream-01.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJquZUY6bwyUDJYKqQwqfyMCY)/dm/3/x7u0spq/s/live-2.m3u8
 
-old
 https://stream-02.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqkhiYXM5KmOubf2rF7HN6-I)/dm/3/x7u0spq/s/live-3.m3u8
 old
 https://stream-02.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqlbuB2QrrqBCmXePJswrljQ)/dm/3/x7u0spq/s/live-2.m3u8
