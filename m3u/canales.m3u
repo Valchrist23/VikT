@@ -102,10 +102,12 @@ Old
 https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/Mexico-Travel-Internacional-Logo.jpg" group-title="MX",Mexico Travel TV
-https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZX1yZOdQprAYgd5IBsO7lT4)/dm/3/x7v76vf/s/live-1.m3u8
+https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVEQgL9lpBMLfCR2_EQXzcY)/dm/3/x7v76vf/s/live-1.m3u8
+
 old
+https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZX1yZOdQprAYgd5IBsO7lT4)/dm/3/x7v76vf/s/live-1.m3u8
 https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdsoaWkLwZ0xH14a6M3TSYk)/dm/3/x7v76vf/s/live-1.m3u8
-#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20111017105347/logopedia/images/2/23/Travel_xp_hd.png" group-title="MX",Mexico Travel XP
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20111017105347/logopedia/images/2/23/Travel_xp_hd.png" group-title="MX",Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.b7PIHQfP5vKexG6sbfZigQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Go Traveler
@@ -167,9 +169,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" group-title="LAT",TV Madrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hola.tv/wp-content/uploads/2016/12/logo.png" group-title="LAT",Hola TV
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="LAT",Factoria TV
-http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo
 https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
