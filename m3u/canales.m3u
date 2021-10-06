@@ -43,6 +43,7 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1783535162_DV
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
 
+https://unlimited2-cl.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
 old
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w2119553498_DVR.m3u8
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
@@ -56,7 +57,8 @@ https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w77957862
 https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3 Viejo
-old
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 #EXTINF:-1 tvg-name="Galavision" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="MX",Galavision
 https://rapid1.gcdn.co/E75/tracks-v1a1/mono.m3u8
@@ -280,6 +282,8 @@ https://rapid1.gcdn.co/E151/tracks-v1a1/mono.m3u8
 https://food.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://soyummy.com/wp-content/themes/soyummy/partials/header/assets/soyummy-logo.png" group-title="Cooking", So Yummy 
 https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/1920x1080_5055600/index.m3u8
@@ -320,10 +324,6 @@ https://rapid1.gcdn.co/E168/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yu2IXMrIPYKwyeIpGo8qOQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Delicioso
-old
-https://unidfpclnlds139.akamaized.net/linear/hls/pa/event/Fiw4iaQ6RXu4iWOVh8eTZg/stream/5b6444ab-30ac-4570-b828-bcfb5a711a1f:CHS/variant/08d0a2d5fe098216c3952bd6be692f71/bandwidth/4500000.m3u8?hdntl=exp=1613063864~acl=*~id=27024930-1655-4003-a335-e233063ab839~data=hdntl~hmac=d860b9493db3fa65df2eb35fb3487349aae98e5d9832a1a2d3c48541f3635191
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/1200px-DIY_Network_logo.svg.png" group-title="US",DiY Network
 https://rapid1.gcdn.co/E52/tracks-v1a1/mono.m3u8
@@ -751,6 +751,9 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1280px-AXN_logo_(2015).svg.png" group-title="US",AXN
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoClaro.png.56f8f5f48692ea77729dbfa92336c4ea.png" group-title="MX",Star Channel
+http://tecnotv.club/oc5/smartv2.php?c=FOX.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UeOVgf9g6j8/AAAAAAAAAAI/AAAAAAAAAAA/OC5yCVLgJH8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US",Bextreme No 24/7
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom
@@ -891,6 +894,12 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO MX
+http://tecnotv.club/oc5/smartv2.php?c=HBO.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO POP
+http://tecnotv.club/oc5/smartv2.php?c=HBOPOP.m3u8
+
+
 -----------------------------------------Sports----------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports",CBS Sports HQ
@@ -945,8 +954,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=376ab1a0-1f46-11ec-b907-0242ac110003&deviceId=e06a8d5f-8c14-47c6-9cbd-8fef4b8d4fe0&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/gol-tv-logo-1.png" group-title="USA",Gol TV
- 
-https://rapid1.gcdn.co/E80/tracks-v1a1/mono.m3u8
+http://tecnotv.club/oc5/smartv2.php?c=GOLTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png?w=117" group-title="USA",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=71ff2fa4-02d9-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
