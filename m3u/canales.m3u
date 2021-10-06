@@ -195,7 +195,7 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="MX",Foro TV
 https://dai.google.com/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
 old
 https://adinsertprimeforotv.akamaized.net/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
@@ -494,7 +494,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.38NoyZBRu8vlrFDCyFUSKAAAAA&pid=Api&P=0&w=215&h=158" group-title="USA",Shout! Factory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cpng.pikpng.com/pngl/s/81-817767_spike-logo-png-spike-tv-logo-png-clipart.png" group-title="USA",Spike Adventura
+#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/spike-tv-logo.png" group-title="USA",Spike Adventura
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies & More
@@ -781,7 +781,6 @@ https://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
 https://feed.play.mv/live/10005200/HE8qFtMl9Q/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XD2DLYaFtzIf-dWxbcecgAHaCW&pid=Api&P=0&w=526&h=168" group-title="USA",BET
-https://rapid1.gcdn.co/E21/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/232640342ea0e0e6e965532a16e90947ba3ba136db96a2e499ff7aaa85dcffed.png" group-title="USA",Filmrise Crime
@@ -825,7 +824,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="USA",Monarch Channel
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/12/TBS-logo-blue.png" group-title="USA",tbs
-https://rapid1.gcdn.co/E152/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7e/Ginx_eSports_TV_logo.png/revision/latest?cb=20160624154932" group-title="Gaming",GINX Esports TV
 
