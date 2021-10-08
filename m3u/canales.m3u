@@ -752,7 +752,7 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoClaro.png.56f8f5f48692ea77729dbfa92336c4ea.png" group-title="MX",Star Channel
-http://tecnotv.club/oc5/smartv2.php?c=FOX.m3u8
+http://tecnotv.club/oc5/plutotv.php?c=5e793a7cfbdf780007f7eb75
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UeOVgf9g6j8/AAAAAAAAAAI/AAAAAAAAAAA/OC5yCVLgJH8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US",Bextreme No 24/7
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
@@ -893,11 +893,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO MX
-http://tecnotv.club/oc5/smartv2.php?c=HBO.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO POP
-http://tecnotv.club/oc5/smartv2.php?c=HBOPOP.m3u8
-
 
 -----------------------------------------Sports----------------------------------------------------------
 
@@ -953,7 +948,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=376ab1a0-1f46-11ec-b907-0242ac110003&deviceId=e06a8d5f-8c14-47c6-9cbd-8fef4b8d4fe0&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/gol-tv-logo-1.png" group-title="USA",Gol TV
-http://tecnotv.club/oc5/smartv2.php?c=GOLTV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png?w=117" group-title="USA",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=71ff2fa4-02d9-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -1030,9 +1025,9 @@ http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="LABEL",~ 24/7 Adult Swim Geo-Blocked ~
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/4b/c3/77/4bc377f1cc08a977a7e6e7ca0b9cea29.jpg" group-title="24/7",The Simpsons
-http://tecnotv.club/oc5/smartv2.php?c=247_SIMPSONS.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/supercampeones/images/f/f8/Supercampeones_Title.png/revision/latest?cb=20110808234016&path-prefix=es" group-title="24/7",Super Campeones
-http://tecnotv.club/oc5/smartv2.php?c=247_SUPERCAMPEONES.m3u8
+
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="Action",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
