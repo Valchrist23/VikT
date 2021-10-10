@@ -428,6 +428,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
       
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/202-2027181_green-question-mark-and-speech-bubble-icon-question.png" group-title="?",Unknown
 http://184.173.181.2:1935/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/preview/KS_KidFlix2_KF2_PS_Logo.jpg" group-title="?",KidFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/10/Disney-International-HD-logo_3.jpg" group-title="US",Disney International
 https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
 
