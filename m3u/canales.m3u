@@ -216,10 +216,8 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8
 https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
 notworking
 
-
 https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" group-title="MX", Teleformula
 https://stream-01.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJquZUY6bwyUDJYKqQwqfyMCY)/dm/3/x7u0spq/s/live-2.m3u8
@@ -580,9 +578,8 @@ https://rapid1.gcdn.co/E73/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tibs2.threeifbyspace.net/wp-content/uploads/2017/05/SYFY-Horizontal-Logo_Color.jpg" group-title="USA",Pluto TV Sci-Fi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="SciFi" tvg-logo="https://i.imgur.com/aUVVsSq.png" group-title="UDU TV USA", SciFi
-https://7f6c646754a74e90b9afad0ed13b1e32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af5a39cfef1f2542d365/playlist.m3u8
-
+#EXTINF:-1 tvg-name="SciFi" tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/5a6e6537-cbe7-40a8-8d79-875f74b5c2f7" group-title="US",Bumblebee Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://worldscreen.com/tvusa/wp-content/uploads/sites/18/2017/07/Electric-Now-logo-1019.jpg" group-title="Movies",Electric Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 
@@ -866,6 +863,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="Gaming",IGN
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/bumblebeetv/general/5a6e6537-cbe7-40a8-8d79-875f74b5c2f7" group-title="Gaming",The Fun Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/chunklist_w416529672.m3u8
+workin
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" group-title="Music",MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
