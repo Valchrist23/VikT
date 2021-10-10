@@ -285,7 +285,7 @@ https://rapid1.gcdn.co/E151/tracks-v1a1/mono.m3u8
 https://food.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52
+
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://soyummy.com/wp-content/themes/soyummy/partials/header/assets/soyummy-logo.png" group-title="Cooking", So Yummy 
@@ -371,6 +371,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="US",A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://screenanarchy.com/assets_c/2019/09/FEAR%20MACHINE%20LOGO-thumb-860xauto-76497.jpg" group-title="US",Horror Machines
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="US",Discovery HD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
