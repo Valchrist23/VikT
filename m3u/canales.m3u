@@ -322,7 +322,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f0530008
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/6/6a/Usa-network-logo_131116012234.jpg/revision/latest?cb=20141224055213" group-title="USA",USA
 no
-https://rapid1.gcdn.co/E168/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/71/1b/12711b26fa552192880f0d35be8a615b.jpg" group-title="USA",USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
 
