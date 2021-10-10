@@ -658,6 +658,8 @@ https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.new.livestream.com/accounts/00000000017eb8f0/39405900-788a-4ff6-bad9-755051187000.png" tvg-country="US" tvg-url="" group-title="Local",KUSI
 https://dai.google.com/linear/hls/event/YQrqEzS-QkeI4UECvYoWDA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.new.livestream.com/accounts/00000000017eb8f0/39405900-788a-4ff6-bad9-755051187000.png" tvg-country="US" tvg-url="" group-title="Local",KUSI
+https://cdn87.theus6tv.tk/locals/SanDiego/kusi-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="US", KTLA
 https://dcs-live.apis.anvato.net/server/play/50ZGbepT8XD8SGRA/rendition.m3u8?track=video-2&anvsid=i177605068-n29ed6948-5653-4aaa-95c5-02616ab5d668&ts=1633550132&anvtrid=6db6db7f3da362fe6504544e6b1cd091
