@@ -1023,7 +1023,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 -----------------------------------------Dedicated 24/7---------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-country="US" tvg-url="" group-title="",American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-country="US" tvg-url="" group-title="",Haunt TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/www.haunttv.ca/829edcc1-haunttvlogo-260x147_1000000000000000000028.png" tvg-country="US" tvg-url="" group-title="",Haunt TV
 https://haunttv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-name="Bloody Disgusting" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting (1080p)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
@@ -1274,6 +1274,12 @@ epg
 https://helmerluzo.github.io/PlutoTV_HL/enlaces.html
 https://forums.whirlpool.net.au/go?https%3A%2F%2Ftechzyon.com%2Fepg%2Fplutotv_guide.xml
 https://techzyon.com/epg/plutotv_guide.xml
+
+
+PLEX EPG
+https://i.mjh.nz/Plex/all.xm
+Stirr EPG
+https://i.mjh.nz/Stirr/epg.xml
 paginas de a mas
 
 https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/06e1dba2-9430-4d7f-9ae0-f19b5d270a6a:ATL/variant/dcf6488c5b6184c256e866c9f8fddce0/bandwidth/645920.m3u8
