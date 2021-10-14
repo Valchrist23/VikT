@@ -584,6 +584,9 @@ https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7lxkwbzDHpx_LkAbjHWh0wHaE-&pid=Api&P=0&w=282&h=191" group-title="USA", Con TV
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Wired_logo.svg" group-title="USA", Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://watchcharge.com/wp-content/themes/charge/images/chargelogo.png" group-title="USA", Charge
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
