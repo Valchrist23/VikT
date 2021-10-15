@@ -388,11 +388,9 @@ http://185.41.244.69/historia/index.m3u8
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="US",H2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="USA",ID
-https://rapid1.gcdn.co/E100/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="",Discover.Film (720p)
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_(2017_Logo).png" group-title="US",bravo
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
@@ -432,9 +430,10 @@ http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 https://photocall.tv/o6tq/ftv.m3u8?ch=itv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/l/Locomotion.png" group-title="ANIME",LOCOMOTION
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/isojxe/video/1153855460
+http://51.222.85.85:81/hls/loco/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e0/35/f1/e035f1b9fd4042457f76e18c40799069.jpg" group-title="ANIME",Anime Loving
 http://azxtv.com/hls/stream.m3u8
@@ -564,6 +563,7 @@ https://cdn87.theus6tv.tk/locals/SoCal/kcop-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="In",FX
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="In",FX
+no
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="In",FXM
  
@@ -1170,11 +1170,6 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/ff/Epix-hits-logo.jpg/revision/latest?cb=20150930093838" group-title="Movies",epix HITS
 
 https://rapid1.gcdn.co/E62/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ZQml7eWKin0/Uc7udCx8vRI/AAAAAAABwsY/mE4_N4Rkizg/s1600/TOP-CINE-NOVO-LOGOTIPO.jpg" group-title="Global",TV Cine Top
-http://185.236.229.21:9981/play/a04w
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ZQml7eWKin0/Uc7udCx8vRI/AAAAAAABwsY/mE4_N4Rkizg/s1600/TOP-CINE-NOVO-LOGOTIPO.jpg" group-title="Global",TV Cine Action
-http://185.236.229.21:9981/play/a04n
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
