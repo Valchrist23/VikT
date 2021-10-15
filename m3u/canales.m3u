@@ -56,8 +56,10 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1456781176.m3u8
 https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w779578621_b3428000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MX",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
 https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
+#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.imagentv.com/resources/defaults/v2/imagen_default300.png" group-title="MX",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
+http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3 Viejo
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
@@ -273,8 +275,6 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/1280x
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="CANADA",Tastemade
 https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade
-NO sirve https://tastemade-latam-plutolive-vo.akamaized.net/l/hlslive/tastemade/3/tastemade.m3u8?profID=4&n=3&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6IjMyZmYyYWY4LTljNDMtNDQwOS1hOTIwLWEwODYxYzFkOGU2ZiIsImRldmljZVZlcnNpb24iOiI2OS4yLjAuMTcxMyIsImFwcFZlcnNpb24iOiI1LjE0LjAtMGY1Y2EwNGMyMTY0OWI4YzhhYWQ0ZTU2MjY2YTIzYjk2ZDczYjgzYSIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMyLjQyNDgiLCJkZXZpY2VMb24iOiItMTE2Ljg5ODMiLCJkZXZpY2VNb2RlbCI6IndlYiIsInVzZXJJZCI6IiIsImFwcE5hbWUiOiJ3ZWIiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi41MS4wIiwic3RpdGNoZXJSZXFJZCI6ImIyMWY3NGJhLWQ4YmMtNGMwOC1hYTE0LThiOGI5ZWMxNjE1MiIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTg3LjE4OS4yMTcuMjM4IiwiZGV2aWNlRE5UIjowLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzY5LjIuMC4xNzEzIFNhZmFyaS81MzcuMzYiLCJ0cmFuc2FjdGlvbl9pZCI6Ijk0ZjNjMmQ4LWE2YzgtNGJkNi05NGI2LTY2MGFjY2Y1NTQzZCIsImRldmljZVVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdPVzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjkuMi4wLjE3MTMgU2FmYXJpLzUzNy4zNiIsImlwQWRkcmVzcyI6IjE4Ny4xODkuMjE3LjIzOCIsImNoSWQiOiI1Zjk5OGMxZmM1NDg1MzAwMDc5N2JhY2QiLCJ0aW1lbGluZUlkIjoiNjAyNWY0ZWQ2YzYwOWMwMDA3ZTNjYjFiIiwiY2xpcElkIjoiNWZjYWQ0MTIzYjRmNGIwMDA3NzM3ZTU3Iiwic2Vzc2lvbklkIjoiMmNlMDI2MDAtNmY1ZS0xMWViLTljMDItMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWZkM2RmYjE3OTg2YjgwMDA3YWI4N2Y3IiwicGFydG5lckNvZGUiOiJUYXN0ZW1hZGUiLCJwYXJ0bmVyX2lkIjoiNTg4NjRmOTVkZGM3MDcwYzM4MzhhNGI4Iiwib3JpZ2luIjoiYWRTcGFyeCIsImZyb21fc3RpdGNoZXIiOnRydWV9&adsid=AXekj892uv7svgtmRgVe&chname=tastemade&pub=4233f0e7-76be-4539-b82b-762305c6f34d&acsurl=pluto-latam-tass-elb.adsparx.net&mcdn=tastemade-latam-plutolive-vo.akamaized.net%2Fl
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="MX",Tastemade
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="USA",Tastemade
@@ -453,10 +453,12 @@ https://sub2.neetball.net/live/neet.m3u8
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
-https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
+no
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="ANIME",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -633,9 +635,6 @@ https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US", ABC LA
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC DW News (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
@@ -879,7 +878,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/
 workin
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" group-title="Music",MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
@@ -938,7 +936,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
 
 -----------------------------------------Sports----------------------------------------------------------
 
@@ -1113,16 +1110,12 @@ https://stream.allsprk.tv/live/8/index.m3u8
 https://stream.allsprk.tv/live/9/index.m3u8
 -----------------------------------------Movie Channels---------------------------------------------
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV shows 1
-https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten Action
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/3000.m3u8
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV Movies EN
 https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV Movies ES 2
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Esport",ESTV
-https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg" tvg-country="US" tvg-url="" group-title="",&Prive HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 old
@@ -1163,6 +1156,14 @@ https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/10/Gametoon.jpg" group-title="Movies",Gametoons
 https://gametoon-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Cine Edition" tvg-country="ES" tvg-language="English" tvg-logo="https://commons.wikimedia.org/wiki/File:TVCine-EDITION.png" group-title="Doc",TV Cine Edition
+http://185.236.229.21:9981/play/a061
+#EXTINF:-1 tvg-id="TV Cine Edition" tvg-country="ES" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Movies",TV Cine Action
+http://185.236.229.21:9981/play/a04n
+#EXTINF:-1 tvg-id="TV Cine Edition" tvg-country="ES" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="Movies",TV Cine Emotion
+http://185.236.229.21:9981/play/a05z
+#EXTINF:-1 tvg-id="TV Cine Edition" tvg-country="ES" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVCine_TOP_%282020%29.svg/revision/latest?cb=20200324191606" group-title="Movies",TV Cine Top
+http://185.236.229.21:9981/play/a04w
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/1280px-Epix_Logo_2009.svg.png" group-title="Movies",epix
 
