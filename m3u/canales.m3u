@@ -587,6 +587,8 @@ https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tumblr.com/b9byeoh/Dualgtd1f/wired_logo.jpg" group-title="USA", Wired
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+old
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://watchcharge.com/wp-content/themes/charge/images/chargelogo.png" group-title="USA", Charge
