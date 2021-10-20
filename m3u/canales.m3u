@@ -590,7 +590,7 @@ https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tumblr.com/b9byeoh/Dualgtd1f/wired_logo.jpg" group-title="USA", Wired
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
-old
+
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://watchcharge.com/wp-content/themes/charge/images/chargelogo.png" group-title="USA", Charge
@@ -1236,7 +1236,8 @@ http://www.goolgirls.com/tv/adult-new.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
 https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
-
+#EXTINF:-1 tvg-id="FilmonFetishFactory.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="XXX",Filmon Fetish Factory (480p) [Not 24/7]
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Tits
