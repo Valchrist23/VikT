@@ -102,19 +102,21 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="MX",Estrella TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_1425600/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Cortv_Logook.png" group-title="MX",CorTV
+https://stream.oursnetworktv.com/latin/encoder29/chunklist_w583650573.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.oLLKQ84DwZU3R6-GoKXqmQAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",Turistik TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/chunklist_w1526457808.m3u8
 Old
 https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/Mexico-Travel-Internacional-Logo.jpg" group-title="MX",Mexico Travel TV
-https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVEQgL9lpBMLfCR2_EQXzcY)/dm/3/x7v76vf/s/live-1.m3u8
+https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUX_XnwMJFNt_yl4NLVX8aQ)/dm/3/x7v76vf/s/live-1.m3u8
 
 old
+https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVEQgL9lpBMLfCR2_EQXzcY)/dm/3/x7v76vf/s/live-1.m3u8
 https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZX1yZOdQprAYgd5IBsO7lT4)/dm/3/x7v76vf/s/live-1.m3u8
 https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdsoaWkLwZ0xH14a6M3TSYk)/dm/3/x7v76vf/s/live-1.m3u8
-#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20111017105347/logopedia/images/2/23/Travel_xp_hd.png" group-title="MX",Travel XP
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.b7PIHQfP5vKexG6sbfZigQHaHa&pid=Api&P=0&w=300&h=300" group-title="Cooking",Go Traveler
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/1280x720_5000000/index.m3u8
