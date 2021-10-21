@@ -237,6 +237,8 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MX",adn 40
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+works
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 old
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?PlaylistM3UCL
 working res
@@ -267,6 +269,8 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="MX",Telenord 12
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
+
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" group-title="LAT",Tele Sur Costarica
