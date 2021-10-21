@@ -568,6 +568,8 @@ https://cdn87.theus6tv.tk/locals/Fresno/kmsg-53.1.m3u8
 https://cdn87.theus6tv.tk/locals/BayArea/kron-dt1.m3u8
 #EXTINF:-1 tvg-logo="http://images4.wikia.nocookie.net/__cb20100323105306/logopedia/images/e/eb/MyNetworkTV.png" group-title="US",My TV LA
 https://cdn87.theus6tv.tk/locals/SoCal/kcop-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:MNTV-KCWX_Custom_Logo_7-3.png" group-title="US",KCWTV
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/KCOP_13_2021.svg/revision/latest?cb=20210728000624&path-prefix=es" group-title="US",KCop13
 https://cdn87.theus6tv.tk/locals/SoCal/kcop-dt1.m3u8
 
@@ -662,7 +664,8 @@ https://cdn87.theus6tv.tk/locals/SoCal/knbc-dt1.m3u8
 https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC Chicago
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC
+https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US", NBC News NOW
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
