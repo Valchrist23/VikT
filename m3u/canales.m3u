@@ -568,6 +568,8 @@ https://cdn87.theus6tv.tk/locals/Fresno/kmsg-53.1.m3u8
 https://cdn87.theus6tv.tk/locals/BayArea/kron-dt1.m3u8
 #EXTINF:-1 tvg-logo="http://images4.wikia.nocookie.net/__cb20100323105306/logopedia/images/e/eb/MyNetworkTV.png" group-title="US",My TV LA
 https://cdn87.theus6tv.tk/locals/SoCal/kcop-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/KCOP_13_2021.svg/revision/latest?cb=20210728000624&path-prefix=es" group-title="US",KCop13
+https://cdn87.theus6tv.tk/locals/SoCal/kcop-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="In",FX
 http://51.210.199.52/hls/stream.m3u8
@@ -783,9 +785,6 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/1280px-AXN_logo_(2015).svg.png" group-title="US",AXN
 old
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoClaro.png.56f8f5f48692ea77729dbfa92336c4ea.png" group-title="MX",Star Channel
-http://tecnotv.club/oc5/plutotv.php?c=5e793a7cfbdf780007f7eb75
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UeOVgf9g6j8/AAAAAAAAAAI/AAAAAAAAAAA/OC5yCVLgJH8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="US",Bextreme No 24/7
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
