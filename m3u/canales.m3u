@@ -949,7 +949,7 @@ https://www.youtube.com/watch?v=UbmXX4djv2M
 #EXTINF:-1 tvg-logo="https://www.hometheaterforum.com/wp-content/uploads/2020/02/WOW_Logo-1024x266.jpg" group-title="LAT", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO Asia 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies", HBO Asia 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 -----------------------------------------Sports----------------------------------------------------------
@@ -978,6 +978,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbIiJXf.png" group-title="USA",ESPN 
 https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzMlL2N-kabGSYCA0Iukl_MFnaUp_IAmzlwVw=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA",SONY TEN 1 
 https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
 
@@ -1186,8 +1187,6 @@ http://185.236.229.21:9981/play/a04w
 
 https://rapid1.gcdn.co/E62/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
