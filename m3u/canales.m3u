@@ -912,8 +912,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c
 
 #EXTINF:-1 tvg-id="VH1 - Eastern Feed-US" tvg-name="VH1 - Eastern Feed-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-country="US" tvg-url="" group-title="Music",VH1
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" group-title="Music",Sexy KPop
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ZrI38xiYMEAmCbQhQX2qZgHaEI&pid=Api&P=0&w=328&h=184" group-title="Music", FoxMixClub
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
