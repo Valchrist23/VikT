@@ -586,12 +586,6 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images4.wikia.nocookie.net/__cb20100323105306/logopedia/images/e/eb/MyNetworkTV.png" group-title="US",My NetworkTV
 https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://images4.wikia.nocookie.net/__cb20100323105306/logopedia/images/e/eb/MyNetworkTV.png" group-title="US",Players TV
-https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://images4.wikia.nocookie.net/__cb20100323105306/logopedia/images/e/eb/MyNetworkTV.png" group-title="US",Players TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:MNTV-KCWX_Custom_Logo_7-3.png" group-title="US",KCWTV
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
 
@@ -1054,6 +1048,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a617379
 
 old
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.closeup360.com/wp-content/themes/upclose360/images/players-tv-logo.png" group-title="US",Players TV
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.closeup360.com/wp-content/themes/upclose360/images/players-tv-logo.png" group-title="US",Players TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Color-WWE-logo.jpg" group-title="Sports",WWE
 
