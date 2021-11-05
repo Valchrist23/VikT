@@ -16,6 +16,8 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/334-3346615_logo-las-estrellas-logo-de-canal-de-las.png" group-title="MX", Canal de las Estrellas
 http://38.131.11.9:1080/play/a032
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ercXwZmX9f4/UvGgkPicJVI/AAAAAAAAg68/QkVMSmVdTWM/s1600/televisa-logo.jpg" group-title="MX",Televisa
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
 Sex
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/bb/Super_tv.png/revision/latest?cb=20140502214826" group-title="IT",Movies
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
@@ -664,6 +666,8 @@ notwork
 https://smart-tv.livedoomovie.com/02_WarnerTVHD_720p/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US", ABC LA
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+old
 https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US", ABC LA
@@ -721,8 +725,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png" group-title="", TMC
 no
-https://rapid1.gcdn.co/E153/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.tvweek.com/wp-content/uploads/2015/06/Buzzr_TV_Network_Logo.png" group-title="",Buzzar
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 
