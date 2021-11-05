@@ -60,6 +60,7 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1456781176.m3
 https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w779578621_b3428000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MX",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
+https://host.onlineradyotv.net:1936/cine5/cine5/playlist.m3u8
 https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1 tvg-id="ImagenRadio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SINYy29.png" group-title="",Imagen Radio (720p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA/live
