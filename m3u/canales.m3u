@@ -65,9 +65,7 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 #EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.imagentv.com/resources/defaults/v2/imagen_default300.png" group-title="MX",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://www.pngix.com/pngfile/big/68-682493_real-monsters-clear-logo-ahh-real-monsters-logo.png" group-title="ES",Ahh Monsters 24/7
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
-
+not workin
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 
 #EXTINF:-1 tvg-name="Galavision" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="MX",Galavision
@@ -1106,6 +1104,8 @@ https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
 https://linear-239.frequency.stream/dist/localnow/239/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngix.com/pngfile/big/68-682493_real-monsters-clear-logo-ahh-real-monsters-logo.png" group-title="ES",Ahh Monsters 24/7
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://static.next-episode.net/tv-shows-images/huge/mr.-pickles.jpg" group-title="",Mr. Pickles
 https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="24/7",Adult Swim Live Action
