@@ -7,9 +7,9 @@ x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 
 #EXTINF:-1 tvg-logo="https://balboaparkconservancy.org/wp-content/uploads/2016/06/Chanell-12_XEWT-logo_new2018.jpg" group-title="MX", XEWT 12
-https://cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8
-
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
 Not working
+https://cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es" group-title="MX", Canal 5
@@ -59,6 +59,9 @@ https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w77957862
 
 #EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MX",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
 https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
+#EXTINF:-1 tvg-id="ImagenRadio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SINYy29.png" group-title="",Imagen Radio (720p) [Not 24/7]
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA/live
+
 #EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.imagentv.com/resources/defaults/v2/imagen_default300.png" group-title="MX",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 
