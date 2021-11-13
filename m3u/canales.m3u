@@ -570,7 +570,8 @@ https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://190.211.140.13/soltv/img/logomenu.png" group-title="",Sol Televisión
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.suptv.org/images/banner/2.gif" group-title="Movies",suptv
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpYFJHF1mHRZCWmeMVNjdCu1ZrUt6D9wZcXbXlm2KrXmtndSpMZyqDswt_m4dGXvVN_jBcRj3NfY1FSoEwW6NqatPASWMlj9im7WdQGXBhNGXteyzIZsR2xvzFiDbpWfVdLLFdB8NwG1ZQIYnQjNifWnXwx1xePlCDBJdDlC9kmbjkBezWQm-RtW6gFKvYKBuXDtgWdTRi_DDR7Rs2m2qDgOgyJv2AO-UH7uBlTyIMi0peRKq9uExHfmlVlpq55uppx6oY-H0UvR6q6s1S0NlwEnReYcJlr8DijnQVRe-YvmJGSg5Cg1gz7pNYc09O7SIqbHo2Sn1Bk_rw6cH0yuc90OKetdprAaRkidSgy5fKIJgnBo_IsAzTopKVTNEtNP9O5bL64lGPqdJ8fa9WVqYeQ1RZMXk2Z0xJ7mh4PsDwHJEiF471WGKTlBo8VaIDurDtPFkb1Zt1i06xfpHCaBhbuch_lScQtuWEu0MqbpUyBxd8b_Ppsxb19xhPAT4d9H8oVtiNDWc-fUndrUe30O3huyNp0rrBz97wqTtlnzgEEPSJa_R-sp1ggYEfZNzjYxjgANS-X1TSi1mqYQ-tTU-ZiqGZ8Svn9h-ixYqtGV9jhZ-qBfqREWR5fV69u0aOciME-GppLigeGShwPKM21iEJW5rijm7TtVl267-IbFh4KpnD8EM5RbPYgpnX-5XxNdY9rnUMFMuJVoEDNihrmF01qqS7JMGmkjaPHt2Zavl7ZRpc85kupp8qStScov9UgeAz3CVPM3jPJq65EyiD9i3gNll1jF9_jxcowr5h391xGc0ApYW9QNp06DZ9u1NZf8wUmpPr1XKE6MFymomT3vw0i5FHFivLfAqKXWF6idkELJPPpD_40-2yMaDE-pnuG9x9kP6OFCkCABKglldS13ZXN0LTIwpQI.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="SYFY",Comet TV
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
