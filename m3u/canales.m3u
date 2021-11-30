@@ -166,8 +166,6 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name="Telemilenio" tvg-id="" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="SPAIN",Telemilenio
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.OJu0j-4aGYrHv86kC8Y5_QAAAA&pid=Api&P=0&w=300&h=300" group-title="ES",Distro
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/super3_33.png" group-title="ES",Super 33
@@ -241,7 +239,7 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhdtv-tdt.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" group-title="MX", Teleformula
-https://stream-03.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqsKQc2GZVLiNi03N1iNd6Q8)/dm/3/x7u0spq/s/live-1.m3u8
+https://stream-04.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhqGJ9Uw7W2uF3UxWNBnfz0)/dm/3/x7u0spq/s/live-1.m3u8
 
 old
 https://stream-03.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqrwQdJHavUxaojv_OIFGjyM)/dm/3/x7u0spq/s/live-1.m3u8
