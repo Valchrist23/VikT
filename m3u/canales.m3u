@@ -1326,7 +1326,8 @@ http://live.redtraffic.xyz/teen.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/exstasy-2-768x231.png" tvg-country="INT" tvg-url="" group-title="XXX",Extasy TV
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/exstasy-2-768x231.png" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV
+http://cdn.adultiptv.net/milf.m3u8
 ----ChannelLogos----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA",Music Choice
 
