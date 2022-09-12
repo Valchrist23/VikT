@@ -4,7 +4,7 @@ x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
 
 #EXTINF:-1 tvg-id="sintesistv.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV (1080p) [Not 24/7]
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesis_tv
 
 #EXTINF:-1 tvg-logo="https://balboaparkconservancy.org/wp-content/uploads/2016/06/Chanell-12_XEWT-logo_new2018.jpg" group-title="MX", XEWT 12
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
@@ -490,11 +490,12 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush
-#EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
+same
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
-no
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5f762881-f55e-4809-912c-66a4edbf90e6-profile_image-70x70.jpeg" group-title="ANIME",RetroAnime 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/retroanimecalazar01
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="ANIME",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -755,7 +756,7 @@ https://simultv.s.llnwi.net/o062/Switch/interlink.m3u8
 
 #EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Global",Dustx
 https://29955703caa546ac80a889f3df2317f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_Dust/playlist.m3u8?ads.wurl_channel=252&ads.wurl_name=Dust&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
+no
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png" group-title="Global",Galaxy Tv
@@ -1118,8 +1119,9 @@ https://haunttv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-name="Bloody Disgusting" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting (1080p)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dan-vs-logo-AAF91DA33E-seeklogo.com.png" group-title="Cartoon",Dan VS. 24/7
-https://linear-239.frequency.stream/dist/localnow/239/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Malcolm-in-the-Middle-tv-logo.png" group-title="Series",Malcom in the Middle 24/7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/malcon_11
 #EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngix.com/pngfile/big/68-682493_real-monsters-clear-logo-ahh-real-monsters-logo.png" group-title="ES",Ahh Monsters 24/7
@@ -1135,7 +1137,7 @@ http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="LABEL",~ 24/7 Adult Swim Geo-Blocked ~
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/4b/c3/77/4bc377f1cc08a977a7e6e7ca0b9cea29.jpg" group-title="24/7",The Simpsons
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania_original1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/supercampeones/images/f/f8/Supercampeones_Title.png/revision/latest?cb=20110808234016&path-prefix=es" group-title="24/7",Super Campeones
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="Action",Flicks of Fury
