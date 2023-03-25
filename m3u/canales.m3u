@@ -2,6 +2,23 @@
 
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml"
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
+x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/gb.xml"
+x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml"
+x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml"
+x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml"
+x-tvg-url="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
+x-tvg-url="https://web.archive.org/web/20220421094129/https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
+x-tvg-url="http://epg.locomotiontv.com/guia.xml"
+x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
+x-tvg-url="https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml"
+x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+x-tvg-url="https://3db7.xyz/stream/website"
+x-tvg-url="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/blob/master/Menu"
+x-tvg-url="https://fir.gcn.net.tw/iptv-org/"
+x-tvg-url="https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md"
 
 #EXTINF:-1 tvg-id="sintesistv.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV (1080p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesis_tv
