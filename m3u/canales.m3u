@@ -1,10 +1,17 @@
 #EXTM3U
 
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml"
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/972863b843f75c90c6a13920b9af1dc5cdf675e4/PlutoTV/mx.xml
+
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/gb.xml"
+
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/972863b843f75c90c6a13920b9af1dc5cdf675e4/PlutoTV/gb.xml
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml"
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/972863b843f75c90c6a13920b9af1dc5cdf675e4/PlutoTV/all.xml
+
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml"
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml"
 x-tvg-url="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
