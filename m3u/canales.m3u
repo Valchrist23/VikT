@@ -14,8 +14,9 @@ x-tvg-url="http://epg.locomotiontv.com/guia.xml"
 
 https://i.mjh.nz/nz/ canales
 
-----https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
+----https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml
+
 x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
 x-tvg-url="https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml"
