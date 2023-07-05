@@ -35,6 +35,8 @@ x-tvg-url="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/blob/ma
 x-tvg-url="https://fir.gcn.net.tw/iptv-org/"
 x-tvg-url="https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md"
 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rockland_Radio_Logo.jpg" group-title="Music",Rockland Radio
+
 #EXTINF:-1 tvg-id="sintesistv.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV (1080p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/sintesis_tv
 
