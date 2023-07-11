@@ -38,7 +38,8 @@ x-tvg-url="https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md"
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rockland_Radio_Logo.jpg" group-title="Music",Rockland Radio
 
 #EXTINF:-1 tvg-id="sintesistv.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV (1080p) [Not 24/7]
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CssELh0hTw6PyRMF3YTGgTs9F6Iu-h29Mc673I895XKH5rZPN9dwMs4qCYPEKjU3RDs_OSGKINmb1-1PlYKvkr0mrZA42Qe4WrfK-As_vwuVcXhd11Hat2yEMuWRKq-i30umrBaUAbjnEWps06l853y7EAVF1ewSJRiR8xT6z-uOlZFI53uyvq-vfLUOxG1bvzqY2sPZsT8syX5s1u7_Qjvoc6Z6eYcIR1je1nnMev1shCPgBSYJ8JOs_RkXyc5WXlOpHH885NZwZ00vYTfbtRpBleKjTg_vteQuMl6-HDRPn8-y6ZXy5K7NhDA9ntMCleex3VP24ootS4e2kZllZXY0LpHv1Yyxz7czLODxH1UNslGc_4l8aQ0Twpz0YUYpFw2eJO9xvS8BeezYM__s_yo_PSFtGok0wB0HbT08NtYj6nT6c9NN2sKpk4OLxbEx2FI-FuD3aH_sz1xaJyIp_AZh-dlh2LobcrmIBy507SLPWh4hokmvQ-0V3ieRiHDBSm6YFCBSth1g8qcYq4Dvh1y6rJreXxN5jNUBKtMC3KHO6O710EYRA3Ygr4S9YHHIrXjHmMFnDjosy4RnBXgoKCUWg0vNzZOzlctaUMbnJ6jDFxT96bscUVkSrbYHBc7SZwZF4sPzi1OiJnuAW1wkl_rY6XJWf7xdf88jafWa4IhiCzuCzmwwtaR6hMewjr5uSRSvnSikU8AiIGhTCW5KNUnfB0bAFlVhnK5ha2tOqJlNAntDHh0Wux5roIbprlg5u-xcF00wZRImT_F53VcaDG8syXawKQv5LvoVriABKgl1cy1lYXN0LTIwgAc.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://balboaparkconservancy.org/wp-content/uploads/2016/06/Chanell-12_XEWT-logo_new2018.jpg" group-title="MX", XEWT 12
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
